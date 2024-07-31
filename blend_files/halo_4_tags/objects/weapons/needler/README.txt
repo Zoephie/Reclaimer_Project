@@ -1,0 +1,1 @@
+These models were ripped via very crude methods Things like UVs, meshes, textures, may be incorrect or stretched or flat out missing. if you use them just credit microsoft probs best way to avoid problems.
