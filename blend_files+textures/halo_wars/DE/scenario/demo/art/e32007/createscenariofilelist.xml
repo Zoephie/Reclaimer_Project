@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<createScenarioArchive>
+	<push />
+	<add recurseSubdirs="1">art\decals\*.ddx</add>
+	<write>$(WorkPath)\texturePreload.txt</write>
+	<popAndJoin />
+	<add>$(WorkPath)\texturePreload.txt</add>
+	<add>art\ui\flash\minimaps\e32007.ddx</add>
+	<add>art\environment\sky\e3_2007_01_en.ddx</add>
+	<add>art\ui\default_squadmode_01.ugx</add>
+	<add>art\ui\default_objectcommand_01.ugx</add>
+	<add>art\test\testwater_01\*.xpr</add>
+	<add>art\effects\debris\chunk_01.ddx</add>
+	<add>art\effects\debris\chunk_01.ddx</add>
+	<add>art\effects\debris\dirt_02_fx.ddx</add>
+	<add>art\environment\halo\pond_02\e32007_nm.xpr</add>
+	<add>art\unsc\building\bunker_01\bunker_01.ugx</add>
+	<add>art\unsc\infantry\mechanic_01\idle_binos_01.uax</add>
+	<add>art\unsc\infantry\mechanic_01\idle_binos_02.uax</add>
+	<add>art\unsc\infantry\mechanic_01\idle_binos_03.uax</add>
+	<add>art\unsc\infantry\mechanic_01\idle_lightwand_01.uax</add>
+	<add>art\unsc\infantry\mechanic_01\idle_lightwand_02.uax</add>
+	<add>art\unsc\infantry\mechanic_01\idle_lightwand_03.uax</add>
+	<add>art\unsc\infantry\mechanic_01\idle_lightwand_04.uax</add>
+	<add>art\unsc\infantry\mechanic_01\idle_polish_01.uax</add>
+	<add>art\unsc\infantry\mechanic_01\idle_polish_02.uax</add>
+	<add>art\unsc\infantry\mechanic_01\idle_pushups_01.uax</add>
+	<add>art\unsc\infantry\mechanic_01\idle_pushups_02.uax</add>
+	<add>art\unsc\infantry\mechanic_01\idle_pushups_03.uax</add>
+	<add>art\unsc\infantry\mechanic_01\idle_relax_01.uax</add>
+	<add>art\unsc\infantry\mechanic_01\idle_relax_02.uax</add>
+	<add>art\unsc\infantry\mechanic_01\idle_relax_03.uax</add>
+	<add>art\unsc\infantry\mechanic_01\idle_standrelax_01.uax</add>
+	<add>art\unsc\infantry\mechanic_01\idle_weld_01.uax</add>
+	<add>art\unsc\infantry\mechanic_01\idle_weld_02.uax</add>
+	<add>art\unsc\infantry\mechanic_01\jog_01.uax</add>
+	<add>art\unsc\infantry\mechanic_01\walk_01.uax</add>
+	<add>art\unsc\building\bunker_01\bunker_01_ao.ddx</add>
+	<add>art\unsc\building\bunker_01\bunker_01_df.ddx</add>
+	<add>art\unsc\building\bunker_01\bunker_01_nm.ddx</add>
+	<add>art\unsc\building\bunker_01\bunker_01_op.ddx</add>
+	<add>art\unsc\building\bunker_01\bunker_01_sp.ddx</add>
+	<add>art\unsc\building\bunker_01\bunker_01_xf.ddx</add>
+	<add>art\lightsets\*.gls.xmb</add>
+	<add>art\lightsets\*.fls.xmb</add>
+	<remove findDependencies="1">art\campaign\scn04\ship_01\ship_01.vis</remove>
+	<remove findDependencies="1">art\campaign\scn04\ship_02\ship_02.vis</remove>
+	<remove findDependencies="1">art\campaign\scn04\ship_03\ship_03.vis</remove>
+	<remove findDependencies="1">art\campaign\scn04\ship_04\ship_04.vis</remove>
+	<remove findDependencies="1">art\campaign\scn04\ship_05\ship_05.vis</remove>
+	<remove findDependencies="1">art\test\rw_unsc_thumbs\unsc_armory.vis</remove>
+	<remove findDependencies="1">art\test\rw_unsc_thumbs\unsc_barracks.vis</remove>
+	<remove findDependencies="1">art\test\rw_unsc_thumbs\unsc_vehicledepot.vis</remove>
+	<remove findDependencies="1">art\unsc\building\command_02\command_02.vis</remove>
+	<remove findDependencies="1">art\unsc\building\command_03\command_03.vis</remove>
+	<remove findDependencies="1">art\unsc\building\command_04\command_04.vis</remove>
+	<remove findDependencies="1">art\unsc\building\supplypad_01\supplypad_01.vis</remove>
+	<remove findDependencies="1">art\unsc\building\supplypad_02\supplypad_02.vis</remove>
+	<remove findDependencies="1">art\unsc\building\airpadwithbomber_01\airpadwithbomber_01.vis</remove>
+	<remove findDependencies="1">art\unsc\building\airpadwithsilo_01\airpadwithsilo_01.vis</remove>
+	<remove findDependencies="1">art\unsc\building\airpadwithvulture_01\airpadwithvulture_01.vis</remove>
+	<remove findDependencies="1">art\unsc\air\wasp_01\wasp_01.vis</remove>
+	<remove findDependencies="1">art\unsc\building\barracks_01\barracks_01.vis</remove>
+	<remove findDependencies="1">art\unsc\air\falcon_01\falcon_01.vis</remove>
+	<remove findDependencies="1">art\unsc\air\shortsword_01\shortsword_01.vis</remove>
+	<remove findDependencies="1">art\unsc\vehicle\tiger_01\tiger_01.vis</remove>
+	<remove findDependencies="1">art\unsc\vehicle\cougar_01\cougar_01.vis</remove>
+	<remove findDependencies="1">art\unsc\vehicle\fox_01\fox_01.vis</remove>
+	<remove findDependencies="1">art\unsc\vehicle\rhino_01\rhino_01.vis</remove>
+	<remove findDependencies="1">art\unsc\infantry\odst_01\odst_01.vis</remove>
+	<remove findDependencies="1">art\unsc\infantry\badger_01\badger_01.vis</remove>
+	<remove findDependencies="1">art\unsc\air\vulture_01\vulture_01.vis</remove>
+	<remove findDependencies="1">art\effects\environment\harvest\lavaflareup_01.vis</remove>
+	<remove findDependencies="1">art\effects\projectiles\beam\target_beam\target_beam_01.vis</remove>
+	<remove findDependencies="1">art\effects\special\building_repairing_01.vis</remove>
+	<remove findDependencies="1">art\effects\special\unit_empeffect_01.vis</remove>
+	<remove findDependencies="1">art\effects\special\unit_serenacontrol_01.vis</remove>
+	<remove findDependencies="1">art\unsc\infantry\scout_01.vis</remove>
+	<remove findDependencies="1">art\unsc\air\shortsword_01.vis</remove>
+	<remove findDependencies="1">art\unsc\air\wasp_01.vis</remove>
+	<add findDependencies="1">art\effects\projectiles\Beam\scarab_beam\scarabbeam_head_01.vis</add>
+	<add findDependencies="1">art\effects\projectiles\Beam\scarab_beam\scarabbeam_tail_01.vis</add>
+	<add findDependencies="1">art\effects\special\god_bombimpact_01.vis</add>
+	<add findDependencies="1">art\campaign\unit\scarabBoss_01\scarabBoss_destroyed_01.vis</add>
+	<add findDependencies="1">art\campaign\unit\scarabBoss_01\scarabBoss_destroyed_02.vis</add>
+	<add findDependencies="1">art\effects\special\building_repairing_01.vis</add>
+	<add>art\ui\default_squadmode_01.ugx</add>
+	<add>art\ui\default_objectcommand_01.ugx</add>
+	<add>art\ui\default_mesh_squadmode_df.ddx</add>
+	<add>art\ui\default_mesh_objectcommand_df.ddx</add>
+	<add>art\foliage\E3foliageset_02_op.ddx</add>
+	<add>art\foliage\E3foliageset_02_df.ddx</add>
+	<add>art\unsc\prop\unsc_props\unsc_wall_02_sp.ddx</add>
+	<add>art\unsc\prop\unsc_props\unsc_wall_02_nm.ddx</add>
+	<add>art\unsc\prop\unsc_props\unsc_wall_02_df.ddx</add>
+	<add>art\unsc\prop\unsc_props\unsc_wall_02_ao.ddx</add>
+	<add>art\unsc\prop\unsc_props\unsc_wall_01_sp.ddx</add>
+	<add>art\unsc\prop\unsc_props\unsc_wall_01_nm.ddx</add>
+	<add>art\unsc\prop\unsc_props\unsc_wall_01_em.ddx</add>
+	<add>art\unsc\prop\unsc_props\unsc_wall_01_df.ddx</add>
+	<add>art\unsc\prop\unsc_props\unsc_wall_01_ao.ddx</add>
+	<add>art\unsc\prop\unsc_props\grate_03_op.ddx</add>
+	<add>art\unsc\prop\unsc_props\grate_03_df.ddx</add>
+	<add>art\unsc\prop\unsc_props\grate_02_op.ddx</add>
+	<add>art\unsc\prop\unsc_props\grate_02_df.ddx</add>
+	<add>art\unsc\building\command_01\unsc_text_01_op.ddx</add>
+	<add>art\unsc\building\command_01\unsc_text_01_df.ddx</add>
+	<add>art\unsc\building\command_01\command_02_xf.ddx</add>
+	<add>art\unsc\building\command_01\command_02_sp.ddx</add>
+	<add>art\unsc\building\command_01\command_02_em.ddx</add>
+	<add>art\unsc\building\command_01\command_02_ao.ddx</add>
+	<add>art\unsc\building\command_01\command_01_xf.ddx</add>
+	<add>art\unsc\building\command_01\command_01_sp.ddx</add>
+	<add>art\unsc\building\command_01\command_01_em.ddx</add>
+	<add>art\unsc\building\command_01\command_01_ao.ddx</add>
+	<add>art\unsc\building\airpad_01\metal_01_sp.ddx</add>
+	<add>art\unsc\building\airpad_01\metal_01_nm.ddx</add>
+	<add>art\unsc\building\airpad_01\metal_01_df.ddx</add>
+	<add>art\unsc\building\airpad_01\landingpad_01_sp.ddx</add>
+	<add>art\unsc\building\airpad_01\landingpad_01_nm.ddx</add>
+	<add>art\unsc\building\airpad_01\landingpad_01_df.ddx</add>
+	<add>art\resource\supplies\crate_01\nuggets_01_sp.ddx</add>
+	<add>art\resource\supplies\crate_01\nuggets_01_rm.ddx</add>
+	<add>art\resource\supplies\crate_01\nuggets_01_nm.ddx</add>
+	<add>art\resource\supplies\crate_01\nuggets_01_em.ddx</add>
+	<add>art\resource\supplies\crate_01\nuggets_01_df.ddx</add>
+	<add>art\resource\supplies\crate_01\nuggets_01_ao.ddx</add>
+	<add>art\unsc\building\command_04\command_04.ugx</add>
+	<add>art\unsc\building\airpadwithbomber_01\airpadwithbomber_01.ugx</add>
+	<add>Scenario\Demo\Art\E32007\E32007.cam.xsd</add>
+	<addVisDependencies ignoreFailure="1" />
+</createScenarioArchive>
