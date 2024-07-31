@@ -1,0 +1,615 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<Timeline>
+   <LockedImage>img://art\ui\flash\shared\textures\timeline\timeline_locked.ddx</LockedImage>
+
+   <Event>
+      <Name>TheDocks01</Name>
+      <Status>Locked</Status>
+      <Position>1.0</Position>
+      <Title>2498/1/16</Title>
+      <Date>2498/1/16</Date>
+      <DetailText>
+         殖民星アルカディアに DSRA (深宇宙探査ラボ) が開設され、従来の調査船では探査不可能だったブラックホールなどの高重力エリアの研究が開始される。ただし、この DSRA は、2531年のゴヴナント軍による第一次襲撃により壊滅。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event001</Name>
+      <Status>Unlocked</Status>
+      <Position>5.0</Position>
+      <Title>2506</Title>
+      <Date>2506</Date>
+      <DetailText>
+         SPARTAN プロジェクトの前身である ORION プロジェクト (植民地軍事政権による、銀河系外周植民地における極秘任務用スーパーソルジャーの育成計画) 凍結。育成された初代スパルタンたちはそれなりに効果的だったものの、莫大な育成および配備コストに見合うだけの成果は到底得られず、プロジェクト凍結後はさまざまな特殊任務へと散って行った。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event002</Name>
+      <Status>Unlocked</Status>
+      <Position>14.0</Position>
+      <Title>2517/8/17</Title>
+      <Date>2517/8/17</Date>
+      <DetailText>
+         キャサリン ハルゼイ博士と助手のジェイコブ キース中尉が、極秘任務 SPARTAN-II プロジェクトのため、最初の被験者群を調査。ハルゼイ博士は最有力候補であるジョンという名の 6 才の少年を極秘裏に徴用する。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event003</Name>
+      <Status>Unlocked</Status>
+      <Position>15.0</Position>
+      <Title>2517/9/23</Title>
+      <Date>2517/9/23</Date>
+      <DetailText>
+         エリダヌス座イプシロン星系の惑星リーチにおいて、ハルゼイ博士の SPARTAN-II プロジェクトが始動。総勢 75 名の少年少女が、身体的および精神的集中トレーニングを開始。並行して、最先端のバイオテクノロジーを駆使した骨格や筋組織の増強も実施された。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox04</Name>
+      <Status>Locked</Status>
+      <Position>18.0</Position>
+      <Title>2520/7/20</Title>
+      <Date>2520/7/20</Date>
+      <DetailText>
+         ヴェレントミッションの完了に伴い、スピリットオブファイア最後の民間人艦長、アレクサンダー艦長が引退。艦は UNSC に接収され、戦艦への転用計画が始動する。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox05</Name>
+      <Status>Locked</Status>
+      <Position>20.0</Position>
+      <Title>2520/9/1</Title>
+      <Date>2520/9/1</Date>
+      <DetailText>
+         スピリットオブファイアがリーチ軌道衛星造船所にて大規模な改修を終え、支援艦としての軍事任務に就任。初任務はトレバシェット作戦における地上支援とされていた。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>PirthOutskirts01</Name>
+      <Status>Locked</Status>
+      <Position>22.0</Position>
+      <Title>抑制の預言者からの布告</Title>
+      <Date>2524</Date>
+      <DetailText>
+         キグヤー船ピティレスが不浄なる者の屍を持ち込んだことが判明したため、ここに全キグヤー船の調査を命じる。忠実なるサンヘイリはアンゴイのチームを指揮し、全キグヤー船を捜索のうえ、早急に不浄の痕跡を調査せよ。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox11</Name>
+      <Status>Locked</Status>
+      <Position>23.0</Position>
+      <Title>寛容の預言者からの布告</Title>
+      <Date>2524</Date>
+      <DetailText>
+         これよりアンゴイとサンヘイリの中から最も頭脳明晰で教養ある者を選抜し、500 チーム体制で不浄な種族の言語を学習すること。チーム内では、対象言語以外の使用を一切禁止する。以後、この不浄な種族の言語習得は全兵士への義務と定める。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Prophet02</Name>
+      <Status>Locked</Status>
+      <Position>26.0</Position>
+      <Title>『聖戦の真実』第 3 巻より</Title>
+      <Date>2525</Date>
+      <DetailText>
+         悔恨の預言者が最年少の大司祭としてその玉座に就いたのは、ひとえに政治的な駆け引きや策略を駆使した結果だった。彼は、古代文明の AI である「オラクル」から、人類がフォアランナーの末裔であるという衝撃的な事実、すなわちコヴナントの信仰がそもそも誤解に基づくものであるという事実を聞かされた一人だったのだ。それにもかかわらず、人類を滅亡させることで真実を隠ぺいしようとした彼らの決断は、今日もなお議論の対象となっている。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+   <Event>
+      <Name>Chasms01</Name>
+      <Status>Locked</Status>
+      <Position>27.0</Position>
+      <Title>真実の預言者からの布告</Title>
+      <Date>2525</Date>
+      <DetailText>
+         コヴナントに名を連ねる者すべてに告ぐ。全戦闘部隊は直ちにインディアン座イプシロン星へ急行し、戦闘を開始せよ。現地の知的生命体を根絶できなかった場合は厳罰に処す。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event004</Name>
+      <Status>Unlocked</Status>
+      <Position>28.0</Position>
+      <Title>2525/2/3</Title>
+      <Date>2525/2/3</Date>
+      <DetailText>
+         農業殖民星ハーベストとの通信が途絶。通信再確立は失敗に終わり、最悪のケースが危惧される。一方、惑星リーチ付近の ONI 施設では、SPARTAN-II 候補生たちに対する身体能力強化手術が開始されようとしていた。その結果、数多くの候補者が「脱落」、身体の自由や生命を失うこととなる。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Arbiter01</Name>
+      <Status>Locked</Status>
+      <Position>29.0</Position>
+      <Title>『聖戦の真実』第 3 巻より</Title>
+      <Date>2525</Date>
+      <DetailText>
+         この新しいアービターは死を恐れはしなかったが、その彼ですら、いにしえの遺跡内部に秘められた謎には慎重を期した。彼は、まずアンゴイを一部隊、遺跡内部に送りこみ、危険をチェックさせた。少しでも危険を感知した場合、アンゴイたちのメタンタンクに取り付けたプラズマ爆弾を爆発させる計画だった。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event005</Name>
+      <Status>Unlocked</Status>
+      <Position>30.0</Position>
+      <Title>2525/4/20</Title>
+      <Date>2525/4/20</Date>
+      <DetailText>
+         ハーベストの調査に派遣された偵察艇アルゴとの通信が途絶。これを受け、UNSC はより大規模な艦隊の準備を開始する。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Arbiter02</Name>
+      <Status>Locked</Status>
+      <Position>31.0</Position>
+      <Title>『聖戦の真実』第 3 巻より</Title>
+      <Date>2525</Date>
+      <DetailText>
+         就任早々、大きな試練が新たなアービターを待ち受けていた。巨大な宇宙基地付近で発見された遺跡には、いにしえのテクノロジーを起動する鍵が存在すると信じられていたが、新しい預言者たちのやり方に異を唱える一部のエリートが厳重に守りを固め、その勢力は日増しに拡大しつつあった。アービターは幾日にも及ぶ戦いの末、これを鎮圧。鍵は発見されなかったが、エリートの反乱分子による妨害は排除された。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event006</Name>
+      <Status>Unlocked</Status>
+      <Position>32.0</Position>
+      <Title>2525/10/7</Title>
+      <Date>2525/10/7</Date>
+      <DetailText>
+         D 艦隊がハーベストに到着し、コヴナントと交戦。しかしたった一隻のコヴナント艦に三隻のうち二隻を撃破され、リーチへと退却する。この戦闘の際、「人類の壊滅は神の意志である... 我々は神の使いなのだ」という、コヴナントからの音声メッセージが送信された。このメッセージは英語であったため、コヴナントが人類を研究していたことが推察された。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>FrozenValley01</Name>
+      <Status>Locked</Status>
+      <Position>33.0</Position>
+      <Title>2525/11/1</Title>
+      <Date>2525/11/1</Date>
+      <DetailText>
+         UNSC 軍は厳戒態勢を敷き、ハーベスト奪還の準備を進める。植民地軍事政権の戦闘部隊は、「有事」のため臨戦統一司令部の指揮下におかれる。SPARTAN-II プロジェクトでは、新たなスパルタン用アーマー MJOLNIR の開発が完了。計画は最終局面に入った。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Tundra01</Name>
+      <Status>Locked</Status>
+      <Position>34.0</Position>
+      <Title>2525/11/27</Title>
+      <Date>2525/11/27</Date>
+      <DetailText>
+         SPARTAN-II プロジェクトによって育成されたスパルタンたちを MJOLNIR アーマー装備のため、くじら座カイ-4 星のダマスカス材質試験施設へと移送。未知のエイリアン艦が軌道上の支援艦に迫りつつある中、性能テストに許された時間はわずか数時間だった。その直後、スパルタン三名が敵艦侵入に成功。初めてコヴナント軍と交戦し、エナジーシールド ガントレットを入手するが、この戦闘で一名が犠牲となる。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Prophet01</Name>
+      <Status>Locked</Status>
+      <Position>35.0</Position>
+      <Title>悔恨の預言者からの布告</Title>
+      <Date>2525</Date>
+      <DetailText>
+         くじら座カイ星系での恥辱は何たることか。不浄の者どもの侵入を許すなど、これほどの不信の罪は断じて許容できるものではない。早急に調査班を組織し、入手した武器や防具を調査して今後の戦闘に備えよ。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event007</Name>
+      <Status>Unlocked</Status>
+      <Position>36.0</Position>
+      <Title>2526 年 ハーベストの戦い</Title>
+      <Date>2526</Date>
+      <DetailText>
+         ハーベストの戦いにおいて、史上最大級を誇るプレストン コール中将の戦艦がコロニーを破滅させたエイリアンの戦艦と接触し、これを撃破。土壇場におけるコール中将の戦術的ひらめきが戦況を一変させた。コール中将は地球に帰還後、提督に昇進した。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>TerminalMoraine01</Name>
+      <Status>Locked</Status>
+      <Position>37.0</Position>
+      <Title>悔恨の預言者からの布告</Title>
+      <Date>2526</Date>
+      <DetailText>
+         インディアン座イプシロン星での勝利を断食と祈りで祝うべし。アンゴイとキグヤーへの食料供給は、これより三労働期の間、停止を命じる。サンヘイリとジラルハネイは、それぞれ二期間にわたり祈りを捧げること。また、本日五点鐘の際、この戦いで任務を怠った者どもの公開処刑を執り行うので、全員必ず集合のこと。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Cutter01</Name>
+      <Status>Locked</Status>
+      <Position>39.0</Position>
+      <Title>2528/1/30</Title>
+      <Date>2528/1/30</Date>
+      <DetailText>
+         カッター艦長が駆逐艦プロフェシーの司令官職のオファーを辞退。その理由が「家族のそばを離れたくない」という極めて個人的な理由であったことから、ONI による心理調査が実施され、その結果、高い指揮能力を有するものの家庭最優先の傾向が強く、現職以上のポストには不適合との判断が下された。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Brute01</Name>
+      <Status>Locked</Status>
+      <Position>40.0</Position>
+      <Title>事件報告 16-196901</Title>
+      <Date>2528</Date>
+      <DetailText>
+         第二シフトの三点鐘の際、治安部隊がジラルハネイチーフの執務室に召集された。彼らが到着した時点で、ドアは枠から引きはがされ、廊下には判別不明の肉片が散乱していた (添付図を参照)。調査の結果、肉片は第四デッキのキッチンに配属されていた二対のアンゴイの一部と判明。すでに冷静さを取り戻していたチーフの説明によると、昼食が指示どおりではなかった (ソーンビーストの肉は焼きすぎの上、ソースも十分でなかった) とのこと。修繕担当者に連絡すると共に、D4 キッチン責任者への正式処分勧告が通達された。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Forge01</Name>
+      <Status>Locked</Status>
+      <Position>42.0</Position>
+      <Title>2530/8/17</Title>
+      <Date>2530/8/17</Date>
+      <DetailText>
+         フォージ軍曹が上官への暴行の罪により投獄される。あわや不名誉除隊というところ、コール提督の仲裁により調査が公正に行なわれなかったことが判明。被害者の上官は軍法会議にかけられ、フォージ軍曹はスピリット オブ ファイアに転属となり、事件は決着を見た。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Anders01</Name>
+      <Status>Locked</Status>
+      <Position>43.0</Position>
+      <Title>アンダースの日誌 (2531/1/30)</Title>
+      <Date>2531/1/30</Date>
+      <DetailText>
+         ラストグリーミング号に乗船すると、案内された自分の部屋のドアには「アンダース博士」と書かれていた。私がこの肩書きで呼ばれる日を、母はどんなに待ち望んでいたことか。この極秘調査の旅は、ある意味母の願いをかなえるためのものといえるかもしれない。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox03</Name>
+      <Status>Locked</Status>
+      <Position>44.0</Position>
+      <Title>悔恨の預言者からの通達</Title>
+      <Date>2531</Date>
+      <DetailText>
+         人間どもが「ハーベスト」と称する惑星へ至急集結せよ。大いなる旅立ちのため、聖なる遺跡の秘密を解明せねばならぬ。人間どもが遺跡に立ち入らぬよう、あらゆる手段を講じるべし。この通達に従わぬ者は厳罰に処す。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox01</Name>
+      <Status>Locked</Status>
+      <Position>45.0</Position>
+      <Title>2531/2/4</Title>
+      <Date>2531/2/4</Date>
+      <DetailText>
+         UNSC 支援艦スピリット オブ ファイアがハーベストの軌道に到着。コール提督の艦隊が他のエリアで交戦中のため、艦隊司令部はカッター艦長に、コヴナントの活動調査と、以前同じ任務で派遣され消息を絶っている UNSC 駆逐艦プロフェシーの生存者捜索を命令。同艦には、ONI から派遣された調査員アンダース教授が同乗した。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox09</Name>
+      <Status>Locked</Status>
+      <Position>46.0</Position>
+      <Title>2531/2/6</Title>
+      <Date>2531/2/6</Date>
+      <DetailText>
+         アンダース教授が父親あてに、ホメロス著『オデッセイ』に関する評論を送信。実際の内容は、惑星ハーベストでの調査と発見に関する報告を暗号化したメッセージだった。この記録は ONI の検閲をくぐり抜け、無修正のまま父親の元へ無事に届けられた。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox02</Name>
+      <Status>Locked</Status>
+      <Position>48.0</Position>
+      <Title>2531/2/7</Title>
+      <Date>2531/2/7</Date>
+      <DetailText>
+         スピリット オブ ファイアで UNSC 駆逐艦プロフェシーのクルーの追悼式典が行われ、ONI の反対を押し切り、全搭乗員の氏名が読みあげられた。プロフェシーはハーベスト北極圏におけるコヴナントの活動調査のため、現地に派遣されたが、その軌道上で敵の攻撃を受け犠牲となった。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+   
+   <Event>
+      <Name>BlackBox07</Name>
+      <Status>Locked</Status>
+      <Position>49.0</Position>
+      <Title>2531/2/9</Title>
+      <Date>2531/2/9</Date>
+      <DetailText>
+         ハーベスト地上におけるコヴナント軍との交戦を経て、スピリット オブ ファイアがアルカディアに到着。しかし、すでにここでもコヴナントの侵略は始まっていた。カッター艦長は地上部隊を送り、敵の攻撃を食い止め、市民の避難援助のため兵力を展開する。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox06</Name>
+      <Status>Locked</Status>
+      <Position>50.0</Position>
+      <Title>悔恨の預言者からの通達</Title>
+      <Date>2531</Date>
+      <DetailText>
+         アービターよ、コヴナントの、そしてこの私の忠実なるしもべとして、為すべき事はわかっておろう。地表に戻り、ハーベストで生意気にも我々を出しぬいたあの人間の女を捕えるのだ。あれが、いにしえの秘密を解く鍵となるかもしれぬ。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox08</Name>
+      <Status>Locked</Status>
+      <Position>51.0</Position>
+      <Title>2531/2/10</Title>
+      <Date>2531/2/10</Date>
+      <DetailText>
+         アンダース教授救出のため、カッター艦長はコヴナント艦の追跡を余儀なくされる。艦載 AI による目的地への到着予想時刻は 312 時間後。艦は厳戒態勢を維持しつつも、必須要員以外のクルーは短期のコールドスリープに入った。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Forge02</Name>
+      <Status>Locked</Status>
+      <Position>52.0</Position>
+      <Title>2531/2/11</Title>
+      <Date>2531/2/11</Date>
+      <DetailText>
+         アンダース教授を乗せたコヴナント艦の撃墜を進言した SPARTAN-042 ダグラスにフォージ軍曹が詰め寄り、椅子やドアを破損する事態にヒートアップ。艦載 AI セリーナが仲裁に入り、ようやく収束する。この一件をきっかけに、以後 SPARTAN-042 とフォージ軍曹は常に一緒に食事を取る仲となる。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox10</Name>
+      <Status>Locked</Status>
+      <Position>54.0</Position>
+      <Title>2531/2/14</Title>
+      <Date>2531/2/14</Date>
+      <DetailText>
+         もはや帰還の可能性が低いことを悟ったセリーナが、それぞれの家族からを装った偽のバレンタイン メールを各クルーに送信。文面はそれまでのメール交信を参考にセリーナが作成したもので、誰もが本物と信じて疑わなかった。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox12</Name>
+      <Status>Locked</Status>
+      <Position>56.0</Position>
+      <Title>『聖戦の真実』第 3 巻より</Title>
+      <Date>2531</Date>
+      <DetailText>
+悔恨の預言者が起動しようとしたシールドワールドは、コヴナントがヘイロー捜索の過程で発見した古代のテクノロジーのひとつだった。コヴナントはこのテクノロジーの宝庫から強力な兵器と宇宙空間推進システムを獲得、宇宙侵略をさらに着実なものにするはずだった。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox13</Name>
+      <Status>Locked</Status>
+      <Position>57.0</Position>
+      <Title>2531/2/23</Title>
+      <Date>2531/2/23</Date>
+      <DetailText>
+スピリット オブ ファイアが未知の惑星に到達。そこには不気味な謎の生命体が繁殖していた。同日のうちに艦は惑星内部に引き込まれ、コヴナントに遭遇。交戦の末、アンダース教授の救出に成功する。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Exile01</Name>
+      <Status>Locked</Status>
+      <Position>58.0</Position>
+      <Title>カッター艦長の航海日誌 (2531/2/25)</Title>
+      <Date>2531/2/25</Date>
+      <DetailText>
+軌道 - 地上間の輸送に当たる降下艇は、4 , 5 回の降下で必ず故障した。大気圏の突入後に空気の吸入口に吸着した物体を見ると、まるで惑星それ自身が意思を持って、宇宙からの侵略者を拒んでいるかのようだった。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox15</Name>
+      <Status>Locked</Status>
+      <Position>59.0</Position>
+      <Title>2531/2/25</Title>
+      <Date>2531/2/25</Date>
+      <DetailText>
+         フォージ軍曹という大きな犠牲を払い、スピリット オブ ファイアはフォアランナーのシールドワールドから脱出、帰還の途につく。これから何年、もしくは何十年と続くであろう救援待機に備え、クルーの大半がコールドスリープの準備を開始した。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Release01</Name>
+      <Status>Locked</Status>
+      <Position>60.0</Position>
+      <Title>オニール軍医長の日誌 (2531/2/26)</Title>
+      <Date>2531/2/26</Date>
+      <DetailText>
+         遺体の焼却処分には反対する者も多かったが、乗組員の安全や感染力の強さを考えると、遺体を艦内に収容するわけにはいかなかった。また、隔離施設もない艦内では、伝染経路すらまるでわからないこの未知のウィルスを研究することも不可能だった。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox14</Name>
+      <Status>Locked</Status>
+      <Position>62.0</Position>
+      <Title>2531/3/1</Title>
+      <Date>2531/3/1</Date>
+      <DetailText>
+         プレスコット技師長による損傷調査が完了、引き続き船体修理が開始された。FTL リアクターの予備はなく、またベース リアクターユニットからスペアを製造することも不可能だった。艦は基幹要員だけで運行し、その他のクルーはコールドスリープにて待機との決断が下された。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Anders02</Name>
+      <Status>Locked</Status>
+      <Position>63.0</Position>
+      <Title>カッター艦長の航海日誌 (2531/3/3)</Title>
+      <Date>2531/3/3</Date>
+      <DetailText>
+         アンダース教授はコヴナントに拉致されたことで、史上最も有名な戦争捕虜となった。カウンセリングも受けず、捕らわれていた間のことはほとんど語らないが、想像を絶するような恐ろしい体験だったであろうことは間違いない。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Labyrinth01</Name>
+      <Status>Locked</Status>
+      <Position>64.0</Position>
+      <Title>アンダースの日誌 (2531/3/4)</Title>
+      <Date>2531/3/4</Date>
+      <DetailText>
+         この「星」の人工建造物は、コヴナントのテクノロジーレベルをはるかに超越していた。実際コヴナントは、テクノロジーを発見はしたものの、使うことはかなわなかったようだ。あの装置を起動するために私の手が必要だったということは、ここの本来の創造主たちは、人類に関する何らかの知識を有していたと思わざるを得ない。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Cutter02</Name>
+      <Status>Locked</Status>
+      <Position>68.0</Position>
+      <Title>2531/3/12</Title>
+      <Date>2531/3/12</Date>
+      <DetailText>
+         カッター艦長は艦内を見回り、医務室に立ち寄って療養中のクルーを見舞った。ハーシー看護師にも、必ず帰還の方法を見つけて夫と再会できることを約束。その後、艦長室に戻って 5 人分の報奨願いと 14 人分の慰霊の手紙、それに妻への手紙をしたため、二週間ぶりの眠りについた。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Repository01</Name>
+      <Status>Locked</Status>
+      <Position>70.0</Position>
+      <Title>2534/2/10</Title>
+      <Date>2534/2/10</Date>
+      <DetailText>
+         UNSC はスピリット オブ ファイアのステータスを「行方不明」から「遭難」に変更。変更理由は最高機密とされた。これに伴い、クルーの葬儀が行われたが、希望を捨てきれない大半の家族は出席を拒否した。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event008</Name>
+      <Status>Unlocked</Status>
+      <Position>73.0</Position>
+      <Title>2536/6/1</Title>
+      <Date>2536/6/1</Date>
+      <DetailText>
+         コヴナント軍が銀河系内に怒涛のごとく押し寄せ、ついにインナーコロニー (銀河系内周植民星群) への襲撃が始まった。人類が甚大な犠牲の上に局地戦、それも主に地上戦で時折辛勝を収める一方、宇宙空間での戦闘はコヴナントの一方的な圧勝が続き、やがて人類の殖民星は次々と陥落していった。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BeasleysPlateau01</Name>
+      <Status>Locked</Status>
+      <Position>84.0</Position>
+      <Title>2549/9/9</Title>
+      <Date>2549/9/9</Date>
+      <DetailText>
+         第二次アルカディア陥落。2531 年の最初の襲撃以後、コヴナントの攻撃は途絶えていたが、首都パースを含めて積極的な復興は未着手のままだった。やがて、ムー大陸の豊穣な地域において農業共同体アバスクンが形成され、無法地帯ではありつつも UNSC にとって貴重な食料供給地点となっていたが、2549 年のコヴナント再侵攻により再び陥落した。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>FortDeen01</Name>
+      <Status>Locked</Status>
+      <Position>86.0</Position>
+      <Title>真実の預言者からの布告</Title>
+      <Date>2550</Date>
+      <DetailText>
+         新造戦艦へのルミナリー設置作業に遅れが生じているとの報告が入っている。ルミナリーの設置が未完了の戦艦は、アンゴイの作業員を 64 名中 1 名の割合で処刑せよ。監督者のサンヘイリとアンゴイ間の秩序を保つため、処刑対象者の選抜と処刑はキグヤーが行うこと。これは全戦艦へのルミナリー設置作業が完了するまで毎日実行するものとする。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BloodGulch01</Name>
+      <Status>Locked</Status>
+      <Position>90.0</Position>
+      <Title>2552/8/27</Title>
+      <Date>2552/8/27</Date>
+      <DetailText>
+         生き残った 28 名の第二世代スパルタンたちのうち、SPARTAN-117 を含む 25 名はリーチに呼び戻され、コヴナントの脅威と新たな任務について知らされる。任務の内容は、「スペシャリスト」を伴って損傷したコヴナント艦に潜入し、コンピューターシステムをハッキングしてコヴナントの母星の位置を突き止めることだった。計画ではその後、特殊チームを派遣してコヴナントのリーダーを確保し、休戦を迫ることになっていた。いくらかの勝利を収めてはいたものの確実に戦力を削られつつある人類にとって、これは最後の賭けだった。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event009</Name>
+      <Status>Unlocked</Status>
+      <Position>92.0</Position>
+      <Title>2552/8/30 - 04:00</Title>
+      <Date>2552/8/30</Date>
+      <DetailText>
+         ONI の CASTLE 施設の所在地、および SPARTAN-II プロジェクトの本拠地である惑星リーチがコヴナントの大軍に襲撃される。キース艦長率いる戦艦オータムはスパルタンの移送を担い、同時にコヴナント艦の奪取を狙うも失敗に終わる。地球の所在地がコヴナントに知られる事態は回避できたものの、人類はスパルタンの大半と惑星リーチを同時に失う。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event010</Name>
+      <Status>Unlocked</Status>
+      <Position>93.0</Position>
+      <Title>2552/8/30 - 05:00</Title>
+      <Date>2552/8/30</Date>
+      <DetailText>
+         キース艦長率いる戦艦オータムが、コヴナント艦に追跡されつつも惑星リーチを脱出。艦の損傷は激しかったがスリップスペースへのブラインドジャンプに成功し、辛うじて危機を逃れる。戦艦オータムには、惑星リーチでの戦闘を生き延びた唯一のスパルタンが同乗していた。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Crevice01</Name>
+      <Status>Locked</Status>
+      <Position>98.0</Position>
+      <Title>真実の預言者からの布告</Title>
+      <Date>2552</Date>
+      <DetailText>
+         本日の第二休息期に、全モニターにて艦隊パティキュラージャスティスの元最高司令官サンヘイリの処罰を放映する。この処罰は、任務の失敗、司令官にあるまじき小心、および不信の罪によるものである。全員謹んでモニター前に集合し、これを見届けるように。
+</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Brute02</Name>
+      <Status>Locked</Status>
+      <Position>99.0</Position>
+      <Title>真実の預言者からの布告</Title>
+      <Date>2552</Date>
+      <DetailText>
+         ジラルハネイの功績をたたえ、戦艦プロファウンド ソリチュード、トランキル コンポージャー、インナー ナレッジのサンヘイリ乗組員は、全員ジラルハネイと交代のうえ、他の任務への転属を命じる。また、受刑中の全ジラルハネイはすべて赦免のうえ釈放することをここに通達する。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+</Timeline>

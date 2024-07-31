@@ -1,0 +1,6 @@
+<physics>
+   <blueprint>cpgn_scn02_detonator</blueprint>
+   <ThrownByBallistics>false</ThrownByBallistics>
+   <DestroyedByBallistics>true</DestroyedByBallistics>
+   <MotionType>fixed</MotionType>
+</physics>

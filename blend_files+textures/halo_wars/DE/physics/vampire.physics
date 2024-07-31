@@ -1,0 +1,7 @@
+<physics>
+   <blueprint>vampire</blueprint>
+   <ThrownByProjectiles>true</ThrownByProjectiles>
+   <Vehicle>vampire</Vehicle>
+   <CenterOffset>0, 0.28, 0.0</CenterOffset>
+</physics>
+	

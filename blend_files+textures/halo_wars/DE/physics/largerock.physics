@@ -1,0 +1,10 @@
+<physics>
+   <blueprint>largeRock</blueprint>
+   <ThrownByProjectiles>true</ThrownByProjectiles>
+   <Vehicle>false</Vehicle>
+   <PhysicsOnDeath>true</PhysicsOnDeath>
+   <ImpactEffect></ImpactEffect>
+   <ImpactSound></ImpactSound>
+   <ImpactMinVelocity></ImpactMinVelocity>
+  <!-- <CenterOffset>0.0 5.0 0.0</CenterOffset> -->
+</physics>

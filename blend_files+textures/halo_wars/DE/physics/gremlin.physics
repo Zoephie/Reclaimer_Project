@@ -1,0 +1,21 @@
+<physics>
+   <blueprint>gremlin</blueprint>
+   <ThrownByProjectiles>true</ThrownByProjectiles>
+   <Vehicle>gremlin
+      <info>
+         <chassisInertia yaw="3.0" pitch="3.0" roll="2.4"></chassisInertia>
+         <suspension springLength="1.3" wheelRadius="1.0" springStrength="40.0" dampingCompression="2.5" dampingRelaxation="2.5" normalClippingAngle="0.1"></suspension>
+         <hardpoints>
+            <hardpoint>-3.0, -0.25,  4.0</hardpoint>>
+            <hardpoint> 3.0, -0.25,  4.0</hardpoint>>
+            <hardpoint>-3.0, -0.25, -2.0</hardpoint>>
+            <hardpoint> 3.0, -0.25, -2.0</hardpoint>>
+            <hardpoint>-3.0, -0.25, -5.0</hardpoint>>
+            <hardpoint> 3.0, -0.25, -5.0</hardpoint>>
+         </hardpoints>
+      </info>
+   </Vehicle>
+   <CenterOffset>0, 1.90, 0.0</CenterOffset>
+   <TerrainEffects>effects\terraineffects\cobra_physics</TerrainEffects>
+</physics>
+	

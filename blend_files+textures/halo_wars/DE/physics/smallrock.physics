@@ -1,0 +1,6 @@
+<physics>
+   <blueprint>smallRock</blueprint>
+   <ThrownByProjectiles>true</ThrownByProjectiles>
+   <Vehicle>false</Vehicle>
+   <PhysicsOnDeath>true</PhysicsOnDeath>   
+</physics>

@@ -1,0 +1,11 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<cinimaticCaption>
+	<caption startFrame="470" endFrame="495" color="4294967295">CUTTER: Hard starboard!</caption>
+	<caption startFrame="500" endFrame="540" color="4294967295">SERINA: Hard starboard, aye!</caption>
+	<caption startFrame="910" endFrame="960" color="4294967295">SERINA: Captain! They are charging weapons!</caption>
+	<caption startFrame="970" endFrame="1025" color="4294967295">CUTTER: Battle stations! Bring weapons online.</caption>
+	<caption startFrame="1030" endFrame="1100" color="4294967295">Tell Forge he's not done out there yet.</caption>
+	<caption startFrame="1110" endFrame="1160" color="4294967295">SERINA: Alerting the Sergeant - aye sir.</caption>
+	<caption startFrame="1330" endFrame="1395" color="4294967295">SERINA: So...am I the only one freaked out by the fact</caption>
+	<caption startFrame="1400" endFrame="1450" color="4294967295"> we're inside the planet?</caption>
+</cinimaticCaption>

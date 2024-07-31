@@ -1,0 +1,6 @@
+<physics>
+   <blueprint>fld_bldg_spawner_01</blueprint>
+   <ThrownByBallistics>false</ThrownByBallistics>
+   <DestroyedByBallistics>true</DestroyedByBallistics>
+   <MotionType>fixed</MotionType>
+</physics>

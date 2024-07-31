@@ -1,0 +1,7 @@
+<physics>
+   <blueprint>sentinel</blueprint>
+   <ThrownByProjectiles>true</ThrownByProjectiles>
+   <Vehicle>sentinel</Vehicle>
+   <CenterOffset>0, 0.28, 0.0</CenterOffset>
+</physics>
+	

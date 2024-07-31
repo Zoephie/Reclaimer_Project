@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<ScenarioDescriptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<ScenarioInfo MapName="img://art\ui\flash\pregame\textures\temp.ddx" MaxPlayers="6" NameStringID="22323" InfoStringID="22323" Type="Playtest" File="skirmish\design\beta_3v3_arabia\beta_3v3_arabia.scn" />
+	<ScenarioInfo MapName="img://art\ui\flash\pregame\textures\temp.ddx" MaxPlayers="2" NameStringID="22600" InfoStringID="22323" Type="Playtest" File="skirmish\design\beta_1v1_cross\beta_1v1_cross.scn" />
+	<ScenarioInfo MapName="img://art\ui\flash\pregame\textures\temp.ddx" MaxPlayers="4" NameStringID="22551" InfoStringID="22323" Type="Playtest" File="skirmish\design\beta_2v2_halo\beta_2v2_halo.scn" />
+</ScenarioDescriptions>

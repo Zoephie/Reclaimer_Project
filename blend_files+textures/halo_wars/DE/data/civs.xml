@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Civs>
+	<Civ>
+		<Name>Gaia</Name>
+	</Civ>
+	<Civ>
+		<Name>UNSC</Name>
+		<CivTech>unsc_basic</CivTech>
+		<DisplayNameID>22200</DisplayNameID>
+		<CommandAckObject>sys_marker_command_01</CommandAckObject>
+		<RallyPointObject>sys_marker_rally_01</RallyPointObject>
+		<LocalRallyPointObject>sys_marker_localRally_01</LocalRallyPointObject>
+		<ExpandHull>0</ExpandHull>
+		<TerrainPushOff>0</TerrainPushOff>
+		<BuildingMagnetRange>6</BuildingMagnetRange>
+		<Transport>unsc_air_pelican_01</Transport>
+		<TransportTrigger>unsc_air_pelican_01</TransportTrigger>
+		<SoundBank>ui_unsc.bnk</SoundBank>
+		<LeaderMenuNameID>118</LeaderMenuNameID>
+		<PowerFromHero>false</PowerFromHero>
+		<UIControlBackground>img://art\ui\flash\shared\textures\civ\CivPict_unsc.ddx</UIControlBackground>
+	</Civ>
+	<Civ Alpha="0">
+		<Name>Covenant</Name>
+		<DisplayNameID>22201</DisplayNameID>
+		<CivTech>cov_basic</CivTech>
+		<CommandAckObject>sys_marker_command_01</CommandAckObject>
+		<RallyPointObject>sys_marker_rally_01</RallyPointObject>
+		<LocalRallyPointObject>sys_marker_localRally_01</LocalRallyPointObject>
+		<ExpandHull>0</ExpandHull>
+		<TerrainPushOff>0</TerrainPushOff>
+		<BuildingMagnetRange>6</BuildingMagnetRange>
+		<Transport>cov_air_spirit_01</Transport>
+		<TransportTrigger>cov_air_spirit_trigger_01</TransportTrigger>
+		<SoundBank>ui_covenant.bnk</SoundBank>
+		<LeaderMenuNameID>119</LeaderMenuNameID>
+		<PowerFromHero>true</PowerFromHero>
+		<UIControlBackground>img://art\ui\flash\shared\textures\civ\CivPict_covenant.ddx</UIControlBackground>
+	</Civ>
+</Civs>

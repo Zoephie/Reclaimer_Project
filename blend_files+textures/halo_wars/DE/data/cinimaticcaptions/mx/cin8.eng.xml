@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<cinimaticCaption>
+	<caption startFrame="180" endFrame="260" color="4294967295">FORGE: ¿Hace uno para el registro, profesora?</caption>
+	<caption startFrame="270" endFrame="345" color="4294967295">ANDERS: Si no le importa, estoy intentando documentar</caption>
+	<caption startFrame="350" endFrame="400" color="4294967295">esta zona para su estudio.</caption>
+	<caption startFrame="830" endFrame="890" color="4294967295">INQUISIDOR: Tú te vienes conmigo.</caption>
+	<caption startFrame="910" endFrame="955" color="4294967295">FORGE: ¿Por qué no sueltas a la señorita y lo hablamos</caption>
+	<caption startFrame="960" endFrame="1040" color="4294967295">de hombre a monstruo?</caption>
+	<caption startFrame="1050" endFrame="1110" color="4294967295">INQUISIDOR: Como desees.</caption>
+	<caption startFrame="1470" endFrame="1495" color="4294967295">ANDERS: ¡¡ALTO!!</caption>
+	<caption startFrame="1500" endFrame="1545" color="4294967295">FORGE: ¡Anders! ¡Fuera de aquí!</caption>
+	<caption startFrame="1550" endFrame="1610" color="4294967295">ANDERS: No opondré resistencia si la dejas vivir.</caption>
+	<caption startFrame="2260" endFrame="2295" color="4294967295">SPARTAN: ¿Señor?</caption>
+	<caption startFrame="2300" endFrame="2480" color="4294967295">FORGE: Estoy bien. Spirit of Fire, aquí Forge. He perdido a Anders.</caption>
+	<caption startFrame="2490" endFrame="2510" color="4294967295">CUTTER: ¿Qué pasó?</caption>
+	<caption startFrame="2520" endFrame="2560" color="4294967295">FORGE: ¡Un élite enorme salió de la nada!</caption>
+	<caption startFrame="2570" endFrame="2625" color="4294967295">SERINA: Capitán, estoy siguiendo su transpondedor.</caption>
+	<caption startFrame="2630" endFrame="2680" color="4294967295">Se aleja del planeta.</caption>
+	<caption startFrame="2690" endFrame="2760" color="4294967295">CUTTER: ¡Maldición! Sargento, suba aquí inmediatamente.</caption>
+	<caption startFrame="2770" endFrame="2840" color="4294967295">FORGE: Estoy en camino, señor.</caption>
+	<caption startFrame="2960" endFrame="3020" color="4294967295">FORGE: Ya estamos preparados, ¿por qué no nos hemos ido aún?</caption>
+	<caption startFrame="3030" endFrame="3070" color="4294967295">CUTTER: ¿Por qué no está en el pabellón médico, sargento?</caption>
+	<caption startFrame="3080" endFrame="3170" color="4294967295">SERINA: La señal de la profesora va a la velocidad de la luz hacia la frontera.</caption>
+	<caption startFrame="3180" endFrame="3230" color="4294967295">SPARTAN: Así no podemos alcanzarla con armas.</caption>
+	<caption startFrame="3240" endFrame="3300" color="4294967295">FORGE: ¿Qué? ¡Tenemos que ir tras ella!</caption>
+	<caption startFrame="3310" endFrame="3400" color="4294967295">SERINA: Señor, solo podré seguir el transpondedor unos segundos más.</caption>
+	<caption startFrame="3410" endFrame="3420" color="4294967295">FORGE: Capitán.</caption>
+	<caption startFrame="3430" endFrame="3520" color="4294967295">SPARTAN: Señor. Anders representa una seria infracción de la seguridad.</caption>
+	<caption startFrame="3530" endFrame="3620" color="4294967295">CUTTER: Serina, pónganos en camino inmediatamente, siga esa señal.</caption>
+	<caption startFrame="3630" endFrame="3700" color="4294967295">SERINA: Sí, señor.</caption>
+	<caption startFrame="3740" endFrame="3830" color="4294967295">¿Alguien dejó una nota diciendo a dónde vamos?</caption>
+	<caption startFrame="3930" endFrame="3990" color="4294967295" SubtitleForVisualElement="true">UBICACIÓN DESC. 23 DE FEB. DE 2531</caption>
+	<caption startFrame="4140" endFrame="4170" color="4294967295">CUTTER: ¿Dónde diablos estamos, Serina?</caption>
+	<caption startFrame="4180" endFrame="4265" color="4294967295">SERINA: Orbitando alrededor de un planeta en medio de...</caption>
+	<caption startFrame="4270" endFrame="4360" color="4294967295">La verdad es que eso no lo sé aún, señor.</caption>
+	<caption startFrame="4370" endFrame="4400" color="4294967295">CUTTER: ¿Anders?</caption>
+	<caption startFrame="4410" endFrame="4475" color="4294967295">SERINA: La nave Covenant que hemos perseguido parece haberse puesto a cubierto</caption>
+	<caption startFrame="4480" endFrame="4560" color="4294967295">en la superficie del planeta. Tengo las coordenadas aproximadas.</caption>
+	<caption startFrame="4570" endFrame="4630" color="4294967295">CUTTER: ¿Hay señales de más actividad Covenant?</caption>
+	<caption startFrame="4640" endFrame="4695" color="4294967295">SERINA: No que detecte, aunque este mundo</caption>
+	<caption startFrame="4700" endFrame="4770" color="4294967295">da unas señales muy raras.</caption>
+	<caption startFrame="4860" endFrame="4900" color="4294967295">CUTTER: Haz que Forge baje.</caption>
+	<caption startFrame="4910" endFrame="4990" color="4294967295">SERINA: Creo que ya está en un Pelican esperando sus órdenes.</caption>
+</cinimaticCaption>

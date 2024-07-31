@@ -1,0 +1,615 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<Timeline>
+   <LockedImage>img://art\ui\flash\shared\textures\timeline\timeline_locked.ddx</LockedImage>
+
+   <Event>
+      <Name>TheDocks01</Name>
+      <Status>Locked</Status>
+      <Position>1.0</Position>
+      <Title>16 January 2498</Title>
+      <Date>16 January 2498</Date>
+      <DetailText>
+         Arcadia Colony opens the DSRA, the Deep Space Research Array, designed to research and study extremely high gravity events, such as black holes, and other areas that exploratory vessels cannot visit directly. The DSRA is eventually destroyed by the Covenant during the initial attack on Arcadia in 2531.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event001</Name>
+      <Status>Unlocked</Status>
+      <Position>5.0</Position>
+      <Title>2506</Title>
+      <Date>2506</Date>
+      <DetailText>
+         Project ORION, the original SPARTAN project - the first attempt by the Colonial Military Administration to create and train teams of super-soldiers for covert military operations in the Outer Colonies - is deactivated. Though the Spartans are effective, their abilities fall short of original expectations, and they are far too expensive to develop and field. The soldiers in the program are reassigned to various special operations units.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event002</Name>
+      <Status>Unlocked</Status>
+      <Position>14.0</Position>
+      <Title>17 August 2517</Title>
+      <Date>17 August 2517</Date>
+      <DetailText>
+         Dr. Catherine Halsey and her aide, Lt. Jacob Keyes, covertly inspect one of the first test subjects for the mysterious "SPARTAN-II" project. The prospective candidate - a six-year-old child named "John" - is ideal for the project. Halsey arranges for the subject to be covertly conscripted.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event003</Name>
+      <Status>Unlocked</Status>
+      <Position>15.0</Position>
+      <Title>23 September 2517</Title>
+      <Date>23 September 2517</Date>
+      <DetailText>
+         Halsey's SPARTAN-II project begins, with primary research conducted on the planet Reach in the Epsilon Eridani system. Seventy-five children of both sexes are subjected to an intense program of physical and mental retraining and technological augmentation, including reinforced skeletal structure and improved musculature.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox04</Name>
+      <Status>Locked</Status>
+      <Position>18.0</Position>
+      <Title>20 July 2520</Title>
+      <Date>20 July 2520</Date>
+      <DetailText>
+         Captain Alexander, the last civilian captain of Spirit of Fire, retires from active duty at the conclusion of the Verent mission. The ship is requisitioned by the UNSC and scheduled for refit.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox05</Name>
+      <Status>Locked</Status>
+      <Position>20.0</Position>
+      <Title>1 September 2520</Title>
+      <Date>1 September 2520</Date>
+      <DetailText>
+         Spirit of Fire completes an extensive refit at the Reach orbital shipyards before entering active military duty as a ground support vessel, initially detailed with providing ground support for Operation TREBUCHET.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>PirthOutskirts01</Name>
+      <Status>Locked</Status>
+      <Position>22.0</Position>
+      <Title>Edict of the Office of the High Prophet of Restraint</Title>
+      <Date>2524</Date>
+      <DetailText>
+         It is known the Kig-Yar ship Pitiless has brought forth an Unclean Being's corpse. Hear now all Kig-Yar vessels are to be searched. Let faithful Sangheili lead teams of Unggoy to all Kig-Yar ships and seek further evidence of the Unclean. It is done.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox11</Name>
+      <Status>Locked</Status>
+      <Position>23.0</Position>
+      <Title>Edict of the Office of the High Prophet of Tolerance</Title>
+      <Date>2524</Date>
+      <DetailText>
+         Hear now that five hundred teams are to be formed to study the language of the Unclean. Each team to consist of the most clever and most educated Unggoy and Sangheili. These teams to speak only the Unclean language among themselves. The Unclean language to be taught to all military strike teams, that the foe shall be vulnerable.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Prophet02</Name>
+      <Status>Locked</Status>
+      <Position>26.0</Position>
+      <Title>Excerpt from The Punished Deeds, Vol. III</Title>
+      <Date>2525</Date>
+      <DetailText>
+         The youngest of the new Prophets, Regret ascended by manipulating and blackmailing those around him. Regret was one of the Prophets who visited the Oracle, an ancient AI, where it was learned that the humans were somehow connected to the Forerunner race and that the very foundation of Covenant belief was flawed. Their decision to eradicate humanity to hide these facts is debated to this day.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+   <Event>
+      <Name>Chasms01</Name>
+      <Status>Locked</Status>
+      <Position>27.0</Position>
+      <Title>Edict of the Office of the High Prophet of Truth</Title>
+      <Date>2525</Date>
+      <DetailText>
+         All within the Covenant hear now and obey. Weapons and ships of war to descend upon the inhabited world of Epsilon Indi. Strike with all force. No intelligent survivors may remain, upon severest penalty.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event004</Name>
+      <Status>Unlocked</Status>
+      <Position>28.0</Position>
+      <Title>3 February 2525</Title>
+      <Date>3 February 2525</Date>
+      <DetailText>
+         Contact with the agricultural colony Harvest is lost. Initial attempts to re-establish contact fail. The worst is feared. Meanwhile, in orbiting ONI facilities near Reach, surgical procedures to augment the SPARTAN-II candidates are about to begin. Many candidates will "wash out" - dead or crippled by the process.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Arbiter01</Name>
+      <Status>Locked</Status>
+      <Position>29.0</Position>
+      <Title>Excerpt from The Punished Deeds, Vol. III</Title>
+      <Date>2525</Date>
+      <DetailText>
+         This new Arbiter did not fear death, but even he was afraid of what was inside the relics of the Ancients. Before he entered a relic, he would send in a squad of Unggoy to check for any signs of danger. If all was clear, they would live, but at the slightest sign of trouble the Arbiter would detonate plasma bombs attached to the methane tanks.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event005</Name>
+      <Status>Unlocked</Status>
+      <Position>30.0</Position>
+      <Title>20 April 2525</Title>
+      <Date>20 April 2525</Date>
+      <DetailText>
+         Contact with the scout ship Argo, sent to investigate the problem on Harvest, is lost. A larger, armed battlegroup is prepared in response.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Arbiter02</Name>
+      <Status>Locked</Status>
+      <Position>31.0</Position>
+      <Title>Excerpt from The Punished Deeds, Vol. III</Title>
+      <Date>2525</Date>
+      <DetailText>
+         The new Arbiter was almost immediately tested. An installation of the Ancients near remnants of a massive space installation that was thought to contain a "key," an object that was believed could be used to activate technology. The installation was heavily defended by a growing faction of Elites who did not agree with the ways of the new Prophets. The Arbiter killed them in a battle that raged for days. A key was never found but the dissident movement was silenced.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event006</Name>
+      <Status>Unlocked</Status>
+      <Position>32.0</Position>
+      <Title>7 October 2525</Title>
+      <Date>7 October 2525</Date>
+      <DetailText>
+         Battle Group D arrives at Harvest and engages the Covenant, but is forced to jump away back to Reach after two of its three ships are destroyed by a single Covenant vessel. An audio-only message was transmitted by the Covenant during this engagement: "Your destruction is the will of the gods... and we are their instrument."  It is believed that because the message was transmitted in English, the Covenant have been studying humanity for some time.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>FrozenValley01</Name>
+      <Status>Locked</Status>
+      <Position>33.0</Position>
+      <Title>1 November 2525</Title>
+      <Date>1 November 2525</Date>
+      <DetailText>
+         The UNSC military goes on full alert and begins making preparations to move in and retake Harvest. All Colonial Military Administration combat forces are immediately placed under NavCom / UniCom "for the duration of the crisis." The SPARTAN-II project is accelerated to its final phase: MJOLNIR, a new form of powered armor specifically designed for Spartan use.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Tundra01</Name>
+      <Status>Locked</Status>
+      <Position>34.0</Position>
+      <Title>27 November 2525</Title>
+      <Date>27 November 2525</Date>
+      <DetailText>
+         All SPARTAN-IIs are transported to the Damascus Materials Testing Facility on Chi Ceti-4 to be equipped with MJOLNIR armor. They only have a matter of hours to test suit operation before an alien vessel enters the system and attacks their orbiting support ship. In the ensuing battle, three Spartans board the enemy ship and encounter their first Covenant soldiers, capturing an energy shield gauntlet. One Spartan is lost in the engagement.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Prophet01</Name>
+      <Status>Locked</Status>
+      <Position>35.0</Position>
+      <Title>Edict of the Office of the High Prophet of Regret</Title>
+      <Date>2525</Date>
+      <DetailText>
+         Hear now the infamy in Chi Ceti system. Due to lack of faith on the part of the crew of the vessel Unrelenting, a band of Unclean were able to board and slay. A Science Lance is ordered formed to study the captured weapons and armor that mitigation action can be taken in future.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event007</Name>
+      <Status>Unlocked</Status>
+      <Position>36.0</Position>
+      <Title>Battle of Harvest, 2526</Title>
+      <Date>2526</Date>
+      <DetailText>
+         At the Battle of Harvest, Vice Admiral Preston Cole's war fleet - one of the largest ever mobilized - engages the alien warship responsible for the decimation of the colony, scoring a victory. Only Cole's last-minute tactical inspiration turns the tide of battle. Upon his return to Earth, Cole is promoted to the rank of Admiral.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>TerminalMoraine01</Name>
+      <Status>Locked</Status>
+      <Position>37.0</Position>
+      <Title>Edict of the Office of the High Prophet of Regret</Title>
+      <Date>2526</Date>
+      <DetailText>
+         Let the Victory of Episilon Indi be celebrated by fasting and prayer. Unggoy and Kig-Yar food rations to be eliminated for the next three work periods. Sangheili and Jiralhanae to spend two rest periods in public prayer. All attend the public monitors at the sounding of five bells to observe the execution of those who failed their duty at the Victory.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Cutter01</Name>
+      <Status>Locked</Status>
+      <Position>39.0</Position>
+      <Title>30 January 2528</Title>
+      <Date>30 January 2528</Date>
+      <DetailText>
+         Captain Cutter turns down a command position on board the destroyer class ship The Prophecy. His decision to stay close to his family prompted an ONI psychological examination that determined that while fit to command, his family ties worked against any larger military career.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Brute01</Name>
+      <Status>Locked</Status>
+      <Position>40.0</Position>
+      <Title>Incident Report 16-196901</Title>
+      <Date>2528</Date>
+      <DetailText>
+         Security team called to Jiralhanae Chieftan's quarters at third bell, second shift. Team arrived at location to find quarters door torn from its frame and five chunks of unidentified biological matter in hallway (see attached diagram). Upon inspection, biological matter confirmed as parts of two Unggoy from Deck Four Kitchens. Chieftan was calm and responsive; stated that delivery of his midday meal was not to specifications (thorn beast overdone, dipping sauce insufficient). Maintenance crew notified; official reprimand of D4 Kitchen supervisor filed.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Forge01</Name>
+      <Status>Locked</Status>
+      <Position>42.0</Position>
+      <Title>17 August 2530</Title>
+      <Date>17 August 2530</Date>
+      <DetailText>
+         Sergeant Forge incarcerated for assaulting a senior officer. His career would have been over if Admiral Cole had not intervened and seen that the investigation was fair and above board. The senior officer eventually faced a court martial and Sergeant Forge was assigned to Spirit of Fire in an effort to keep the prior events quiet.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Anders01</Name>
+      <Status>Locked</Status>
+      <Position>43.0</Position>
+      <Title>Professor Anders' Log, 30 January 2531</Title>
+      <Date>30 January 2531</Date>
+      <DetailText>
+         Upon boarding The Last Gleaming, I was shown my quarters. On the door it read "Doctor Anders" - the name my mother wanted me to use in my professional career. I cannot abide being reminded of her wishes. This whole cloak-and-dagger trip has her fingerprints all over it.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox03</Name>
+      <Status>Locked</Status>
+      <Position>44.0</Position>
+      <Title>From the Office of the High Prophet of Regret</Title>
+      <Date>2531</Date>
+      <DetailText>
+         Return at fastest possible speed to the world they know as Harvest. We must learn the secrets inside the holy relic before the Great Journey can continue. The humans must not be allowed to enter the artifact; we will do whatever we must to deny them access. All must be resolute in this task, or face punishment.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox01</Name>
+      <Status>Locked</Status>
+      <Position>45.0</Position>
+      <Title>4 February 2531</Title>
+      <Date>4 February 2531</Date>
+      <DetailText>
+         The UNSC support ship Spirit of Fire enters orbit around Harvest. While Admiral Cole's fleet is engaged elsewhere, Spirit is sent to Harvest to investigate ongoing Covenant activity in the system and look for survivors from the missing UNSC Destroyer The Prophecy (previously dispatched to Harvest to investigate the same activity). Commanded by Captain Cutter, Spirit has been reassigned by FLEETCOM. ONI has placed Professor Anders onboard to lead the investigation.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox09</Name>
+      <Status>Locked</Status>
+      <Position>46.0</Position>
+      <Title>6 February 2531</Title>
+      <Date>6 February 2531</Date>
+      <DetailText>
+         Professor Anders writes her father what appears to be a detailed analysis of Homer's Odyssey. In fact it is a coded message detailing her mission to Harvest and the result of the find there. ONI censors miss the cipher completely and the message passes unaltered to her father.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox02</Name>
+      <Status>Locked</Status>
+      <Position>48.0</Position>
+      <Title>7 February 2531</Title>
+      <Date>7 February 2531</Date>
+      <DetailText>
+         Spirit of Fire holds service for the crew of the Prophecy. The crew roster is read despite objections from ONI personnel. The Prophecy was lost with all hands on a first expedition to Harvest to investigate the Covenant interest in the artifact found near the polar region.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+   
+   <Event>
+      <Name>BlackBox07</Name>
+      <Status>Locked</Status>
+      <Position>49.0</Position>
+      <Title>9 February 2531</Title>
+      <Date>9 February 2531</Date>
+      <DetailText>
+         After engaging Covenant forces on the surface of Harvest, the UNSC vessel Spirit of Fire arrives at Arcadia - only to find that the Covenant are already there and attacking the colony. Spirit's ground forces assist in the evacuation, and help fight the Covenant to a standstill on the surface of the planet.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox06</Name>
+      <Status>Locked</Status>
+      <Position>50.0</Position>
+      <Title>From the Office of the High Prophet of Regret</Title>
+      <Date>2531</Date>
+      <DetailText>
+         Arbiter, you are the Hand of the Covenant - my hand. You know what must be done. Return to the surface and capture the human female - the one who managed to make fools of us on Harvest. She is the key to unlocking the secrets of the Ancients.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox08</Name>
+      <Status>Locked</Status>
+      <Position>51.0</Position>
+      <Title>10 February 2531</Title>
+      <Date>10 February 2531</Date>
+      <DetailText>
+         The capture of Professor Anders forces Captain Cutter's hand; Spirit of Fire pursues the enemy into Covenant space. The ship's AI projects an arrival at their destination in 312 hours. The ship remains on high alert for the duration, though nonessential crewmembers are briefly placed in cryo sleep.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Forge02</Name>
+      <Status>Locked</Status>
+      <Position>52.0</Position>
+      <Title>11 February 2531</Title>
+      <Date>11 February 2531</Date>
+      <DetailText>
+         Sergeant Forge confronts SPARTAN Douglas-042 over his recommendation to destroy the Covenant ship carrying Professor Anders. The altercation results in a broken chair, a seal malfunction on a bulkhead door and a stern interruption by the ship's AI, Serina. 42 and Forge always eat together in the mess hall following this event.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox10</Name>
+      <Status>Locked</Status>
+      <Position>54.0</Position>
+      <Title>14 February 2531</Title>
+      <Date>14 February 2531</Date>
+      <DetailText>
+         Serina, knowing that the crew may be on a one way trip, manufactures and delivers fake emails from family members to the crew celebrating Valentine's Day. She uses previous correspondence as a basis for the letters. No one ever suspects her of this deception.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox12</Name>
+      <Status>Locked</Status>
+      <Position>56.0</Position>
+      <Title>Excerpt from The Punished Deeds, Vol. III</Title>
+      <Date>2531</Date>
+      <DetailText>
+         The shield world that Regret intended to activate was one of just a few that the Covenant had uncovered in the quest for the Halos. These treasure chests of technology enabled the Covenant to quickly gain access to advanced weaponry and space propulsion systems allowing them to dominate the galaxy.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox13</Name>
+      <Status>Locked</Status>
+      <Position>57.0</Position>
+      <Title>23 February 2531</Title>
+      <Date>23 February 2531</Date>
+      <DetailText>
+         Spirit of Fire arrives at an uncharted planet swarming with strange alien lifeforms. Within a day, the ship is drawn into the planet's interior, where the crew confronts the Covenant and eventually rescues Professor Anders.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Exile01</Name>
+      <Status>Locked</Status>
+      <Position>58.0</Position>
+      <Title>Cutter's Log, 25 February 2531</Title>
+      <Date>25 February 2531</Date>
+      <DetailText>
+         Pelicans engaged in ground operations on the outside of the shell planet failed invariably within four to five flights. The dust adhered to the intakes during entry into the planetary atmosphere in an almost defensive manner, as if the planet itself did not want any space vehicles descending down to its surface.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox15</Name>
+      <Status>Locked</Status>
+      <Position>59.0</Position>
+      <Title>25 February 2531</Title>
+      <Date>25 February 2531</Date>
+      <DetailText>
+         Thanks to Sergeant Forge's sacrifice, Spirit of Fire escapes from the Forerunner shield world. Spirit of Fire sets a course for home as the majority of the crew prepare to enter cryo sleep for a journey that will take years, if not decades.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Release01</Name>
+      <Status>Locked</Status>
+      <Position>60.0</Position>
+      <Title>Chief Medical Officer O'Neil's Log, 26 February 2531</Title>
+      <Date>26 February 2531</Date>
+      <DetailText>
+         The decision to burn bodies infected with the virus was not taken lightly, but the danger to the crew, and the sheer voracity of the infection made taking the bodies aboard Spirit of Fire impossible. Study of the virus and its effects also seems unwise given that we are not equipped with any quarantine labs or have the faintest idea how the virus spreads.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox14</Name>
+      <Status>Locked</Status>
+      <Position>62.0</Position>
+      <Title>1 March 2531</Title>
+      <Date>1 March 2531</Date>
+      <DetailText>
+         Chief Engineer Prescott finishes his assessment of damage to Spirit of Fire and repairs continue to the hull. The FTL core reactor cannot be replaced and plans to manufacture a spare from base reactor units is considered impossible. The decision is made to run the ship on a skeleton crew and place the rest in suspended animation.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Anders02</Name>
+      <Status>Locked</Status>
+      <Position>63.0</Position>
+      <Title>Cutter's Log, 3 March 2531</Title>
+      <Date>3 March 2531</Date>
+      <DetailText>
+         Professor Anders' captivity by the Covenant has made her the longest known POW in the war so far. She has not sought counseling or talked much about her time in captivity but one can only begin to guess at the nightmares she went through during that terrible time.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Labyrinth01</Name>
+      <Status>Locked</Status>
+      <Position>64.0</Position>
+      <Title>Anders' Log, 4 March 2531</Title>
+      <Date>4 March 2531</Date>
+      <DetailText>
+         The artificial construction of this "world" was far beyond the Covenant. Indeed, they seemed to be scavenging this technology for their own use and were unable to operate the machinery, either by design or advancement. The fact my hand was required to unlock the device leads me to believe the original builders of the planet may have had some knowledge about humans.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Cutter02</Name>
+      <Status>Locked</Status>
+      <Position>68.0</Position>
+      <Title>12 March 2531</Title>
+      <Date>12 March 2531</Date>
+      <DetailText>
+         Captain Cutter walks the ship, stepping into medbay to check on the crew still recovering from the battle. He assures Nurse Hershey that a way will be found home and that she will get to see her husband again. He returns to his cabin and after writing five more commendation recommendations, fourteen family condolence letters and a note to his wife, sleeps for the first time in two weeks.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Repository01</Name>
+      <Status>Locked</Status>
+      <Position>70.0</Position>
+      <Title>10 February 2534</Title>
+      <Date>10 February 2534</Date>
+      <DetailText>
+         The UNSC designates Spirit of Fire as "lost with all hands." The previous designation of "missing" had given hope to family and friends. The reason for the change is classified top secret. A memorial service is held for the crew, but many prominent family members do not attend, holding out hope that their loved ones are still alive.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event008</Name>
+      <Status>Unlocked</Status>
+      <Position>73.0</Position>
+      <Title>1 June 2536</Title>
+      <Date>1 June 2536</Date>
+      <DetailText>
+         The Siege of the Inner Colonies begins as Covenant forces swarm into human-controlled space. For several years, the war falls into a pattern: humans win isolated battles, typically during ground operations, but at horrible cost. One by one, the colonies fall.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BeasleysPlateau01</Name>
+      <Status>Locked</Status>
+      <Position>84.0</Position>
+      <Title>9 September 2549</Title>
+      <Date>9 September 2549</Date>
+      <DetailText>
+         The Second Fall of Arcadia. The Covenant left Arcadia alone after their first attack on the planet in 2531 but the humans mostly abandoned it, leaving the capital city Pirth to nature. Eventually a small rural farming community started Abaskun, a rich farmland area on the continent of Mu. Although mostly lawless, the area provided much needed food supplies to the UNSC until the planet was attacked again by the Covenant in the fall of 2549.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>FortDeen01</Name>
+      <Status>Locked</Status>
+      <Position>86.0</Position>
+      <Title>Edict of the Office of the High Prophet of Truth</Title>
+      <Date>2550</Date>
+      <DetailText>
+         It is known that there is delay installing Luminaries upon newly constructed vessels of war. On each vessel still lacking a Luminary, one Unggoy worker out of every 64 is to be executed. To preserve discipline between the Sangheili overseers and Unggoy, choice of victim and execution is to be by Kig-Yar death squads. This to continue daily until that vessel's Luminary is installed.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BloodGulch01</Name>
+      <Status>Locked</Status>
+      <Position>90.0</Position>
+      <Title>27 August 2552</Title>
+      <Date>27 August 2552</Date>
+      <DetailText>
+         Twenty-five of the twenty-eight surviving SPARTAN-IIs, including SPARTAN-117, are recalled to Reach to be briefed on the Covenant threat and to receive their new orders: board a damaged Covenant vessel, use a "mission specialist" to crack the Covenant computer system, and locate the Covenant homeworld. Once accomplished, a covert team will be dispatched to capture the Covenant leadership and broker a truce by force. Despite recent successes, the human military is being systematically slaughtered, and this may be the only chance for survival.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event009</Name>
+      <Status>Unlocked</Status>
+      <Position>92.0</Position>
+      <Title>30 August 2552 - 0400 hours</Title>
+      <Date>30 August 2552</Date>
+      <DetailText>
+         Reach, the home of ONI's CASTLE facility and the Spartan-II project, is attacked by an overwhelming Covenant force. The vessel Pillar of Autumn, Captain Keyes commanding, transports Spartans into battle, hoping to seize a Covenant vessel. Though the Covenant are prevented from learning Earth's location, most of the Spartans fall in battle and Reach is lost.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event010</Name>
+      <Status>Unlocked</Status>
+      <Position>93.0</Position>
+      <Title>30 August 2552 - 0500 hours</Title>
+      <Date>30 August 2552</Date>
+      <DetailText>
+         Pillar of Autumn, commanded by Captain Keyes, flees Reach with Covenant ships in pursuit. The ship is heavily damaged, but manages to drop into slipspace and escape. Pillar of Autumn carries the only Spartan thought to have survived the engagement on Reach.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Crevice01</Name>
+      <Status>Locked</Status>
+      <Position>98.0</Position>
+      <Title>Edict of the Office of the High Prophet of Truth</Title>
+      <Date>2552</Date>
+      <DetailText>
+         Hear now all personnel to spend today's second rest period in attentive watchfulness before display monitors. All display monitors to display the humbling and punishment of the Sangheili Supreme Commander of the Fleet of Particular Justice, for failure, cowardice, and lack of faith.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Brute02</Name>
+      <Status>Locked</Status>
+      <Position>99.0</Position>
+      <Title>Edict of the Office of the High Prophet of Truth</Title>
+      <Date>2552</Date>
+      <DetailText>
+         In recognition of the virtue of the Jiralhanae, it is ordered that all Sangheili aboard the Fleet of Profound Solitude, The Fleet of Tranquil Composure, and the Fleet of Inner Knowledge to be completely replaced by Jiralhanae. Each removed Sangheili to be assigned other duties. In celebration, all imprisoned or criminal Jiralhanae to be released, rehabilitated, and pardoned.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+</Timeline>

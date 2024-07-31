@@ -1,0 +1,615 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<Timeline>
+   <LockedImage>img://art\ui\flash\shared\textures\timeline\timeline_locked.ddx</LockedImage>
+
+   <Event>
+      <Name>TheDocks01</Name>
+      <Status>Locked</Status>
+      <Position>1.0</Position>
+      <Title>16 января 2498 г.</Title>
+      <Date>16 января 2498 г.</Date>
+      <DetailText>
+         На Аркадии открывается КИЛ, Космическая исследовательская лаборатория, которая занимается исследованием объектов с повышенной гравитацией — например, черных дыр, а также иных мест, в которые невозможно отправить исследовательские корабли. В 2531 году, во время нападения на Аркадию, КИЛ будет уничтожена Ковенантом.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event001</Name>
+      <Status>Unlocked</Status>
+      <Position>5.0</Position>
+      <Title>2506 г.</Title>
+      <Date>2506 г.</Date>
+      <DetailText>
+         Закрывается проект «Орион», первый проект, посвященный Спартанцам, начатый Колониальным Военным Руководством. Проект был направлен на создание и подготовку суперсолдат для проведения военных операций на внешних колониях. Несмотря на эффективность спартанцев, их способности оказались значительно ниже ожидаемых, а подготовка и содержание обходились в крупные суммы. Солдаты, задействованные в проекте, были распределены по разным отрядам специального назначения.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event002</Name>
+      <Status>Unlocked</Status>
+      <Position>14.0</Position>
+      <Title>17 августа 2517 г.</Title>
+      <Date>17 августа 2517 г.</Date>
+      <DetailText>
+         Доктор Кэтрин Хелси и ее помощник, лейтенант Джейкоб Кейес, тайно изучают одного из первых подопытных для загадочного проекта «Спартанец-II». Предполагаемым кандидатом становится шестилетний мальчик по имени Джон. Он идеально подходит для проекта. Хелси организует тайное похищение подопытного.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event003</Name>
+      <Status>Unlocked</Status>
+      <Position>15.0</Position>
+      <Title>23 сентября 2517 г.</Title>
+      <Date>23 сентября 2517 г.</Date>
+      <DetailText>
+         Хелси открывает проект «Спартанец-II». Основные исследования ведутся на планете Предел, находящейся в системе Эпсилон Эридана. Семьдесят пять детей обоих полов становятся участниками программы усиленной физической и психологической подготовки, а также технической модификации тел, в том числе усиления костной и мышечной структуры.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox04</Name>
+      <Status>Locked</Status>
+      <Position>18.0</Position>
+      <Title>20 июля 2520 г.</Title>
+      <Date>20 июля 2520 г.</Date>
+      <DetailText>
+         Капитан Александр, последний гражданский капитан «Духа Огня», уходит в отставку по окончании операции «Верент». Судно реквизируется ККОН. Начинается подготовка к его реконструкции.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox05</Name>
+      <Status>Locked</Status>
+      <Position>20.0</Position>
+      <Title>1 сентября 2520 г.</Title>
+      <Date>1 сентября 2520 г.</Date>
+      <DetailText>
+         На орбитальных верфях завершаются работы по реконструкции «Духа Огня». Новое назначение корабля — поддержка наземных войск. Первая и основная задача — поддержка наземных войск во время операции «ТРЕБУШЕТ».
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>PirthOutskirts01</Name>
+      <Status>Locked</Status>
+      <Position>22.0</Position>
+      <Title>Указ Высшего Пророка Сдержанности</Title>
+      <Date>2524 г.</Date>
+      <DetailText>
+         Как известно, на корабле киг-яр «Безжалостный» было обнаружено тело нечистого существа. Отныне все корабли киг-яр будут обыскиваться. Пусть верные сангхейли возглавят отряды унгго и займутся досмотром всех кораблей киг-яр в поисках других нечистых. Это все.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox11</Name>
+      <Status>Locked</Status>
+      <Position>23.0</Position>
+      <Title>Указ Высшего Пророка Терпения</Title>
+      <Date>2524 г.</Date>
+      <DetailText>
+         Услышьте все! Пусть будут созданы пять сотен команд, которые займутся изучением языка нечистых. Каждая команда будет состоять из самых умных и образованных унгго и сангхейли. Члены команд должны общаться между собой только на языке нечистых. Все военные ударные отряды должны знать язык нечистых, чтобы враг стал уязвимей.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Prophet02</Name>
+      <Status>Locked</Status>
+      <Position>26.0</Position>
+      <Title>Извлечение из «Наказуемых Деяний», том 3</Title>
+      <Date>2525 г.</Date>
+      <DetailText>
+         Самый молодой из новых Пророков, Пророк Скорби, восходит к власти, манипулируя и шантажируя всех, кто оказывается рядом. Пророк Скорби — один из немногих посетивших Оракула, древний ИИ. От него он узнает о том, что люди как-то связаны с расой Предтеч, и что неправильны сами основы веры Ковенанта. Решение уничтожить человечество, чтобы скрыть эти факты, обсуждается до этого дня.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+   <Event>
+      <Name>Chasms01</Name>
+      <Status>Locked</Status>
+      <Position>27.0</Position>
+      <Title>Указ Высшего Пророка Истины</Title>
+      <Date>2525 г.</Date>
+      <DetailText>
+         Всем расам Ковенанта — внимание и повиновение. Провести высадку войск на обитаемую планету Эпсилон Инди. Нанести удар всеми силами. Ни одно наделенное разумом существо не должно выжить.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event004</Name>
+      <Status>Unlocked</Status>
+      <Position>28.0</Position>
+      <Title>3 февраля 2525 г.</Title>
+      <Date>3 февраля 2525 г.</Date>
+      <DetailText>
+         Потеряна связь с сельскохозяйственной колонией, планетой Жатва. Попытки установить контакт не увенчались успехом. Опасаются худшего. Тем временем, на орбитальных станциях СВР Предела начинаются хирургические операции по технической модификации тел участников проекта «Спартанец-II». Многие подопытные будут «отсеяны» — погибнут или будут изуродованы в процессе операции.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Arbiter01</Name>
+      <Status>Locked</Status>
+      <Position>29.0</Position>
+      <Title>Извлечение из «Наказуемых Деяний», том 3</Title>
+      <Date>2525 г.</Date>
+      <DetailText>
+         Новый Арбитр не боялся смерти, но даже он боялся того, что может быть сокрыто внутри реликтов древних. Прежде чем войти, он отправил на разведку отряд унгго. Если все будет в порядке, они выживут. Но при малейшем признаке опасности Арбитр взорвет плазменные бомбы, прикрепленные к канистрам с метаном.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event005</Name>
+      <Status>Unlocked</Status>
+      <Position>30.0</Position>
+      <Title>20 апреля 2525 г.</Title>
+      <Date>20 апреля 2525 г.</Date>
+      <DetailText>
+         Потеряна связь с разведывательным кораблем «Арго», отправленным для сбора данных об обстановке на планете Жатва. К отправке готовится большой вооруженный отряд.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Arbiter02</Name>
+      <Status>Locked</Status>
+      <Position>31.0</Position>
+      <Title>Извлечение из «Наказуемых Деяний», том 3</Title>
+      <Date>2525 г.</Date>
+      <DetailText>
+         Новый Арбитр практически сразу столкнулся с испытанием: у огромного космического лагеря была развернута база древних. В лагере, согласно данным, должен был храниться ключ, который может быть использован для активации технологии. Лагерь защищала крупная группировка титанов, не согласных с политикой новых Пророков. В битве, которая длилась несколько дней, Арбитр одерживает победу. Диссиденты были уничтожены, однако ключ так и не нашли.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event006</Name>
+      <Status>Unlocked</Status>
+      <Position>32.0</Position>
+      <Title>7 октября 2525 г.</Title>
+      <Date>7 октября 2525 г.</Date>
+      <DetailText>
+         Боевое подразделение «Д» прибывает на Жатву и вступает в бой с войсками Ковенанта. Однако после того, как два из трех кораблей ККОН были уничтожены одним единственным судном Ковенанта, подразделение вынуждено отступить к Пределу. Единственное сообщение, полученное от Ковенанта во время этого боя, гласило: «Вы будете уничтожены по воле Богов... и мы — их орудие». Сообщение передавалось на английском. Это говорило о том, что Ковенант в течение некоторого времени изучает человечество.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>FrozenValley01</Name>
+      <Status>Locked</Status>
+      <Position>33.0</Position>
+      <Title>1 ноября 2525 г.</Title>
+      <Date>1 ноября 2525 г.</Date>
+      <DetailText>
+         Военные силы ККОН объявляют тревогу и начинают готовиться к атаке и захвату Жатвы. Все военные силы Колониального Военного Руководства были «на время кризиса» немедленно переведены в подчинение НавКом и УниКом. Проект «Спартанец-II» в ускоренном порядке переходит к заключительной фазе: разработке брони «Мьельнир», специальных усиленных бронекостюмов, созданных для Спартанцев.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Tundra01</Name>
+      <Status>Locked</Status>
+      <Position>34.0</Position>
+      <Title>27 ноября 2525 г.</Title>
+      <Date>27 ноября 2525 г.</Date>
+      <DetailText>
+         Все Спартанцы-II перевозятся на испытательный полигон «Дамаск», расположенный на Ки Кита-4. Все солдаты экипируются броней «Мьельнир». У них остается всего несколько часов на испытание костюмов, прежде чем судно пришельцев проникает в систему и нападает на орбитальный корабль поддержки. Во время боя три Спартанца проникают на вражеский корабль, где впервые сталкиваются с солдатами Ковенанта и захватывают устройство с энергощитом. Один из Спартанцев погибает в бою.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Prophet01</Name>
+      <Status>Locked</Status>
+      <Position>35.0</Position>
+      <Title>Указ Высшего Пророка Скорби</Title>
+      <Date>2525 г.</Date>
+      <DetailText>
+         Услышьте о позоре, постигшем нас в системе Ки Киты. Недостаток веры экипажа судна «Неумолимый» повлек за собой проникновение на борт группы нечистых и последующее уничтожение корабля. Приказываю сформировать научный отдел, который займется изучением захваченного оружия и брони, чтобы избежать подобных неудач в будущем.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event007</Name>
+      <Status>Unlocked</Status>
+      <Position>36.0</Position>
+      <Title>Битва за Жатву, 2526 г.</Title>
+      <Date>2526 г.</Date>
+      <DetailText>
+         В битву за Жатву вступает военный флот вице-адмирала Престона Коула, один из самых крупных флотов в истории человечества. Он вступает в бой с кораблем пришельцев, уничтожившим колонию, и одерживает победу. Исход сражения решается в пользу людей лишь благодаря последнему тактическому ходу Коула. По возвращении на Землю Коул получает звание адмирала.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>TerminalMoraine01</Name>
+      <Status>Locked</Status>
+      <Position>37.0</Position>
+      <Title>Указ Высшего Пророка Скорби</Title>
+      <Date>2526 г.</Date>
+      <DetailText>
+         Победа на Эпсилон Инди будет отмечена постами и молитвами. Унгго и киг-яр лишаются пищи на три следующих рабочих дня. Сангхейли и джиралханай проведут два выходных в публичных молитвах. Всем по звону пяти колоколов явиться к публичным мониторам и наблюдать за казнью тех, кто не внес вклад в Победу.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Cutter01</Name>
+      <Status>Locked</Status>
+      <Position>39.0</Position>
+      <Title>30 января 2528 г.</Title>
+      <Date>30 января 2528 г.</Date>
+      <DetailText>
+         Капитан Каттер отказывается от командования эсминцем «Пророчество» и решает остаться с семьей. СВР изучает это решение и приходит к выводу, что, несмотря на профессиональную пригодность Каттера, привязанность к семье не позволяет ему занять высокую командующую должность.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Brute01</Name>
+      <Status>Locked</Status>
+      <Position>40.0</Position>
+      <Title>Доклад о происшествии 16-196901</Title>
+      <Date>2528 г.</Date>
+      <DetailText>
+         По третьему колоколу, во вторую смену, к жилью вождя джиралханай была вызвана охрана. Команда прибыла на место и обнаружила выбитую дверь и пять кусков неопознанной биологической материи (см. приложение). Осмотр материи показал, что это были части двух унгго, работавших на кухне четвертой палубы. Вождь был спокоен и вменяем. Он отметил, что доставленный обед не соответствовал требованиям (мясо пережарено, мало соуса). Команда техобслуживания поставлена в известность. Сделан официальный выговор смотрителю кухни П4.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Forge01</Name>
+      <Status>Locked</Status>
+      <Position>42.0</Position>
+      <Title>17 августа 2530 г.</Title>
+      <Date>17 августа 2530 г.</Date>
+      <DetailText>
+         Сержант Фордж заключается под стражу за нападение на старшего офицера. На этом бы его карьера закончилась, если бы не адмирал Коул, который проследил за объективностью расследования. Через некоторое время старший офицер предстает перед трибуналом, а сержант Фордж назначается в экипаж «Духа Огня», чтобы замять предшествующие события.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Anders01</Name>
+      <Status>Locked</Status>
+      <Position>43.0</Position>
+      <Title>Журнал проф. Андерс, 30 января 2531 г.</Title>
+      <Date>30 января 2531 г.</Date>
+      <DetailText>
+         На борту «Последнего сияния» мне показали мою комнату. На двери висела табличка «Доктор Андерс». Моя мать хотела, чтобы так меня называли на работе. Не люблю, когда мне напоминают о ее желаниях. Она основательно приложила руку к этому шпионскому заданию.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox03</Name>
+      <Status>Locked</Status>
+      <Position>44.0</Position>
+      <Title>От Высшего Пророка Скорби</Title>
+      <Date>2531 г.</Date>
+      <DetailText>
+         Как можно скорее возвращайтесь на планету, которую они называют Жатва. Нам нужно раскрыть тайны святого Реликта, чтобы продолжить Великое Странствие. Люди не должны попасть в артефакт. Сделать все возможное, чтобы они не получили доступ внутрь. Каждый, кто станет колебаться, будет наказан.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox01</Name>
+      <Status>Locked</Status>
+      <Position>45.0</Position>
+      <Title>4 февраля 2531 г.</Title>
+      <Date>4 февраля 2531 г.</Date>
+      <DetailText>
+         Корабль поддержи ККОН «Дух Огня» выходит на орбиту Жатвы. В то время как флот адмирала Коула задействован в других операциях, «Дух» отправлен на Жатву, чтобы собрать данные о действиях Ковенанта и отыскать выживших с эсминца ККОН «Пророчество» (который был ранее отправлен на Жатву с тем же заданием). Командование флотом передает управление «Духом» капитану Каттеру. СВР отправляет на корабль профессора Андерс, которая должна вести расследование.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox09</Name>
+      <Status>Locked</Status>
+      <Position>46.0</Position>
+      <Title>6 февраля 2531 г.</Title>
+      <Date>6 февраля 2531 г.</Date>
+      <DetailText>
+         Профессор Андерс отправляет отцу письмо. На первый взгляд, в нем содержался литературный анализ «Одиссеи» Гомера. На самом деле в письме было закодировано сообщение о результатах операции на Жатве. Цензоры СВР не находят шифровки, и отец Андерс получает письмо в его начальном виде.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox02</Name>
+      <Status>Locked</Status>
+      <Position>48.0</Position>
+      <Title>7 февраля 2531 г.</Title>
+      <Date>7 февраля 2531 г.</Date>
+      <DetailText>
+         На «Духе Огня» проходит панихида по экипажу «Пророчества». Несмотря на возражения со стороны СВР, зачитывается список погибших. Весь экипаж «Пророчества» погибает во время исполнения задания по сбору данных о действиях Ковенанта возле артефакта, найденного в полярной части планеты.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+   
+   <Event>
+      <Name>BlackBox07</Name>
+      <Status>Locked</Status>
+      <Position>49.0</Position>
+      <Title>9 февраля 2531 г.</Title>
+      <Date>9 февраля 2531 г.</Date>
+      <DetailText>
+         Столкнувшись с силами Ковенанта на поверхности Жатвы, судно ККОН, «Дух Огня», прибывает на Аркадию. Как оказалось, Ковенант уже напал на колонию. Наземные войска «Духа» помогают в эвакуации жителей и сражаются с войсками Ковенанта на поверхности планеты.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox06</Name>
+      <Status>Locked</Status>
+      <Position>50.0</Position>
+      <Title>От Высшего Пророка Скорби</Title>
+      <Date>2531 г.</Date>
+      <DetailText>
+         Арбитр. Ты рука Ковенанта. Моя рука. Ты знаешь, что нужно сделать. Возвращайся на поверхность и похить человеческую женщину. Ту самую, что одурачила нас на Жатве. Она ключ к тайнам древних.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox08</Name>
+      <Status>Locked</Status>
+      <Position>51.0</Position>
+      <Title>10 февраля 2531 г.</Title>
+      <Date>10 февраля 2531 г.</Date>
+      <DetailText>
+         Похищение профессора Андерс толкает капитана Каттера на отчаянный шаг. «Дух Огня» преследует противника на его территории. ИИ корабля рассчитывает время прибытия. 312 часов. В течение этого времени на корабле объявлена тревога, хотя рядовые члены экипажа погружаются в криосон.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Forge02</Name>
+      <Status>Locked</Status>
+      <Position>52.0</Position>
+      <Title>11 февраля 2531 г.</Title>
+      <Date>11 февраля 2531 г.</Date>
+      <DetailText>
+         Сержант Фордж оспаривает решение Спартанца-042 Дугласа уничтожить корабль, на котором удерживают профессора Андерс. Результатом ссоры становится сломанное кресло, неработающий замок на двери одной из переборок и неполадки работы ИИ, Серины, в задней части корабля. С этих пор 042 и Фордж всегда обедают вместе в столовой.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox10</Name>
+      <Status>Locked</Status>
+      <Position>54.0</Position>
+      <Title>14 февраля 2531 г.</Title>
+      <Date>14 февраля 2531 г.</Date>
+      <DetailText>
+         Серина понимает, что для экипажа корабля это путешествие может стать последним, и отправляет им по электронной почте фальшивые поздравления с Днем Святого Валентина. Для составления текста сообщений она использует переписку членов экипажа с их семьями. Никто так и не раскрывает этот обман.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox12</Name>
+      <Status>Locked</Status>
+      <Position>56.0</Position>
+      <Title>Извлечение из «Наказуемых Деяний», том 3</Title>
+      <Date>2531 г.</Date>
+      <DetailText>
+         Закрытый мир, который хотел активировать Пророк Скорби, был одним из нескольких, которые Ковенант обнаруживает во время поисков Ореолов. Обнаруженные технологические данные дают Ковенанту доступ к передовому вооружению и силовым технологиям, которые позволят им править всей галактикой.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox13</Name>
+      <Status>Locked</Status>
+      <Position>57.0</Position>
+      <Title>23 февраля 2531 г.</Title>
+      <Date>23 февраля 2531 г.</Date>
+      <DetailText>
+         «Дух Огня» прибывает на неизвестную планету пришельцев. Корабль проникает во внутреннюю часть планеты, и экипаж судна вступает в бой с Ковенантом, завершающийся спасением профессора Андерс.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Exile01</Name>
+      <Status>Locked</Status>
+      <Position>58.0</Position>
+      <Title>Журнал Каттера, 25 февраля 2531 г.</Title>
+      <Date>25 февраля 2531 г.</Date>
+      <DetailText>
+         «Пеликаны», задействованные в наземных операциях, неизменно отказывали после четырех-пяти полетов. Пыль в атмосфере, попадающая в воздушные фильтры, словно защищает планету от непрошеных гостей из космоса.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox15</Name>
+      <Status>Locked</Status>
+      <Position>59.0</Position>
+      <Title>25 февраля 2531 г.</Title>
+      <Date>25 февраля 2531 г.</Date>
+      <DetailText>
+         Благодаря жертве сержанта Форджа, «Дух Огня» покидает закрытый мир Предтеч. «Дух Огня» берет курс на родную планету. Большая часть экипажа готовится к криосну, потому что это путешествие будет длиться годы, если не десятилетия.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Release01</Name>
+      <Status>Locked</Status>
+      <Position>60.0</Position>
+      <Title>Журнал ст. врача О'Нила, 26 февраля 2531 г.</Title>
+      <Date>26 февраля 2531 г.</Date>
+      <DetailText>
+         Решение сжечь тела, зараженные вирусом, далось нам нелегко. Однако опасность для команды и легкость, с которой передается инфекция, не позволили нам взять тела на борт «Духа Огня». Изучение вируса и его действия также невозможно, поскольку корабль не оборудован закрытыми лабораториями, а мы не имеем ни малейшего представления о том, как передается вирус.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox14</Name>
+      <Status>Locked</Status>
+      <Position>62.0</Position>
+      <Title>1 марта 2531 г.</Title>
+      <Date>1 марта 2531 г.</Date>
+      <DetailText>
+         Старший инженер Прескотт завершает оценку повреждений «Духа Огня», и начинается ремонт корпуса корабля. Ядро реактора не удается заменить, как не удается и собрать другое ядро из основного реактора. Мы решили, что кораблем будет управлять малая часть экипажа, в то время как другая часть будет погружена в криосон.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Anders02</Name>
+      <Status>Locked</Status>
+      <Position>63.0</Position>
+      <Title>Журнал Каттера, 3 марта 2531 г.</Title>
+      <Date>3 марта 2531 г.</Date>
+      <DetailText>
+         Похищенная Ковенантом профессор Андерс стала военнопленной, проведшей в заключении рекордное время за эту войну. Она не рассказывала о времени, проведенном в плену, поэтому остается только догадываться, через какие ужасы ей пришлось пройти.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Labyrinth01</Name>
+      <Status>Locked</Status>
+      <Position>64.0</Position>
+      <Title>Журнал Андерс, 4 марта 2531 г.</Title>
+      <Date>4 марта 2531 г.</Date>
+      <DetailText>
+         Этот мир был искусственно создан задолго до Ковенанта. Последние, судя по всему, используют чужие технологии для собственной пользы. Однако они не умеют пользоваться техникой закрытого мира. Тот факт, что им понадобилась моя рука, чтобы открыть устройство, наводит меня на мысль, что создатели планеты что-то знали о людях.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Cutter02</Name>
+      <Status>Locked</Status>
+      <Position>68.0</Position>
+      <Title>12 марта 2531 г.</Title>
+      <Date>12 марта 2531 г.</Date>
+      <DetailText>
+         Капитан Каттер бродит по кораблю и заходит в лазарет, чтобы поинтересоваться здоровьем своей команды. Он заверяет медсестру Херши, что они найдут путь домой и она снова увидит своего мужа. Вернувшись к себе в каюту, Каттер пишет 5 приказов с объявлениями благодарности, 14 писем с соболезнованиями и записку своей жене, а потом впервые за две недели засыпает.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Repository01</Name>
+      <Status>Locked</Status>
+      <Position>70.0</Position>
+      <Title>10 февраля 2534 г.</Title>
+      <Date>10 февраля 2534 г.</Date>
+      <DetailText>
+         ККОН объявляет «Дух Огня» и его экипаж погибшими в бою. Предыдущее заявление о том, что судно пропало, вселило некоторую надежду в сердца друзей и семей членов экипажа. Причины, по которым делалось последнее объявление, засекречены. По членам экипажа проходит панихида, на которую не являются многие семьи и друзья, надеющиеся, что их родные все еще живы.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event008</Name>
+      <Status>Unlocked</Status>
+      <Position>73.0</Position>
+      <Title>1 июня 2536 г.</Title>
+      <Date>1 июня 2536 г.</Date>
+      <DetailText>
+         Ковенант проникает на территорию людей, и начинается осада внутренних колоний. В течение нескольких лет идет однообразная война. Людям удается одержать победу в некоторых сражениях (преимущественно наземных), но она всегда дается огромной ценой. Одна за другой колонии уничтожаются.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BeasleysPlateau01</Name>
+      <Status>Locked</Status>
+      <Position>84.0</Position>
+      <Title>9 сентября 2549</Title>
+      <Date>9 сентября 2549 г.</Date>
+      <DetailText>
+         Второе падение Аркадии. Ковенант не нападал на Аркадию еще со времен своей первой атаки в 2531, но почти все жители колонии покинули ее, оставив столицу, Пирт, во власти природы. Со временем, на континенте Му образовалось небольшое фермерское сообщество, Абаскан. Несмотря на практически полное отсутствие законов, сообщество поставляло продукты, в которых так нуждалось ККОН. А затем, осенью 2549 года, планету вновь атаковал Ковенант.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>FortDeen01</Name>
+      <Status>Locked</Status>
+      <Position>86.0</Position>
+      <Title>Указ Высшего Пророка Истины</Title>
+      <Date>2550 г.</Date>
+      <DetailText>
+         Как известно, произошла задержка в установке светил на новые военные суда. За каждое судно, на котором отсутствует светило, будет казнен один из 64 унгго. В целях поддержания отношений подчинения между унгго и надсмотрщиками сангхейли, жертва будет выбираться карательными отрядами киг-яр. Это будет продолжаться до того дня, пока светила не будут установлены на все корабли.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BloodGulch01</Name>
+      <Status>Locked</Status>
+      <Position>90.0</Position>
+      <Title>27 августа 2552 г.</Title>
+      <Date>27 августа 2552 г.</Date>
+      <DetailText>
+         25 из 28 выживших Спартанцев-II, в том числе Спартанец-117, отозваны на Предел. Там они получат новые данные о Ковенанте и приказ забраться на поврежденное судно пришельцев, где «специалист по операциям» должен будет проникнуть в компьютерную систему и найти дом пришельцев. После этого на задание по захвату лидеров врага и установлению вынужденного мира будет отправлена секретная команда. Это единственный шанс выжить, так как войска людей систематически уничтожаются, несмотря на недавние успехи.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event009</Name>
+      <Status>Unlocked</Status>
+      <Position>92.0</Position>
+      <Title>30 августа 2552 г. 04:00 часа.</Title>
+      <Date>30 августа 2552 г.</Date>
+      <DetailText>
+         Предел, на котором находится база СВР «Замок» и где разрабатывался проект «Спартанец-II», атакована силами Ковенанта. Корабль «Столп Осени» под командованием капитана Кейеса доставит спартанцев на поле боя, где они попытаются захватить судно Ковенанта. Несмотря на то, что Ковенанту не удалось узнать координаты Земли, большинство спартанцев погибает, а Предел захватывают враги.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event010</Name>
+      <Status>Unlocked</Status>
+      <Position>93.0</Position>
+      <Title>30 августа 2552 г. 05:00 часов.</Title>
+      <Date>30 августа 2552 г.</Date>
+      <DetailText>
+         «Столп Осени», которым командует капитан Кейес, покидает Предел. Его преследуют корабли Ковенанта. Корабль сильно поврежден, однако ему удается уйти в подпространство и избавиться от преследователей. На «Столпе Осени» находится единственный Спартанец, переживший нападение на Предел.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Crevice01</Name>
+      <Status>Locked</Status>
+      <Position>98.0</Position>
+      <Title>Указ Высшего Пророка Истины</Title>
+      <Date>2552 г.</Date>
+      <DetailText>
+         Сегодня весь персонал обязан провести второй «тихий час» без сна перед мониторами. Будет транслироваться унижение и наказание сангхейли — главнокомандующего флотом Справедливости — за халатность, трусость и недостаток веры.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Brute02</Name>
+      <Status>Locked</Status>
+      <Position>99.0</Position>
+      <Title>Указ Высшего Пророка Истины</Title>
+      <Date>2552 г.</Date>
+      <DetailText>
+         За храбрость, проявленную джиралханай, приказываю всех сангхейли на борту кораблей флота Совершенного одиночества, флота Уравновешенности и флота Внутреннего знания заменить на джиралханай. Все эти сангхейли будут задействованы на другой работе. Также приказываю амнистировать, реабилитировать и отпустить на волю всех находящихся под стражей джиралханай.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+</Timeline>

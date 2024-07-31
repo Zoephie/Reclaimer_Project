@@ -1,0 +1,615 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<Timeline>
+   <LockedImage>img://art\ui\flash\shared\textures\timeline\timeline_locked.ddx</LockedImage>
+
+   <Event>
+      <Name>TheDocks01</Name>
+      <Status>Locked</Status>
+      <Position>1.0</Position>
+      <Title>2498. január 16.</Title>
+      <Date>2498. január 16.</Date>
+      <DetailText>
+         Az Arcadia kolónia megnyitja a DSRA (Deep Space Research Array) űrkutatási létesítményt, amelynek célja a rendkívül nagy gravitációjú jelenségek – például fekete lyukak és egyéb, a kutatójárművek számára közvetlenül el nem érhető területek – kutatása és vizsgálata. A DSRA végül a Covenant 2531-es kezdeti támadásának áldozatául esik.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event001</Name>
+      <Status>Unlocked</Status>
+      <Position>5.0</Position>
+      <Title>2506</Title>
+      <Date>2506</Date>
+      <DetailText>
+         Leáll az ORION projekt, az eredeti SPARTAN projekt – az első kísérlet a gyarmati katonai igazgatás részéről, hogy szuperkatonákat hozzanak létre és képezzenek ki a Külső Kolóniák területén folytatott titkos katonai műveletekhez. Bár a spartan katonák hatékonyak, képességeik elmaradnak az eredeti elvárásokhoz képest, és túl költséges a fejlesztésük, illetve alkalmazásuk. A programban résztvevő katonákat különféle különleges műveleti egységekhez osztják be.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event002</Name>
+      <Status>Unlocked</Status>
+      <Position>14.0</Position>
+      <Title>2517. augusztus 17.</Title>
+      <Date>2517. augusztus 17.</Date>
+      <DetailText>
+         Dr. Catherine Halsey és segítője, Jacob Keyes főhadnagy titokban megvizsgálja a rejtélyes „SPARTAN-II” projekt egyik első tesztalanyát. A jelölt – egy hatéves, John nevű fiú – ideálisnak látszik a kísérlethez. Halsey megszervezi, hogy az alanyt titokban besorozzák.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event003</Name>
+      <Status>Unlocked</Status>
+      <Position>15.0</Position>
+      <Title>2517. szeptember 23.</Title>
+      <Date>2517. szeptember 23.</Date>
+      <DetailText>
+         Megkezdődik Halsey SPARTAN II projektje, az elsődleges kutatás az Epszilon Eridani rendszer Reach bolygóján folyik. Mindkét nemből válogatott hetvenöt gyermek megy keresztül intenzív fizikai és mentális átprogramozáson, illetve az erősebb csontrendszert és izomzatot is eredményező technológiai teljesítménynövelésen.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox04</Name>
+      <Status>Locked</Status>
+      <Position>18.0</Position>
+      <Title>2520. július 20.</Title>
+      <Date>2520. július 20.</Date>
+      <DetailText>
+         Alexander kapitány, a Spirit of Fire utolsó civil kapitánya a Verenten végrehajtott feladat után visszavonul az aktív szolgálattól. A hajót az UNSC rekvirálja, és átépítésre jelöli ki.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox05</Name>
+      <Status>Locked</Status>
+      <Position>20.0</Position>
+      <Title>2520. szeptember 1.</Title>
+      <Date>2520. szeptember 1.</Date>
+      <DetailText>
+         A Spirit of Fire jelentős átépítésen megy keresztül a Reach orbitális hajógyárában, mielőtt földi kiszolgáló járműként megkezdené az aktív katonai szolgálatot. Kezdetben a TREBUCHET művelet földi támogatására osztják be.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>PirthOutskirts01</Name>
+      <Status>Locked</Status>
+      <Position>22.0</Position>
+      <Title>High Prophet of Restraint rendelete</Title>
+      <Date>2524</Date>
+      <DetailText>
+         Köztudott, hogy a Pitiless nevű kig-yar hajó egy Tisztátalan teremtmény tetemét hozta magával. Tudja meg mindenki, hogy minden kig-yar járművet át kell kutatni. A hű sangheili katonák vezessék az unggoy csapatokat az összes kig-yar hajóhoz, és keressék a Tisztátalan további nyomát. Így rendeltetett.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox11</Name>
+      <Status>Locked</Status>
+      <Position>23.0</Position>
+      <Title>High Prophet of Tolerance rendelete</Title>
+      <Date>2524</Date>
+      <DetailText>
+         Halljátok hát, hogy ötszáz csoportot kell létrehozni a Tisztátalan nyelvének tanulmányozására. Mindegyik csoport álljon a legokosabb és legtanultabb unggoy és sangheili katonákból. Ezek a csoportok csak a Tisztátalan nyelvét beszéljék egymás között. A Tisztátalan nyelve taníttassék minden katonai csapásmérő csapatnak, hogy az ellenfél sebezhető legyen.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Prophet02</Name>
+      <Status>Locked</Status>
+      <Position>26.0</Position>
+      <Title>A Büntetett Cselekedetek Könyvéből, 3. kötet</Title>
+      <Date>2525</Date>
+      <DetailText>
+         Az új próféták legifjabbika, Regret a körülötte lévők manipulálásával és zsarolásával emelkedett a többiek fölé. Regret egyike volt azon prófétáknak, akik felkeresték az Orákulumot, egy ősi mesterséges intelligenciát, és ott megtudták, hogy az emberi faj valamilyen módon kapcsolódik az előfutárokhoz, azaz a Forerunner fajhoz, és hogy maga a Covenant is hibás alapokra épült. Döntésüket, hogy e tények elkendőzése érdekében kiirtják az emberiséget, a mai napig vitatják.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+   <Event>
+      <Name>Chasms01</Name>
+      <Status>Locked</Status>
+      <Position>27.0</Position>
+      <Title>High Prophet of Truth rendelete</Title>
+      <Date>2525</Date>
+      <DetailText>
+         Tudja meg a Covenant minden tagja, és engedelmeskedjen parancsunknak. A fegyverek és hadihajók szálljanak le az Epsilon Indi lakott világára. Teljes erővel kell lecsapni! Értelemmel bíró túlélő nem maradhat, a legszigorúbb büntetés terhe mellett!
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event004</Name>
+      <Status>Unlocked</Status>
+      <Position>28.0</Position>
+      <Title>2525. február 3.</Title>
+      <Date>2525. február 3.</Date>
+      <DetailText>
+         Megszűnik a kapcsolat a Harvest földműves kolóniával. Az első kísérletek sikertelenek a kapcsolat visszaállítására. Mindenki a legrosszabbtól tart. Időközben a Reach közelében keringő ONI-létesítményeken megkezdődnek a SPARTAN II-jelöltek képességnövelő beavatkozásai. Számos jelölt „kibukik” – meghal vagy megrokkan a folyamatban.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Arbiter01</Name>
+      <Status>Locked</Status>
+      <Position>29.0</Position>
+      <Title>A Büntetett Cselekedetek Könyvéből, 3. kötet</Title>
+      <Date>2525</Date>
+      <DetailText>
+         Az új Arbiter nem félt a haláltól, de még ő is tartott tőle, hogy mit rejthet az ősök ereklyéje. Mielőtt belépne, beküld egy unggoy szakaszt, hogy feltérképezzék, milyen veszélyekre számíthatnak. Ha mindent rendben találnak, túlélik, de az Arbiter a veszély legkisebb jelére felrobbantja a metántartályokhoz rögzített plazmabombákat.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event005</Name>
+      <Status>Unlocked</Status>
+      <Position>30.0</Position>
+      <Title>2525. április 20.</Title>
+      <Date>2525. április 20.</Date>
+      <DetailText>
+         Megszűnik a kapcsolat a Harvest bolygón felmerült probléma kivizsgálására küldött Argo felderítőhajóval. Válaszlépésként nagyobb, fegyveres harci egységet készítenek fel.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Arbiter02</Name>
+      <Status>Locked</Status>
+      <Position>31.0</Position>
+      <Title>A Büntetett Cselekedetek Könyvéből, 3. kötet</Title>
+      <Date>2525</Date>
+      <DetailText>
+         Az új Arbiter szinte azonnal próbatétel előtt állt. Egy hatalmas űrbázis romjai közelében az ősök egy olyan építményt alkottak, amely a hírek szerint egy „kulcsot” rejt: egy olyan objektumot, amelynek használatával ősi technológia aktiválható. Az építményt szigorúan őrizte egy olyan Elite gárdistákból álló, egyre növekvő létszámú hadtest, akik nem értettek egyet az új prófétákkal. Az Arbiter napokig tartó csatában pusztította el őket. Kulcsot ugyan nem sikerült találni, de a másként gondolkodók mozgalmát elfojtották.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event006</Name>
+      <Status>Unlocked</Status>
+      <Position>32.0</Position>
+      <Title>2525. október 7.</Title>
+      <Date>2525. október 7.</Date>
+      <DetailText>
+         A „D” harccsoport megérkezik a Harvest bolygóra, és szembeszáll a Covenant erőkkel, de miután háromból két hajóját elpusztítja egy Covenant hajó, kénytelen visszamenekülni a Reach bolygóra. Az összecsapás során hangüzenet érkezik a Covenant részéről: „Pusztulásotok az istenek akarata… és mi vagyunk az eszközeik.” Az üzenetet állítólag angolul fogalmazták, ami arra utal, a Covenant tanulmányozza már egy ideje az emberiséget.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>FrozenValley01</Name>
+      <Status>Locked</Status>
+      <Position>33.0</Position>
+      <Title>2525. november 1.</Title>
+      <Date>2525. november 1.</Date>
+      <DetailText>
+         Az UNSC katonai ereje teljes készültségbe lép, és megkezdi az előkészületeket a Harvest visszafoglalására. A gyarmati katonai igazgatás minden katonai ereje a NavCom/UniCom parancsnoksága alá kerül „a válság idejére”. A SPARTAN-II projektet felgyorsítják az utolsó fázis teljesítéséhez: ez a spartan harcosoknak szánt MJOLNIR, egy újfajta, aktív páncél.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Tundra01</Name>
+      <Status>Locked</Status>
+      <Position>34.0</Position>
+      <Title>2525. november 27.</Title>
+      <Date>2525. november 27.</Date>
+      <DetailText>
+         Minden SPARTAN-II katonát átszállítanak a Chi Ceti-4 bolygón található Damascus anyagvizsgáló központba, hogy felszereljék őket a MJOLNIR páncéllal. Működésének kipróbálására alig néhány óra marad, miután egy ellenséges hajó lép be a bolygórendszerbe, és megtámadja az orbitális pályán keringő ellátóhajót. Az ezt követő csatában három spartan harcos száll az ellenséges hajó fedélzetére, és első alkalommal csapnak össze a Covenant katonáival. Megszereznek tőlük egy energiapajzs kesztyűt. Az összecsapásban egy spartan harcos odavész.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Prophet01</Name>
+      <Status>Locked</Status>
+      <Position>35.0</Position>
+      <Title>High Prophet of Regret rendelete</Title>
+      <Date>2525</Date>
+      <DetailText>
+         Tudja meg mindenki, micsoda gyalázat történt a Chi Ceti  rendszerben. Az Unrelenting hajó legénységének hitetlensége következtében a Tisztátalanok bandája a fedélzetre jutott, és mészárlást rendezett. A jövőbeli ellenintézkedések érdekében tudományos csoportot kell létrehozni a zsákmányolt fegyverek és páncél vizsgálatára.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event007</Name>
+      <Status>Unlocked</Status>
+      <Position>36.0</Position>
+      <Title>Csata a Harvest bolygóért, 2526</Title>
+      <Date>2526</Date>
+      <DetailText>
+         A harvesti csatában Preston Cole altengernagy harci flottája – minden idők egyik legnagyobb mozgósított alakulata – megtámadja a kolónia megtizedeléséért felelős ellenséges hadihajót, és győzelmet arat. A csata állását csupán Cole utolsó pillanatban született taktikai ötlete fordítja az emberi erők javára. A Földre való visszatérése után Cole-t tengernagyi rangra léptetik elő.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>TerminalMoraine01</Name>
+      <Status>Locked</Status>
+      <Position>37.0</Position>
+      <Title>High Prophet of Regret rendelete</Title>
+      <Date>2526</Date>
+      <DetailText>
+         Az Episilon Indi győztes csatáját böjttel és imával ünnepeljük. A következő három munkaidőszakban az unggoy és kig-yar harcosok nem kapnak fejadagot. A sangheili és jiralhana harcosok a következő két pihenőidőt közös imával töltik. Az ötödik harangszónál mindenki megjelenik a nyilvános monitoroknál, hogy tanúja legyen azok kivégzésének, akik a győzelem során nem teljesítették a kötelességüket.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Cutter01</Name>
+      <Status>Locked</Status>
+      <Position>39.0</Position>
+      <Title>2528. január 30.</Title>
+      <Date>2528. január 30.</Date>
+      <DetailText>
+         Cutter kapitány visszautasítja a Prophecy romboló osztályú hajó parancsnoki posztját. Döntése, hogy családja közelében marad, az ONI részéről pszichológiai vizsgálatot eredményez, amely megállapítja, hogy bár alkalmas parancsnoki feladatra, családi kötelékei ellene hatnak a nagyívű katonai karriernek.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Brute01</Name>
+      <Status>Locked</Status>
+      <Position>40.0</Position>
+      <Title>16-196901. sz. eseményjelentés</Title>
+      <Date>2528</Date>
+      <DetailText>
+         A biztonságiakat a harmadik harangszónál, a második váltáskor kihívják a jiralhana főnök lakóegységéhez. A csapat a helyszínre érve az ajtót a keretéből kiszakítva találja, valamint az előtérben öt darab nem azonosított biológiai anyagmaradványra bukkan (a mellékelt kép mutatja). A közelebbi vizsgálat megerősíti, hogy a maradványok a négyes fedélzet két unggoy szakácsából származnak. A főnök nyugodt volt és együttműködő: elmondta, hogy ebédje nem felelt meg az elvárásoknak (a tüskés vaddisznó túl volt sütve, nem volt elég szósz). A karbantartók értesítést kapnak, a D4 fedélzet konyhájának felügyelője megrovást kap.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Forge01</Name>
+      <Status>Locked</Status>
+      <Position>42.0</Position>
+      <Title>2530. augusztus 17.</Title>
+      <Date>2530. augusztus 17.</Date>
+      <DetailText>
+         Forge őrmester zárkabüntetést kap egy magasabb rangú tiszt elleni támadásért. Pályafutása véget ért volna, ha nem avatkozik be Cole tengernagy, és nem gondoskodik az eljárás tisztességes és szabályos voltáról. A tiszt végül hadbíróság elé kerül, Forge őrmester pedig a Spirit of Fire fedélzetén kap beosztást, hogy a korábbi eseményeket a szőnyeg alá söpörjék.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Anders01</Name>
+      <Status>Locked</Status>
+      <Position>43.0</Position>
+      <Title>Anders professzor naplója, 2531. január 30.</Title>
+      <Date>2531. január 30.</Date>
+      <DetailText>
+         Amikor a The Last Gleaming fedélzetére léptem, a lakosztályomhoz kísértek. Az ajtón a „Doctor Anders” felirat állt – anyám azt szerette volna, ha szakmai karrieremben ezt a nevet használom. Nem állhatom, ha az ő vágyaira emlékeztetnek. Ez az egész titkos utazás az ő keze nyomát viseli magán.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox03</Name>
+      <Status>Locked</Status>
+      <Position>44.0</Position>
+      <Title>A High Prophet of Regret hivatalától</Title>
+      <Date>2531</Date>
+      <DetailText>
+         Térjetek vissza a lehető legnagyobb sebességgel a Harvest néven ismert világba. Meg kell ismernünk a szent ereklyében rejlő titkokat, hogy folytatódhassék a Nagy Utazás. Az emberi lényeket meg kell akadályozni a belépésben: mindent elkövetünk, hogy odajutásukat lehetetlenné tegyük. Ebben a feladatban mindenkinek elszántan kell ténykednie, ellenkező esetben megbűnhődik.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox01</Name>
+      <Status>Locked</Status>
+      <Position>45.0</Position>
+      <Title>2531. február 4.</Title>
+      <Date>2531. február 4.</Date>
+      <DetailText>
+         Az UNSC Spirit of Fire nevű ellátóhajója a Harvest körüli pályára áll. Miközben Cole tengernagy flottája máshol harcol, a Spirit azt a feladatot kapja, hogy vizsgálja meg a Harvest bolygón folyó Covenant tevékenységet, és keresse meg az eltűnt Prophecy UNSC-romboló túlélőit. Ezt a hajót korábban ugyanígy a Covenant erők megfigyelésére küldték a Harvestre. A Cutter kapitány parancsnoksága alatt álló Spirit a FLEETCOM-tól kapta ezt a feladatot. Az ONI Anders professzort küldte a fedélzetre, hogy vezesse a vizsgálatot.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox09</Name>
+      <Status>Locked</Status>
+      <Position>46.0</Position>
+      <Title>2531. február 6.</Title>
+      <Date>2531. február 6.</Date>
+      <DetailText>
+         Anders professzor levelet ír apjának, amely Homérosz Odüsszeia című művének részletes elemzésének tűnik. Valójában kódolt üzenet, amely részletesen ismerteti a Harvest bolygón lefolytatott küldetést és az ottani vizsgálatok eredményét. Az ONI ellenőrei teljesen elsiklanak a rejtjeles üzenet felett, és az információ változatlan formában jut el az apjához.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox02</Name>
+      <Status>Locked</Status>
+      <Position>48.0</Position>
+      <Title>2531. február 7.</Title>
+      <Date>2531. február 7.</Date>
+      <DetailText>
+         A Spirit of Fire a Prophecy legénységére emlékező szertartást tart. Az ONI munkatársainak tiltakozása ellenére felolvassák a legénység névsorát. A Prophecy összes emberével együtt odaveszett, amikor elsőként a Harvestre érkezett, hogy kivizsgálja a Covenant érdeklődését a sarkkör közelében talált lelettel kapcsolatban.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+   
+   <Event>
+      <Name>BlackBox07</Name>
+      <Status>Locked</Status>
+      <Position>49.0</Position>
+      <Title>2531. február 9.</Title>
+      <Date>2531. február 9.</Date>
+      <DetailText>
+         Az UNSC Spirit of Fire nevű hajója, miután Covenant erőkkel keveredett ütközetbe a Harvest bolygó fedélzetén, az Arcadia kolóniára érkezik. Ám ott azt tapasztalja, hogy már a Covenant is ott van, és támadás alatt tartja a kolóniát. A Spirit földi erői segédkeznek a kiürítésben, és feltartják a Covenant erőket  a bolygó felszínén.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox06</Name>
+      <Status>Locked</Status>
+      <Position>50.0</Position>
+      <Title>A High Prophet of Regret hivatalától</Title>
+      <Date>2531</Date>
+      <DetailText>
+         Arbiter, te vagy a Covenant keze. Az én kezem vagy. Tudod, hogy mit kell tenned. Térj vissza a felszínre, és fogd el az emberi nőszemélyt: azt aki bolonddá tett bennünket a Harvesten. Ez a nő az ősök titkának a kulcsa.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox08</Name>
+      <Status>Locked</Status>
+      <Position>51.0</Position>
+      <Title>2531. február 10.</Title>
+      <Date>2531. február 10.</Date>
+      <DetailText>
+         Anders professzor elfogása megköti Cutter kapitány kezét: a Spirit of Fire üldözőbe veszi az ellenséget a Covenant űrszektorában. A hajó mesterséges intelligenciája szerint a megérkezés az úti célhoz 312 óra múlva várható. A hajó addig fokozott készültségben marad, bár a legénység nem feltétlenül szükséges tagjait röviden hibernálják.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Forge02</Name>
+      <Status>Locked</Status>
+      <Position>52.0</Position>
+      <Title>2531. február 11.</Title>
+      <Date>2531. február 11.</Date>
+      <DetailText>
+         Forge őrmester szembeszáll Douglas-042 SPARTAN katonával a javaslat miatt, hogy pusztítsák el az Anders professzort szállító Covenant hajót. A vita eredménye egy törött szék, az egyik zsilip ajtó nem megfelelően záró tömítése, és szigorú parancs a hajó számítógépe, Serina részéről. 42 és Forge ettől kezdve mindig együtt eszik az étkezdében.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox10</Name>
+      <Status>Locked</Status>
+      <Position>54.0</Position>
+      <Title>2531. február 14.</Title>
+      <Date>2531. február 14.</Date>
+      <DetailText>
+         Serina, mivel tudja, hogy a legénység talán csak egyik irányban teszi meg az utat, Valentin-napi üdvözleteket hamisít a családtagoktól a legénység tagjai számára. Az üzenetekhez a korábbi levelezést használja fel. Soha, senki nem gyanítja a csalást.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox12</Name>
+      <Status>Locked</Status>
+      <Position>56.0</Position>
+      <Title>A Büntetett Cselekedetek Könyvéből, 3. kötet</Title>
+      <Date>2531</Date>
+      <DetailText>
+         A védett világ, amelyet Regret aktiválni akar, csupán egyike volt azoknak, amelyeket a Covenant a gyűrűk keresése során felfedezett. Ezek a technológiai bőségszaruk lehetővé tették a Covenant számára, hogy gyorsan hozzáférhessen a fejlett fegyverekhez és űrhajtómű-rendszerekhez, így vehették át az uralmat a galaxis felett.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox13</Name>
+      <Status>Locked</Status>
+      <Position>57.0</Position>
+      <Title>2531. február 23.</Title>
+      <Date>2531. február 23.</Date>
+      <DetailText>
+         A Spirit of Fire egy feltérképezetlen bolygóra érkezik, ahol csak úgy nyüzsögnek az ismeretlen életformák. A hajó egyetlen napon belül a bolygó belsejébe kerül, ahol a legénység összetűz a Covenant erőkkel, és végül megmenti Anders professzort.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Exile01</Name>
+      <Status>Locked</Status>
+      <Position>58.0</Position>
+      <Title>Cutter naplója, 2531. február 25.</Title>
+      <Date>2531. február 25.</Date>
+      <DetailText>
+         A bolygó héjstruktúráján földfelszíni műveletekben részt vevő Pelican egységek minden esetben négy-öt bevetés után leálltak. A por a bolygó légkörébe való belépéskor a beömlőnyílásokra tapadt, mintha maga a bolygó védekezne, mert nem akarja, hogy felületére űrjárművek szálljanak.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox15</Name>
+      <Status>Locked</Status>
+      <Position>59.0</Position>
+      <Title>2531. február 25.</Title>
+      <Date>2531. február 25.</Date>
+      <DetailText>
+         Forge őrmester önfeláldozásának köszönhetően a Spirit of Fire el tud menekülni a Forerunner védett világából. A Spirit of Fire hazafelé veszi az útirányt, miközben a legénység többsége hibernálásra készül az útra, amely évekig, vagy talán évtizedekig fog tartani.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Release01</Name>
+      <Status>Locked</Status>
+      <Position>60.0</Position>
+      <Title>O'Neil főtiszt naplója, 2531. február 26.</Title>
+      <Date>2531. február 26.</Date>
+      <DetailText>
+         Nem volt könnyű meghozni a döntést, hogy a vírussal fertőzött tetemeket el kell hamvasztani, de a legénységre jelentett veszély, a fertőzés agresszív jellege lehetetlenné tette, hogy a holttesteket a Spirit of Fire fedélzetén szállítsuk tovább. A vírus és hatásainak vizsgálata célszerűtlennek tűnik, mivel nem rendelkezünk karanténlaborral, valamint semmilyen elképzelésünk nincs a vírus terjedési módjáról.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox14</Name>
+      <Status>Locked</Status>
+      <Position>62.0</Position>
+      <Title>2531. március 1.</Title>
+      <Date>2531. március 1.</Date>
+      <DetailText>
+         Prescott főmérnök befejezi a Spirit of Fire sérüléseinek felmérését, folynak a javítások a hajótörzsön. Az FTL reaktormagot nem lehet kicserélni, és nem látszik lehetségesnek az sem, hogy az alapreaktorokból készítsenek pótegységet. Az a döntés születik, hogy a hajót csökkentett személyzettel működtetik, a többieket felfüggesztett életfunkcióba helyezik.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Anders02</Name>
+      <Status>Locked</Status>
+      <Position>63.0</Position>
+      <Title>Cutter naplója, 2531. március 3.</Title>
+      <Date>2531. március 3.</Date>
+      <DetailText>
+         Anders professzor a Covenant fogságában töltött idővel a háború eddigi leghosszabb hadifogságát élte át. Nem kért orvosi segítséget, és a fogságban töltött időről sem beszél sokat, az ember csak elképzelni tudja, micsoda rémségeken mehetett keresztül.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Labyrinth01</Name>
+      <Status>Locked</Status>
+      <Position>64.0</Position>
+      <Title>Anders naplója, 2531. március 4.</Title>
+      <Date>2531. március 4.</Date>
+      <DetailText>
+         Ennek a „világnak” a mesterséges kialakítása messze meghaladja a Covenant képességeit. Úgy tűnik, hogy a technológiából saját használatukra szemezgettek dolgokat, de a teljes gépezetet nem tudták működtetni sem eredetileg tervezett formájában, sem továbbfejlesztéssel. Az eszköz működésbe hozásához a kezemre volt szükség, ez arra a gondolatra sarkall, hogy a bolygó eredeti építői rendelkezhettek valamiféle tudással az emberi fajról.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Cutter02</Name>
+      <Status>Locked</Status>
+      <Position>68.0</Position>
+      <Title>2531. március 12.</Title>
+      <Date>2531. március 12.</Date>
+      <DetailText>
+         Cutter kapitány végigjárja a hajót, bemegy a kórházegységbe is, hogy megnézze a csata után még gyógyulófélben lévő legénységet. Biztosítja Hershey nővért, hogy megtalálják a hazavezető utat, és találkozik még a vőlegényével. Kabinjába visszatérve megír még öt kitüntetési javaslatot, tizennégy részvétnyilvánítást, és a feleségének egy levelet. Két hét óta először elalszik.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Repository01</Name>
+      <Status>Locked</Status>
+      <Position>70.0</Position>
+      <Title>2534. február 10.</Title>
+      <Date>2534. február 10.</Date>
+      <DetailText>
+         A UNSC „teljes legénységével odaveszett” kategóriába sorolja a Spirit of Fire hajót. A korábbi „eltűnt” besorolás még reményt hagyott a rokonoknak és barátoknak. A változtatás okát szigorúan titkosnak nyilvánítják. A legénységről gyászszertartáson emlékeznek meg, de számos fontos családtag nem jelenik meg, mert még reménykednek, hogy szeretteik életben vannak.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event008</Name>
+      <Status>Unlocked</Status>
+      <Position>73.0</Position>
+      <Title>2536. június 1.</Title>
+      <Date>2536. június 1.</Date>
+      <DetailText>
+         Megkezdődik a belső kolóniák ostroma, a Covenant erők tömegével érkeznek az emberek irányítása alatt álló űrszektorokba. A háború több éven át visszatérő módon folyik: az emberek elszigetelt csatákat nyernek, rendszerint földfelszíni műveletek során, de iszonyatos árat fizetnek érte. A kolóniák sorban elesnek.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BeasleysPlateau01</Name>
+      <Status>Locked</Status>
+      <Position>84.0</Position>
+      <Title>2549. szeptember 9.</Title>
+      <Date>2549. szeptember 9.</Date>
+      <DetailText>
+         Az Arcadia második eleste. A Covenant az Arcadia kolóniát a bolygó elleni 2531-es első támadás után békén hagyta, de az emberek gyakorlatilag elhagyták, és Pirth fővárost visszavehette a természet. Végül egy gazdálkodókból álló kis vidéki közösség megalapította Abaskunt, a Mu kontinens jól termő vidékén. Bár a törvények többnyire nem működtek, a terület az UNSC számára fontos élelmiszer-ellátási lehetőséget jelentett, míg a Covenant 2549 tavaszán újabb támadást nem indított a bolygó ellen.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>FortDeen01</Name>
+      <Status>Locked</Status>
+      <Position>86.0</Position>
+      <Title>High Prophet of Truth rendelete</Title>
+      <Date>2550</Date>
+      <DetailText>
+         Tudomásunkra jutott, hogy az újonnan épített harci járműveknél késedelem lépett fel a Luminary-keresők felszerelésében. Azokon a járműveken, ahol továbbra sincs felszerelve a kereső, minden 64 unggoy munkásból egyet ki kell végezni. A sangheil felügyelők és az unggoy munkások fegyelmének megőrzése érdekében az áldozat kiválasztását és kivégzését kig-yar halálosztagok végzik. Ez mindennap folytatódik, amíg meg nem történik a jármű felszerelése a Luminary-keresővel.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BloodGulch01</Name>
+      <Status>Locked</Status>
+      <Position>90.0</Position>
+      <Title>2552. augusztus 27.</Title>
+      <Date>2552. augusztus 27.</Date>
+      <DetailText>
+         A még életben lévő huszonnyolc SPARTAN II katona közül huszonötöt, közöttük SPARTAN 117-et is visszahívják a Reach bolygóra, ahol eligazítást kapnak a Covenant jelentette fenyegetésről, valamint új parancsot is: szálljanak fel egy sérült Covenant hajóra, egy „szakértő” segítségével törjék fel a Covenant számítógéprendszerét, és keressék meg a Covenant szülővilágát. Amikor ezt sikerült elvégezni, titkos csoport indul, hogy fogságba ejtse a Covenant vezetőit, és kikényszerítse a tűzszünetet. Az emberi haderőket az utóbbi idők sikerei ellenére is módszeresen pusztítják, és talán ez az egyetlen esély a túlélésre.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event009</Name>
+      <Status>Unlocked</Status>
+      <Position>92.0</Position>
+      <Title>2552. augusztus 30. – 04.00 óra</Title>
+      <Date>2552. augusztus 30.</Date>
+      <DetailText>
+         Az ONI CASTLE nevű létesítményének és a Spartan II projektnek otthont adó Reach bolygót túlerőben lévő Covenant erő támadja meg. A Keyes kapitány parancsnoksága alatt álló Pillar of Autumn hajó csatába viszi a spartan katonákat, azt remélve, hogy sikerül elfoglalni egy Covenant hajót. Bár a Covenant erőknek nem sikerül megtudniuk a Föld helyét, a legtöbb spartan katona odavész a csatában, és a Reach elesik.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event010</Name>
+      <Status>Unlocked</Status>
+      <Position>93.0</Position>
+      <Title>2552. augusztus 30. – 05.00 óra</Title>
+      <Date>2552. augusztus 30.</Date>
+      <DetailText>
+         A Keyes kapitány parancsnoksága alatt álló Pillar of Autumn menekül a Reach bolygóról, Covenant hajók üldözik. A hajó súlyosan megsérül, de sikerül hipertérbe ugrania és elmenekülnie. A Pillar of Autumn fedélzetén utazik a hírek szerint az egyetlen spartan katona, aki túlélte az összecsapást a Reach bolygón.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Crevice01</Name>
+      <Status>Locked</Status>
+      <Position>98.0</Position>
+      <Title>High Prophet of Truth rendelete</Title>
+      <Date>2552</Date>
+      <DetailText>
+         Az állomány összes tagjának a mai második pihenőidőszakban a monitorok előtt kell lennie, teljes figyelemmel a látottakra. Minden monitoron látható lesz a Rendkívüli Igazság flottája sangheili főparancsnokának alázatra tanító megbüntetése kudarcáért, gyávaságáért és hitetlenségéért.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Brute02</Name>
+      <Status>Locked</Status>
+      <Position>99.0</Position>
+      <Title>High Prophet of Truth rendelete</Title>
+      <Date>2552</Date>
+      <DetailText>
+         A jiralhana harcosok érdemeinek elismeréseként a Mélységes Magány flottája, a Higgadt Önuralom flottája és a Belső Tudás flottája összes sangheil harcosa helyére jiralhana harcosok lépjenek. Az eltávolított sangheil harcosok más feladatra lesznek beosztva. E lépés megünneplésére minden börtönben lévő vagy bűnt elkövetett jiralhana nemzetségbelit szabadon kell bocsátani, rehabilitálni kell, és büntetését el kell engedni.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+</Timeline>

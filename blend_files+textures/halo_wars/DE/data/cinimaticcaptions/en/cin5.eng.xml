@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<cinimaticCaption>
+	<caption startFrame="120" endFrame="190" color="4294967295">CUTTER: So all it did was point here?</caption>
+	<caption startFrame="200" endFrame="275" color="4294967295">ANDERS: In the thirty seconds I had to examine the artifact?</caption>
+	<caption startFrame="280" endFrame="375" color="4294967295">Yes, all it did was point at a second star system.</caption>
+	<caption startFrame="380" endFrame="455" color="4294967295">SERINA: Arcadia colony, to be precise.</caption>
+	<caption startFrame="460" endFrame="555" color="4294967295">Population a little under three million, largely unexplored</caption>
+	<caption startFrame="560" endFrame="650" color="4294967295">but apparently quite the vacation resort.</caption>
+	<caption startFrame="660" endFrame="735" color="4294967295">ANDERS: There's something there, Captain, and I think</caption>
+	<caption startFrame="740" endFrame="790" color="4294967295">it's important that we get to it before the Covenant do.</caption>
+	<caption startFrame="800" endFrame="860" color="4294967295">CUTTER: Our orders are to investigate Harvest.</caption>
+	<caption startFrame="870" endFrame="970" color="4294967295">We still don't know a lot about what's going on down there.</caption>
+	<caption startFrame="970" endFrame="1045" color="4294967295">ANDERS: I understand that, Captain, but everything I see here</caption>
+	<caption startFrame="1050" endFrame="1150" color="4294967295">tells me that we need to get to Arcadia to figure this out.</caption>
+	<caption startFrame="1200" endFrame="1275" color="4294967295">CUTTER: Very well, Professor. I'll clear it with Admiral Cole.</caption>
+	<caption startFrame="1280" endFrame="1350" color="4294967295">Serina, set course for Arcadia.</caption>
+	<caption startFrame="1360" endFrame="1475" color="4294967295">SERINA: Aye, sir. Crazy mystery trip to Arcadia plotted in,</caption>
+	<caption startFrame="1480" endFrame="1560" color="4294967295">spinning up FTL drive.</caption>
+	<caption startFrame="1570" endFrame="1640" color="4294967295">ANDERS: Serina, get out of my lab.</caption>
+	<caption startFrame="1820" endFrame="1920" color="4294967295" SubtitleForVisualElement="true">PROCYON SYSTEM - ARCADIA
+FEBRUARY 9TH 2531</caption>
+	<caption startFrame="1940" endFrame="1990" color="4294967295">CUTTER: Serina - situation update, please.</caption>
+	<caption startFrame="2000" endFrame="2105" color="4294967295">SERINA: Two Covenant vessels came out of slipspace near Arcadia.</caption>
+	<caption startFrame="2110" endFrame="2235" color="4294967295">The Belfast, Pillar of Autumn, Texas and Armstrong engaged immediately</caption>
+	<caption startFrame="2240" endFrame="2325" color="4294967295">and caught one with its shields down.</caption>
+	<caption startFrame="2330" endFrame="2425" color="4294967295">We lost the Texas and Belfast, the Armstrong is venting atmosphere</caption>
+	<caption startFrame="2430" endFrame="2495" color="4294967295">and Autumn is badly damaged.</caption>
+	<caption startFrame="2500" endFrame="2560" color="4294967295">The second vessel is engaged in surface activity.</caption>
+	<caption startFrame="2570" endFrame="2620" color="4294967295">CUTTER: What kind of surface activity?</caption>
+	<caption startFrame="2630" endFrame="2780" color="4294967295">SERINA: Unknown. Wait, I'm getting a signal. Audio only.</caption>
+	<caption startFrame="2790" endFrame="2875" color="4294967295">RADIO: We're being overrun! Alien forces are inside the city limits</caption>
+	<caption startFrame="2880" endFrame="2985" color="4294967295">and approaching the space port. We're still evacuating civilians</caption>
+	<caption startFrame="2990" endFrame="3040" color="4294967295">...we need help!</caption>
+	<caption startFrame="3050" endFrame="3110" color="4294967295">SERINA: Getting visuals now, Captain.</caption>
+	<caption startFrame="3680" endFrame="3760" color="4294967295">CUTTER: Serina, launch pods. Bring the ship to alert.</caption>
+</cinimaticCaption>

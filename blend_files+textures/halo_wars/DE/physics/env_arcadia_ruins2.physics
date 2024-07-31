@@ -1,0 +1,6 @@
+<physics>
+   <blueprint>env_arcadia_ruins2</blueprint>
+   <ThrownByBallistics>false</ThrownByBallistics>
+   <DestroyedByBallistics>true</DestroyedByBallistics>
+   <MotionType>fixed</MotionType>
+</physics>

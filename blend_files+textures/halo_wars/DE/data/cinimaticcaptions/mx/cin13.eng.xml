@@ -1,0 +1,22 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<cinimaticCaption>
+	<caption startFrame="170" endFrame="250" color="4294967295">FORGE: Caballeros, ¡esto está que arde!</caption>
+	<caption startFrame="640" endFrame="700" color="4294967295">MARINE: ¡Activado!</caption>
+	<caption startFrame="710" endFrame="740" color="4294967295">SPARTAN: ¡Sargento!</caption>
+	<caption startFrame="820" endFrame="850" color="4294967295">FORGE: ¿Teniente?</caption>
+	<caption startFrame="910" endFrame="980" color="4294967295">FORGE: ¡Encárgate de esos élites! ¡Él es mío!</caption>
+	<caption startFrame="1360" endFrame="1400" color="4294967295">SPARTAN: ¡Vamos!</caption>
+	<caption startFrame="2440" endFrame="2520" color="4294967295">INQUISIDOR: Como los demás de tu raza, débil e indisciplinado.</caption>
+	<caption startFrame="3000" endFrame="3100" color="4294967295">INQUISIDOR: Esta vez no te salvará ninguna señorita.</caption>
+	<caption startFrame="3160" endFrame="3220" color="4294967295">FORGE: Mírame a los ojos y repítelo.</caption>
+	<caption startFrame="3240" endFrame="3310" color="4294967295">INQUISIDOR: Como tú quieras.</caption>
+	<caption startFrame="3410" endFrame="3530" color="4294967295">INQUISIDOR: Mi cara será lo último que vean tus insignificantes ojos.</caption>
+	<caption startFrame="3920" endFrame="4015" color="4294967295">FORGE: ¡Y, para que lo sepas, te habría dado lo tuyo la primera vez</caption>
+	<caption startFrame="4020" endFrame="4070" color="4294967295">si la señorita no me hubiera detenido!</caption>
+	<caption startFrame="4270" endFrame="4315" color="4294967295">SPARTAN: Señor, ya se está sobrecalentando.</caption>
+	<caption startFrame="4320" endFrame="4375" color="4294967295">Tendré que separar los núcleos y alinearlos manualmente</caption>
+	<caption startFrame="4380" endFrame="4420" color="4294967295">cuando tengan que explotar.</caption>
+	<caption startFrame="4430" endFrame="4505" color="4294967295">FORGE: Hijo, tengo la sensación de que necesitaremos a todos los Spartans</caption>
+	<caption startFrame="4510" endFrame="4640" color="4294967295">antes de que termine todo. Yo me encargo, tú vuelve a la nave.</caption>
+	<caption startFrame="4720" endFrame="4780" color="4294967295">SPARTAN: Buena suerte, señor. Ha sido un honor.</caption>
+</cinimaticCaption>

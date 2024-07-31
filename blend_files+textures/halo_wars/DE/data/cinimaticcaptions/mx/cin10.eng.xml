@@ -1,0 +1,11 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<cinimaticCaption>
+	<caption startFrame="470" endFrame="495" color="4294967295">CUTTER: ¡Todo a estribor!</caption>
+	<caption startFrame="500" endFrame="540" color="4294967295">SERINA: ¡Todo a estribor, señor!</caption>
+	<caption startFrame="910" endFrame="960" color="4294967295">SERINA: ¡Capitán! ¡Están cargando las armas!</caption>
+	<caption startFrame="970" endFrame="1025" color="4294967295">CUTTER: Puestos de batalla, alineen las armas.</caption>
+	<caption startFrame="1030" endFrame="1100" color="4294967295">Diga a Forge que aún no ha terminado.</caption>
+	<caption startFrame="1110" endFrame="1160" color="4294967295">SERINA: Advirtiendo al sargento, sí, señor.</caption>
+	<caption startFrame="1330" endFrame="1395" color="4294967295">SERINA: ¿Soy la única a la que le asusta el hecho</caption>
+	<caption startFrame="1400" endFrame="1450" color="4294967295">de que estamos dentro del planeta?</caption>
+</cinimaticCaption>

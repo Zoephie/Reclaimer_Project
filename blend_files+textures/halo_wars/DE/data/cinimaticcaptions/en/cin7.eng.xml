@@ -1,0 +1,16 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<cinimaticCaption>
+	<caption startFrame="50" endFrame="140" color="4294967295">CUTTER: So...it's an energy shield that they can deploy on the planet?</caption>
+	<caption startFrame="150" endFrame="175" color="4294967295">ANDERS: Yes, Captain.</caption>
+	<caption startFrame="180" endFrame="270" color="4294967295">We can't see through it, but the Covenant are up to something.</caption>
+	<caption startFrame="280" endFrame="365" color="4294967295">CUTTER: Agreed, and we need to find out what that is.</caption>
+	<caption startFrame="370" endFrame="440" color="4294967295">Can we use the ship's cannons and take it out directly?</caption>
+	<caption startFrame="450" endFrame="515" color="4294967295">ANDERS: We may destroy whatever is under there.</caption>
+	<caption startFrame="520" endFrame="645" color="4294967295">Covenant shield technology is susceptible to superheated plasma.</caption>
+	<caption startFrame="650" endFrame="720" color="4294967295">Aren't we field testing some plasma-based Rhinos?</caption>
+	<caption startFrame="730" endFrame="830" color="4294967295">SERINA: Pillar of Autumn inventory shows they have some prototypes.</caption>
+	<caption startFrame="840" endFrame="915" color="4294967295">ANDERS: It may take some time to get the right power settings.</caption>
+	<caption startFrame="920" endFrame="970" color="4294967295">I'll need to be on the ground to do that.</caption>
+	<caption startFrame="980" endFrame="1070" color="4294967295">CUTTER: Professor, Sergeant Forge, let's get that shield down!</caption>
+	<caption startFrame="1080" endFrame="1160" color="4294967295">FORGE: Ugh...babysitting again?</caption>
+</cinimaticCaption>

@@ -1,0 +1,59 @@
+﻿<FontManager>
+   <Language name="Default">
+      <FontFile name="art\ui\flash\fontlibrary\Locale\fonts.gfx" />
+      <!-- style can be "Normal", "Bold", "Italic" or "BoldItalic" if specified -->
+      <FontMap fontTitle="$HWTitle"      fontName="ConduitMdITC TT" style="Normal"/>
+      <FontMap fontTitle="$HWNormal"     fontName="ConduitMdITC TT" style="Normal"/>
+      <FontMap fontTitle="$HWMenu"       fontName="ConduitMdITC TT" style="Normal"/>
+      <FontMap fontTitle="$HWNormalBold" fontName="ConduitMdITC TT" style="Normal"/>
+   </Language>
+   <Language name="English">
+      <FontFile name="art\ui\flash\fontlibrary\English\fonts.gfx" />
+      <FontMap fontTitle="$HWTitle"      fontName="ConduitMdITC TT" style="Normal"/>
+      <FontMap fontTitle="$HWNormal"     fontName="ConduitMdITC TT" style="Normal"/>
+      <FontMap fontTitle="$HWMenu"       fontName="ConduitMdITC TT" style="Normal"/>
+      <FontMap fontTitle="$HWNormalBold" fontName="ConduitMdITC TT" style="Normal"/>
+   </Language>
+   <Language name="CodePage1250">
+      <FontFile name="art\ui\flash\fontlibrary\CodePage1250\Fonts.gfx" />
+      <FontMap fontTitle="$HWTitle"      fontName="Calibri" style="Normal" scaleFactor="0.95"/>
+      <FontMap fontTitle="$HWNormal"     fontName="Calibri" style="Normal" scaleFactor="0.95"/>
+      <FontMap fontTitle="$HWMenu"       fontName="Calibri" style="Normal" scaleFactor="0.95"/>
+      <FontMap fontTitle="$HWNormalBold" fontName="Calibri" style="Normal" scaleFactor="0.95"/>
+   </Language>
+   <Language name="CodePage1251">
+      <FontFile name="art\ui\flash\fontlibrary\CodePage1251\Fonts.gfx" />
+      <FontMap fontTitle="$HWTitle"      fontName="Calibri" style="Normal"/>
+      <FontMap fontTitle="$HWNormal"     fontName="Calibri" style="Normal"/>
+      <FontMap fontTitle="$HWMenu"       fontName="Calibri" style="Normal"/>
+      <FontMap fontTitle="$HWNormalBold" fontName="Calibri" style="Normal"/>
+   </Language>
+   <Language name="CodePage1252">
+      <FontFile name="art\ui\flash\fontlibrary\CodePage1252\Fonts.gfx" />
+      <FontMap fontTitle="$HWTitle"      fontName="Calibri" style="Normal"/>
+      <FontMap fontTitle="$HWNormal"     fontName="Calibri" style="Normal"/>
+      <FontMap fontTitle="$HWMenu"       fontName="Calibri" style="Normal"/>
+      <FontMap fontTitle="$HWNormalBold" fontName="Calibri" style="Normal"/>
+   </Language>
+   <Language name="Japanese">
+      <FontFile name="art\ui\flash\fontlibrary\Japanese\fonts.gfx" />
+      <FontMap fontTitle="$HWTitle"      fontName="DFGHSMaruGothic-W4" style="Normal" scaleFactor="0.80" baselineOffset="100.0"/>
+      <FontMap fontTitle="$HWNormal"     fontName="DFGHSMaruGothic-W4" style="Normal" scaleFactor="0.80" baselineOffset="100.0"/>
+      <FontMap fontTitle="$HWMenu"       fontName="DFGHSMaruGothic-W4" style="Normal" scaleFactor="0.80" baselineOffset="100.0"/>
+      <FontMap fontTitle="$HWNormalBold" fontName="DFGHSMaruGothic-W4" style="Normal" scaleFactor="0.80" baselineOffset="100.0"/>
+   </Language>
+   <Language name="Korean">
+      <FontFile name="art\ui\flash\fontlibrary\Korean\fonts.gfx" />
+      <FontMap fontTitle="$HWTitle"      fontName="Malgun Gothic" style="Normal" scaleFactor="0.80"/>
+      <FontMap fontTitle="$HWNormal"     fontName="Malgun Gothic" style="Normal" scaleFactor="0.80"/>
+      <FontMap fontTitle="$HWMenu"       fontName="Malgun Gothic" style="Normal" scaleFactor="0.80"/>
+      <FontMap fontTitle="$HWNormalBold" fontName="Malgun Gothic" style="Normal" scaleFactor="0.80"/>
+   </Language>
+   <Language name="TChinese">
+      <FontFile name="art\ui\flash\fontlibrary\TraditionalChinese\fonts.gfx" />
+      <FontMap fontTitle="$HWTitle"      fontName="DFPYuanMedium-B5" style="Normal" scaleFactor="0.80" baselineOffset="80.0"/>
+      <FontMap fontTitle="$HWNormal"     fontName="DFPYuanMedium-B5" style="Normal" scaleFactor="0.80" baselineOffset="80.0"/>
+      <FontMap fontTitle="$HWMenu"       fontName="DFPYuanMedium-B5" style="Normal" scaleFactor="0.80" baselineOffset="80.0"/>
+      <FontMap fontTitle="$HWNormalBold" fontName="DFPYuanMedium-B5" style="Normal" scaleFactor="0.80" baselineOffset="80.0"/>
+   </Language>
+</FontManager>

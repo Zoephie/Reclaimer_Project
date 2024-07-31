@@ -1,0 +1,515 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<Timeline>
+   <LockedImage>img://art\ui\flash\shared\textures\timeline\timeline_locked.ddx</LockedImage>
+
+   <Event>
+      <Name>TheDocks01</Name>
+      <Status>Locked</Status>
+      <Position>1.0</Position>
+      <Title>16 gennaio 2498</Title>
+      <Date>16 gennaio 2498</Date>
+      <DetailText>Sulla colonia di Arcadia viene inaugurato il DSRA, la struttura di ricerca spaziale concepita per lo studio di eventi ad altissima gravità, come buchi neri e altre aree non direttamente esplorabili dalle astronavi da ricognizione. Il DSRA sarà distrutto dai Covenant durante il primo attacco sferrato contro Arcadia, nel 2531.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event001</Name>
+      <Status>Unlocked</Status>
+      <Position>5.0</Position>
+      <Title>2506</Title>
+      <Date>2506</Date>
+      <DetailText>Il progetto ORION, ossia la versione originaria del progetto SPARTAN studiata dall'Amministrazione Militare Coloniale per creare e addestrare squadre di supersoldati destinati a operazioni armate sotto copertura nelle colonie esterne, viene accantonato. Le capacità degli Spartan, seppur efficaci, si rivelano inferiori alle aspettative alla luce degli elevati costi di produzione e sviluppo. I soldati inseriti nel programma vengono riassegnati a varie unità speciali.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event002</Name>
+      <Status>Unlocked</Status>
+      <Position>14.0</Position>
+      <Title>17 agosto 2517</Title>
+      <Date>17 agosto 2517</Date>
+      <DetailText>Il Dottor Catherine Halsey e il suo assistente, il Tenente Jacob Keyes, esaminano segretamente uno dei primi potenziali soggetti del misterioso progetto "SPARTAN-II". Si tratta di un bambino di sei anni di nome John, che risulta perfetto per lo scopo. Halsey ne organizza in segreto il reclutamento.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event003</Name>
+      <Status>Unlocked</Status>
+      <Position>15.0</Position>
+      <Title>23 settembre 2517</Title>
+      <Date>23 settembre 2517</Date>
+      <DetailText>Prende il via il progetto SPARTAN-II del Dottor Halsey. Le prime ricerche vengono condotte sul pianeta Reach, nel sistema di Epsilon Eridani. Settantacinque bambini di entrambi i sessi vengono sottoposti a un intensivo programma di riaddestramento fisico e mentale e di potenziamento tecnologico della struttura scheletrica e della muscolatura.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox04</Name>
+      <Status>Locked</Status>
+      <Position>18.0</Position>
+      <Title>20 luglio 2520</Title>
+      <Date>20 luglio 2520</Date>
+      <DetailText>Il Capitano Alexander, l'ultimo comandante civile della Spirit of Fire, si ritira dal servizio attivo al termine della missione Verent. La nave viene requisita dall'UNSC per essere riammodernata e riconvertita.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox05</Name>
+      <Status>Locked</Status>
+      <Position>20.0</Position>
+      <Title>1 settembre 2520</Title>
+      <Date>1 settembre 2520</Date>
+      <DetailText>Presso i cantieri orbitali di Reach si conclude la riconversione della Spirit of Fire ad astronave militare in servizio attivo, inizialmente incaricata di fornire supporto terrestre nell'operazione TREBUCHET.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>PirthOutskirts01</Name>
+      <Status>Locked</Status>
+      <Position>22.0</Position>
+      <Title>Editto dell'Alto Profeta del Ritegno</Title>
+      <Date>2524</Date>
+      <DetailText>È risaputo che a bordo della nave Kig-Yar Pitiless è stato scoperto il cadavere di un Impuro. Udite e obbedite: tutte le navi Kig-Yar dovranno ora essere perquisite. I fedeli Sangheili guideranno squadre di Unggoy a bordo di tutte le navi Kig-Yar per cercare ulteriori prove di Impurità. Così è stato ordinato.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox11</Name>
+      <Status>Locked</Status>
+      <Position>23.0</Position>
+      <Title>Editto Ufficio dell'Alto Profeta della Tolleranza</Title>
+      <Date>2524</Date>
+      <DetailText>Udite e obbedite: verranno costituite cinquecento squadre per studiare la lingua degli Impuri, formate dagli Unggoy e dai Sangheili più intelligenti e istruiti. Tali squadre parleranno tra loro soltanto la lingua degli Impuri e la insegneranno a tutte le squadre militari d'assalto per rendere il nemico più vulnerabile.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Prophet02</Name>
+      <Status>Locked</Status>
+      <Position>26.0</Position>
+      <Title>Citazione da "Le gesta punite", vol. III</Title>
+      <Date>2525</Date>
+      <DetailText>Rimorso, il più giovane dei nuovi Profeti, ascese al potere attraverso la manipolazione e la corruzione. Fu uno dei Profeti che visitarono l'Oracolo, un'antica intelligenza artificiale, scoprendo che gli umani erano in qualche modo legati alla razza dei Precursori e che le basi stesse del credo dei Covenant erano fallaci. La loro decisione di annientare l'umanità per celare tali fatti è tuttora oggetto di dibattito.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+   <Event>
+      <Name>Chasms01</Name>
+      <Status>Locked</Status>
+      <Position>27.0</Position>
+      <Title>Editto dell'Ufficio dell'Alto Profeta della Verità</Title>
+      <Date>2525</Date>
+      <DetailText>Covenant, udite e obbedite. Assaltate il mondo abitato di Epsilon Indi con armi e navi da guerra. Colpite con tutta la vostra forza. La sopravvivenza di qualunque essere senziente verrà severamente punita.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event004</Name>
+      <Status>Unlocked</Status>
+      <Position>28.0</Position>
+      <Title>3 febbraio 2525</Title>
+      <Date>3 febbraio 2525</Date>
+      <DetailText>Si interrompe il contatto con la colonia agricola di Harvest e gli iniziali tentativi di ripristinarlo falliscono. Si teme il peggio. Nel frattempo, nelle strutture orbitali ONI presso Reach stanno per essere avviate le procedure chirurgiche per il potenziamento dei candidati al progetto SPARTAN-II. Nel processo, molti candidati moriranno o subiranno menomazioni permanenti.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Arbiter01</Name>
+      <Status>Locked</Status>
+      <Position>29.0</Position>
+      <Title>Citazione da "Le gesta punite", vol. III</Title>
+      <Date>2525</Date>
+      <DetailText>Questo nuovo Arbiter non temeva la morte, ma persino lui aveva paura di quel che era custodito all'interno delle reliquie degli Antichi. Prima di entrare in una reliquia, inviava una squadra di Unggoy alla ricerca di eventuali pericoli. Se l'area era sicura, la squadra sopravviveva, ma al minimo segnale di pericolo l'Arbiter faceva detonare le bombe al plasma collegate alle bombole di metano.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event005</Name>
+      <Status>Unlocked</Status>
+      <Position>30.0</Position>
+      <Title>20 aprile 2525</Title>
+      <Date>20 aprile 2525</Date>
+      <DetailText>Si interrompe il contatto con la nave da ricognizione Argo, inviata a indagare sul problema di Harvest. Si decide quindi di costituire un gruppo d'assalto armato più numeroso.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Arbiter02</Name>
+      <Status>Locked</Status>
+      <Position>31.0</Position>
+      <Title>Citazione da "Le gesta punite", vol. III</Title>
+      <Date>2525</Date>
+      <DetailText>Il nuovo Arbiter fu messo alla prova quasi subito. Si riteneva che una struttura degli Antichi situata presso le rovine di una vasta installazione spaziale contenesse una "chiave" in grado di attivare alcune tecnologie. La struttura era ben difesa da una sempre più numerosa fazione Elite che non appoggiava i nuovi Profeti. L'Arbiter li uccise in una battaglia che si protrasse per svariati giorni. Non fu ritrovata alcuna chiave, ma i dissidenti vennero eliminati.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event006</Name>
+      <Status>Unlocked</Status>
+      <Position>32.0</Position>
+      <Title>7 ottobre 2525</Title>
+      <Date>7 ottobre 2525</Date>
+      <DetailText>Il gruppo d'assalto D giunge su Harvest e attacca i Covenant, ma è costretto a ritirarsi su Reach in seguito alla distruzione di due delle tre astronavi da parte di una nave Covenant. Durante lo scontro, viene trasmesso il seguente messaggio audio dai Covenant: "Gli dei hanno decretato la vostra distruzione... e noi siamo il loro strumento." Il messaggio era in lingua inglese, e questo fa supporre che i Covenant studino già da tempo l'umanità.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>FrozenValley01</Name>
+      <Status>Locked</Status>
+      <Position>33.0</Position>
+      <Title>1 novembre 2525</Title>
+      <Date>1 novembre 2525</Date>
+      <DetailText>La milizia UNSC è in stato di massima allerta e inizia i preparativi per la riconquista di Harvest. Tutte le forze dell'Amministrazione Militare Coloniale vengono immediatamente messe a disposizione della NavCom / UniCom "per l'intera durata della crisi". Il progetto SPARTAN-II subisce un'accelerazione verso la sua fase finale: l'adozione della nuova corazza potenziata MJOLNIR, progettata appositamente per gli Spartan.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Tundra01</Name>
+      <Status>Locked</Status>
+      <Position>34.0</Position>
+      <Title>27 novembre 2525</Title>
+      <Date>27 novembre 2525</Date>
+      <DetailText>Tutti gli SPARTAN-II vengono condotti al Centro Prove Materiali di Damascus su Chi Ceti-4 per essere equipaggiati con la corazza MJOLNIR. La verifica del funzionamento della corazza è iniziata solo da poche ore, quando un'astronave aliena entra nel sistema e attacca la nave di supporto orbitante. Nella successiva battaglia, tre Spartan assaltano la nave nemica e incontrano i primi soldati Covenant, ottenendo un guanto in grado di generare uno scudo energetico. Uno Spartan cade in combattimento.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Prophet01</Name>
+      <Status>Locked</Status>
+      <Position>35.0</Position>
+      <Title>Editto dell'Ufficio dell'Alto Profeta del Rimorso</Title>
+      <Date>2525</Date>
+      <DetailText>Udite l'infamia perpetrata nel sistema Chi Ceti. A causa della mancanza di fede dell'equipaggio della nave Unrelenting, un gruppo di Impuri è riuscito a salire a bordo e a massacrare i nostri fratelli. È stata ordinata la costituzione di una Lancia scientifica, al fine di studiare le armi e le corazze recuperate in vista di una futura azione mitigante.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event007</Name>
+      <Status>Unlocked</Status>
+      <Position>36.0</Position>
+      <Title>Battaglia di Harvest, 2526</Title>
+      <Date>2526</Date>
+      <DetailText>Durante la battaglia di Harvest, la flotta da guerra del Vice Ammiraglio Preston Cole, uno dei più grandi contingenti mai mobilitati, attacca e distrugge la corazzata aliena responsabile della decimazione della colonia. Le sorti della battaglia volgono a favore degli umani solo grazie all'ispirata strategia messa a punto all'ultimo minuto da Cole, promosso Ammiraglio al suo ritorno sulla Terra.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>TerminalMoraine01</Name>
+      <Status>Locked</Status>
+      <Position>37.0</Position>
+      <Title>Editto dell'Ufficio dell'Alto Profeta del Rimorso</Title>
+      <Date>2526</Date>
+      <DetailText>Digiuniamo e preghiamo per festeggiare la vittoria di Episilon Indi. Per i prossimi tre periodi lavorativi, gli Unggoy e i Kig-Yar non riceveranno razioni di cibo. I Sangheili e i Jiralhanae trascorreranno due periodi di riposo pregando in pubblico. Tutti si dovranno recare presso gli schermi pubblici al suono delle cinque campane per assistere all'esecuzione di chi non ha fornito un adeguato contributo alla vittoria.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Cutter01</Name>
+      <Status>Locked</Status>
+      <Position>39.0</Position>
+      <Title>30 gennaio 2528</Title>
+      <Date>30 gennaio 2528</Date>
+      <DetailText>Il Capitano Cutter rifiuta un incarico di comando sulla corazzata Prophecy. La decisione di restare con la sua famiglia gli costò una valutazione psicologica ONI, da cui emerse che la sua attitudine al comando era compromessa dai legami familiari, che gli impedivano di realizzare appieno la sua carriera militare.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Brute01</Name>
+      <Status>Locked</Status>
+      <Position>40.0</Position>
+      <Title>Rapporto incidente 16-196901</Title>
+      <Date>2528</Date>
+      <DetailText>La squadra addetta alla sicurezza ha raggiunto gli alloggi del Capitano Jiralhanae alla terza campana, secondo turno. Al suo arrivo, ha trovato la porta scardinata e cinque campioni biologici non identificati (vedi diagramma allegato). Dall'esame, tali campioni sono risultati essere i resti di due Unggoy delle cucine del Ponte 4. Il Capitano era calmo e collaborativo e ha affermato che il pranzo non corrispondeva alle sue richieste: la malaspina era troppo cotta e la salsa insufficiente. Gli addetti alla manutenzione hanno preso nota di queste rimostranze, inoltrando un richiamo ufficiale al supervisore delle cucine P4.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Forge01</Name>
+      <Status>Locked</Status>
+      <Position>42.0</Position>
+      <Title>17 agosto 2530</Title>
+      <Date>17 agosto 2530</Date>
+      <DetailText>Il Sergente Forge viene incarcerato per avere aggredito un suo superiore. Tale episodio avrebbe posto fine alla sua carriera se l'Ammiraglio Cole non fosse intervenuto per garantire un'indagine equa e obiettiva. L'ufficiale anziano fu infine inviato alla corte marziale, mentre il Sergente Forge venne assegnato alla Spirit of Fire, nel tentativo di mettere a tacere gli eventi occorsi.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Anders01</Name>
+      <Status>Locked</Status>
+      <Position>43.0</Position>
+      <Title>Log del Professor Anders, 30 gennaio 2531</Title>
+      <Date>30 gennaio 2531</Date>
+      <DetailText>Non appena salita a bordo della Last Gleaming, mi hanno mostrato i miei alloggi. Sulla porta c'era scritto "Dottor Anders", il nome che mia madre desiderava adottassi nella mia carriera professionale. Non sopporto vedermi sbattere in faccia le sue volontà. Questo viaggio misterioso reca la sua inconfondibile impronta.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox03</Name>
+      <Status>Locked</Status>
+      <Position>44.0</Position>
+      <Title>Dall'Ufficio dell'Alto Profeta del Rimorso</Title>
+      <Date>2531</Date>
+      <DetailText>Ritorno alla massima velocità sul pianeta definito Harvest. Dobbiamo scoprire i segreti custoditi nella sacra reliquia per poter proseguire il Grande Viaggio. Gli umani non devono entrare nel manufatto: faremo tutto il possibile per impedirne l'accesso. Ogni minima esitazione verrà punita.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox01</Name>
+      <Status>Locked</Status>
+      <Position>45.0</Position>
+      <Title>4 febbraio 2531</Title>
+      <Date>4 febbraio 2531</Date>
+      <DetailText>La nave di supporto UNSC Spirit of Fire entra nell'orbita di Harvest. Mentre la flotta dell'Ammiraglio Cole è impegnata altrove, la Spirit viene inviata su Harvest per indagare sulle attività Covenant nel sistema e cercare gli eventuali superstiti della corazzata UNSC Prophecy, già inviata su Harvest per le medesime indagini. La Spirit, comandata dal Capitano Cutter, è stata riassegnata da FLEETCOM. L'ONI ha incaricato il Professor Anders del coordinamento delle indagini.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox09</Name>
+      <Status>Locked</Status>
+      <Position>46.0</Position>
+      <Title>6 febbraio 2531</Title>
+      <Date>6 febbraio 2531</Date>
+      <DetailText>Il Professor Anders invia al padre quella che pare un'analisi dettagliata dell'Odissea di Omero, ma che in realtà contiene la descrizione criptata della sua missione su Harvest e del risultato delle indagini. Il messaggio non viene identificato dalla censura ONI e giunge inalterato al padre.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox02</Name>
+      <Status>Locked</Status>
+      <Position>48.0</Position>
+      <Title>7 febbraio 2531</Title>
+      <Date>7 febbraio 2531</Date>
+      <DetailText>La Spirit of Fire celebra i funerali dell'equipaggio della Prophecy. Nonostante le obiezioni del personale ONI, viene letto l'elenco completo degli operativi a bordo. La Prophecy e tutto il suo equipaggio erano scomparsi durante la prima spedizione su Harvest, il cui obiettivo era scoprire le ragioni dell'interesse Covenant per il manufatto rinvenuto nei pressi della regione polare.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+   
+   <Event>
+      <Name>BlackBox07</Name>
+      <Status>Locked</Status>
+      <Position>49.0</Position>
+      <Title>9 febbraio 2531</Title>
+      <Date>9 febbraio 2531</Date>
+      <DetailText>Dopo avere attaccato le forze Covenant sulla superficie di Harvest, la nave UNSC Spirit of Fire giunge su Arcadia, scoprendo che i Covenant hanno già raggiunto e attaccato la colonia. Le forze terrestri della Spirit forniscono supporto nell'evacuazione e affrontano i Covenant, raggiungendo una situazione di stallo.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox06</Name>
+      <Status>Locked</Status>
+      <Position>50.0</Position>
+      <Title>Dall'Ufficio dell'Alto Profeta del Rimorso</Title>
+      <Date>2531</Date>
+      <DetailText>Arbiter, tu sei la Mano dei Covenant, la mia mano. Sai cosa è necessario fare. Torna in superficie e cattura la femmina umana, quella che si è presa gioco di noi su Harvest. È lei la chiave per svelare i segreti degli Antichi.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox08</Name>
+      <Status>Locked</Status>
+      <Position>51.0</Position>
+      <Title>10 febbraio 2531</Title>
+      <Date>10 febbraio 2531</Date>
+      <DetailText>La cattura del Professor Anders costringe il Capitano Cutter a inseguire il nemico nello spazio Covenant con la Spirit of Fire. L'IA di bordo calcola l'arrivo a destinazione in 312 ore. Per tutto questo tempo, l'astronave permane in stato di massima allerta e solo alcuni membri non essenziali dell'equipaggio vengono brevemente sottoposti al sonno criogenico.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Forge02</Name>
+      <Status>Locked</Status>
+      <Position>52.0</Position>
+      <Title>11 febbraio 2531</Title>
+      <Date>11 febbraio 2531</Date>
+      <DetailText>Il Sergente Forge contesta la raccomandazione dello SPARTAN Douglas-042 di distruggere la nave Covenant su cui si trova il Professor Anders. L'alterco causa la rottura di una sedia, un guasto al sigillo del portello di una paratia e un deciso intervento da parte dell'IA di bordo, Serina. In seguito a questo evento, 042 e Forge mangiano sempre insieme in sala mensa.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox10</Name>
+      <Status>Locked</Status>
+      <Position>54.0</Position>
+      <Title>14 febbraio 2531</Title>
+      <Date>14 febbraio 2531</Date>
+      <DetailText>Consapevole che il loro potrebbe essere un viaggio senza ritorno, Serina elabora e invia ai membri dell'equipaggio e-mail fasulle apparentemente scritte dalle rispettive famiglie per San Valentino, basandosi sulla loro corrispondenza precedente. Nessuno sospetta del suo inganno.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox12</Name>
+      <Status>Locked</Status>
+      <Position>56.0</Position>
+      <Title>Citazione da "Le gesta punite", vol. III</Title>
+      <Date>2531</Date>
+      <DetailText>Il mondo scudo che Rimorso intendeva attivare era uno dei pochi scoperti dai Covenant durante la ricerca degli Halo. Questi forzieri tecnologici consentirono ai Covenant di ottenere rapidamente un arsenale avanzato e sistemi di propulsione spaziale con cui dominare la galassia.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox13</Name>
+      <Status>Locked</Status>
+      <Position>57.0</Position>
+      <Title>23 febbraio 2531</Title>
+      <Date>23 febbraio 2531</Date>
+      <DetailText>La Spirit of Fire raggiunge un pianeta sconosciuto che pullula di bizzarre forme di vita aliena. Quello stesso giorno, la nave viene attratta all'interno del pianeta, dove l'equipaggio affronta i Covenant e salva il Professor Anders.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Exile01</Name>
+      <Status>Locked</Status>
+      <Position>58.0</Position>
+      <Title>Log di Cutter, 25 febbraio 2531</Title>
+      <Date>25 febbraio 2531</Date>
+      <DetailText>I Pelican impiegati nelle operazioni terrestri all'esterno del pianeta scudo hanno accusato avarie già dopo quattro o cinque voli. Durante l'ingresso nell'atmosfera planetaria, la polvere ha aderito alle prese d'aria in modo quasi difensivo, come se il pianeta non volesse lasciar atterrare alcun veicolo spaziale sulla sua superficie.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox15</Name>
+      <Status>Locked</Status>
+      <Position>59.0</Position>
+      <Title>25 febbraio 2531</Title>
+      <Date>25 febbraio 2531</Date>
+      <DetailText>Grazie al sacrificio del Sergente Forge, la Spirit of Fire riesce ad abbandonare il mondo scudo dei Precursori e a dirigersi verso casa, mentre la maggior parte dell'equipaggio si prepara a entrare nel sonno criogenico per un viaggio destinato a durare anni, o addirittura decenni.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Release01</Name>
+      <Status>Locked</Status>
+      <Position>60.0</Position>
+      <Title>Log Primo Ufficiale Medico O'Neil, 26 feb 2531</Title>
+      <Date>26 febbraio 2531</Date>
+      <DetailText>La decisione di cremare i cadaveri infettati dal virus non è stata presa alla leggera, ma il pericolo di contagiare l'equipaggio e la virulenza dell'infezione ci hanno impedito di imbarcare le salme sulla Spirit of Fire. Nemmeno lo studio del virus e dei suoi effetti appare raccomandabile, poiché non disponiamo di alcun laboratorio di quarantena e non conosciamo le modalità di contagio e diffusione del virus.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox14</Name>
+      <Status>Locked</Status>
+      <Position>62.0</Position>
+      <Title>1 marzo 2531</Title>
+      <Date>1 marzo 2531</Date>
+      <DetailText>L'Ingegnere Capo Prescott completa la stima dei danni subiti dalla Spirit of Fire, mentre la riparazione dello scafo procede. Il nucleo del reattore superluminale non può essere sostituito e il piano di creare un pezzo di ricambio dalle unità del reattore della base si rivela inattuabile. L'unica decisione praticabile è governare la nave con il solo personale indispensabile, ponendo il resto dell'equipaggio in animazione sospesa.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Anders02</Name>
+      <Status>Locked</Status>
+      <Position>63.0</Position>
+      <Title>Log di Cutter, 3 marzo 2531</Title>
+      <Date>3 marzo 2531</Date>
+      <DetailText>La prigionia del Professor Anders in mano Covenant è stata la più lunga dell'intera guerra. Pur non avendo richiesto assistenza psicologica e non avendo parlato molto della prigionia, possiamo immaginare quali incubi abbia vissuto durante quel terribile periodo.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Labyrinth01</Name>
+      <Status>Locked</Status>
+      <Position>64.0</Position>
+      <Title>Log di Anders, 4 marzo 2531</Title>
+      <Date>4 marzo 2531</Date>
+      <DetailText>La costruzione artificiale di questo "mondo" supera le capacità dei Covenant, che sembrano sfruttare questa tecnologia per i loro scopi senza peraltro essere in grado di far funzionare i macchinari, forse troppo complessi o avanzati. Il fatto che sia stata necessaria la mia mano per sbloccare il dispositivo mi fa pensare che i costruttori originari del pianeta avessero avuto contatti con gli umani.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Cutter02</Name>
+      <Status>Locked</Status>
+      <Position>68.0</Position>
+      <Title>12 marzo 2531</Title>
+      <Date>12 marzo 2531</Date>
+      <DetailText>Il Capitano Cutter si aggira per la nave, recandosi spesso a verificare le condizioni dei membri dell'equipaggio ancora convalescenti dopo la battaglia. Assicura all'infermiera Hershey che tutti torneranno presto a casa e che anche lei potrà rivedere il marito. Una volta rientrato nella propria cabina, dopo avere scritto altre cinque lettere di encomio, quattordici messaggi di condoglianze e una nota a sua moglie, si addormenta per la prima volta in due settimane.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Repository01</Name>
+      <Status>Locked</Status>
+      <Position>70.0</Position>
+      <Title>10 febbraio 2534</Title>
+      <Date>10 febbraio 2534</Date>
+      <DetailText>L'UNSC ha dichiarato definitivamente perduta la Spirit of Fire con tutto il suo equipaggio. La precedente designazione di "dispersi" aveva alimentato qualche speranza tra i familiari e gli amici. Le ragioni della modifica di status sono top secret. La funzione commemorativa per l'equipaggio è stata in gran parte disertata dai familiari, che non vogliono abbandonare la speranza di rivedere vivi i loro cari.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event008</Name>
+      <Status>Unlocked</Status>
+      <Position>73.0</Position>
+      <Title>1 giugno 2536</Title>
+      <Date>1 giugno 2536</Date>
+      <DetailText>Quando le forze Covenant entrano nello spazio controllato dagli umani, inizia l'assedio delle colonie interne. Per diversi anni, la guerra segue sempre il medesimo schema: gli umani vincono singole battaglie, soprattutto terrestri, subendo però ingenti perdite. Una a una, le colonie cadono.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BeasleysPlateau01</Name>
+      <Status>Locked</Status>
+      <Position>84.0</Position>
+      <Title>9 settembre 2549</Title>
+      <Date>9 settembre 2549</Date>
+      <DetailText>La seconda caduta di Arcadia. Dopo il primo attacco sferrato contro il pianeta nel 2531, i Covenant lasciarono in pace Arcadia, ma gli umani l'abbandonarono permettendo alla natura di riprendere il sopravvento sulla capitale Pirth. Qualche tempo dopo, una piccola comunità agricola fondò Abaskun, una ricca area rurale sul continente Mu. Seppur prevalentemente selvaggia, la zona fornì i rifornimenti alimentari necessari all'UNSC sino al nuovo attacco Covenant dell'autunno 2549.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>FortDeen01</Name>
+      <Status>Locked</Status>
+      <Position>86.0</Position>
+      <Title>Editto dell'Ufficio dell'Alto Profeta della Verità</Title>
+      <Date>2550</Date>
+      <DetailText>È risaputo che l'installazione dei Luminari sulle nuove navi da guerra ha subito un ritardo. Per ogni nave priva di Luminari, verrà giustiziato un Unggoy ogni 64 operai. Per mantenere la disciplina tra i supervisori Sangheili e gli Unggoy, la scelta delle vittime e le esecuzioni sono affidate agli squadroni della morte Kig-Yar. Le uccisioni proseguiranno quotidianamente fino all'installazione di tutti i Luminari.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BloodGulch01</Name>
+      <Status>Locked</Status>
+      <Position>90.0</Position>
+      <Title>27 agosto 2552</Title>
+      <Date>27 agosto 2552</Date>
+      <DetailText>Venticinque dei ventotto SPARTAN-II superstiti, tra cui SPARTAN-117, vengono richiamati su Reach per ricevere istruzioni e ordini riguardo alla minaccia Covenant. Il loro compito sarà assaltare una nave nemica in avaria, violare il sistema informatico Covenant grazie a uno "specialista" e localizzare il loro pianeta natale. Fatto questo, una squadra sotto copertura catturerà i loro leader, negoziando con la forza un armistizio. Malgrado i recenti successi, le foze militari umane stanno venendo sistematicamente annientate e questa potrebbe essere l'unica speranza di sopravvivenza.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event009</Name>
+      <Status>Unlocked</Status>
+      <Position>92.0</Position>
+      <Title>30 agosto 2552, ore 04:00</Title>
+      <Date>30 agosto 2552</Date>
+      <DetailText>Reach, sede della struttura CASTLE ONI e culla del progetto Spartan-II, viene attaccato da una soverchiante forza Covenant. La Pillar of Autumn, comandata dal Capitano Keyes, conduce gli Spartan in battaglia, nella speranza di catturare una nave Covenant. Anche se il nemico non riesce a scoprire l'ubicazione della Terra, gran parte degli Spartan cade in combattimento e Reach è perduto.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event010</Name>
+      <Status>Unlocked</Status>
+      <Position>93.0</Position>
+      <Title>30 agosto 2552, ore 05:00</Title>
+      <Date>30 agosto 2552</Date>
+      <DetailText>La Pillar of Autumn, comandata dal Capitano Keyes, fugge da Reach inseguita dalle navi Covenant. L'astronave è gravemente danneggiata, ma riesce a eludere il nemico entrando nell'iperspazio. A bordo della Pillar of Autumn si trova l'unico Spartan sopravvissuto alla battaglia di Reach.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Crevice01</Name>
+      <Status>Locked</Status>
+      <Position>98.0</Position>
+      <Title>Editto dell'Ufficio dell'Alto Profeta della Verità</Title>
+      <Date>2552</Date>
+      <DetailText>Udite e obbedite. Tutto il personale trascorrerà il secondo periodo di riposo odierno in attenta osservazione degli schermi pubblici, su cui sarà mostrata l'umiliazione e la punizione del Supremo Comandante Sangheili della flotta Particular Justice, accusato di fallimento, codardia e mancanza di fede.</DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Brute02</Name>
+      <Status>Locked</Status>
+      <Position>99.0</Position>
+      <Title>Editto dell'Ufficio dell'Alto Profeta della Verità</Title>
+      <Date>2552</Date>
+      <DetailText>
+         In riconoscimento della virtù dei Jiralhanae, si ordina che tutti i Sangheili a bordo della flotta della Solitudine profonda, della Serena compostezza e dell'Introspezione consapevole siano completamente rimpiazzati da Jiralhanae. Ogni Sangheili destituito verrà assegnato ad altre mansioni. Per festeggiare, tutti i Jiralhanae imprigionati o accusati di atti criminali verranno liberati, riabilitati e graziati.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+</Timeline>

@@ -1,0 +1,6 @@
+<physics>
+   <blueprint>unsc_bldg_airpad</blueprint>
+   <ThrownByBallistics>false</ThrownByBallistics>
+   <DestroyedByBallistics>true</DestroyedByBallistics>
+   <MotionType>fixed</MotionType>
+</physics>

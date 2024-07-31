@@ -1,0 +1,615 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<Timeline>
+   <LockedImage>img://art\ui\flash\shared\textures\timeline\timeline_locked.ddx</LockedImage>
+
+   <Event>
+      <Name>TheDocks01</Name>
+      <Status>Locked</Status>
+      <Position>1.0</Position>
+      <Title>2498 年 1 月 16 日</Title>
+      <Date>2498 年 1 月 16 日</Date>
+      <DetailText>
+         阿卡笛亞殖民地啟動了深太空研究陣列，這是專為研究極端高重力事件所設計的，例如黑洞及其他探勘船隻無法直接進入的地區。該陣列最後在 2531 年，星盟首次攻擊阿卡笛亞星時被摧毀。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event001</Name>
+      <Status>Unlocked</Status>
+      <Position>5.0</Position>
+      <Title>2506 年</Title>
+      <Date>2506 年</Date>
+      <DetailText>
+         獵戶座計畫 (原始的超級戰士計畫) 是殖民地軍事管理局首次試圖建立並訓練超級士兵小隊的計畫，以便在外殖民地的秘密軍事行動中使用。但這個計畫後來被中止了，因為雖然超級戰士的戰鬥力很強，但能力卻不如預期，而且在開發及實際運用上的費用太過於昂貴。參與獵戶座計畫的士兵，後來被重新分派到許多不同的特殊行動單位中。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event002</Name>
+      <Status>Unlocked</Status>
+      <Position>14.0</Position>
+      <Title>2517 年 8 月 17 日</Title>
+      <Date>2517 年 8 月 17 日</Date>
+      <DetailText>
+         凱瑟琳海爾希博士與她的助理傑寇普吉斯中尉，暗中視察神秘的「超級戰士 II」計畫裡首批實驗對象中的一位。這被稱為「約翰」的 6 歲男孩，是這個計畫的理想候選人。海爾希安排讓這位實驗對象受到秘密徵召。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event003</Name>
+      <Status>Unlocked</Status>
+      <Position>15.0</Position>
+      <Title>2517 年 9 月 23 日</Title>
+      <Date>2517 年 9 月 23 日</Date>
+      <DetailText>
+         海爾希的超級戰士 II 計畫啟動了，一開始的研究是在天苑四恆星系統的瑞曲行星上進行。男女皆有的 75 位孩童受到嚴酷的體能和心理再造，體格也遭到科技強化，包括增強骨骼結構及肌肉組織。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox04</Name>
+      <Status>Locked</Status>
+      <Position>18.0</Position>
+      <Title>2520 年 7 月 20 日</Title>
+      <Date>2520 年 7 月 20 日</Date>
+      <DetailText>
+         火靈號的最後一位平民艦長亞歷山大，在維倫斯任務結束後退休。UNSC 隨後徵召火靈號，並安排改裝。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox05</Name>
+      <Status>Locked</Status>
+      <Position>20.0</Position>
+      <Title>2520 年 9 月 1 日</Title>
+      <Date>2520 年 9 月 1 日</Date>
+      <DetailText>
+         火靈號在瑞曲行星的軌道船塢完成大規模的改裝之後，成為專門支援地面部隊的軍艦。它一開始的任務是為投石機行動提供地面支援。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>PirthOutskirts01</Name>
+      <Status>Locked</Status>
+      <Position>22.0</Position>
+      <Title>高階抑制先知辦公室的命令</Title>
+      <Date>2524 年</Date>
+      <DetailText>
+         我們已得知，齊格亞爾的冷酷號上出現一具不潔生物的屍體。所有齊格亞爾船艦聽令，你們全都必須接受搜索命令。讓忠誠的向斐力帶領昂苟伊小隊搜索所有齊格亞爾船艦，進一步尋找不潔生物存在的證據。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox11</Name>
+      <Status>Locked</Status>
+      <Position>23.0</Position>
+      <Title>高階寬容先知辦公室的命令</Title>
+      <Date>2524 年</Date>
+      <DetailText>
+         所有同胞聽令，儘速組成 500 支小隊來研究不潔生物的語言。每個小隊必須由最聰明、最有學問的向斐力與昂苟伊組成，隊員間只能以不潔生物的語言交談。只要所有攻擊部隊學會不潔生物的語言，敵人將無法抵抗我們的攻擊。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Prophet02</Name>
+      <Status>Locked</Status>
+      <Position>26.0</Position>
+      <Title>受懲罰行為，第三卷節錄</Title>
+      <Date>2525 年</Date>
+      <DetailText>
+         悲愴是新先知中最年輕的一位，他靠著操弄及脅迫身邊的人來獲得現在的崇高地位。他也是曾拜訪過神使的先知之一。神使是古老的人工智慧，我們透過神使得知，人類曾經在某種方面與先行者有所關聯，因此星盟信仰的根基是有瑕疵的。他們至今仍在辯論，是否要消滅人類來掩蓋這些事實。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+   <Event>
+      <Name>Chasms01</Name>
+      <Status>Locked</Status>
+      <Position>27.0</Position>
+      <Title>高階真相先知辦公室的命令</Title>
+      <Date>2525 年</Date>
+      <DetailText>
+         所有星盟同胞聽令，立刻帶著武器與戰艦降落到印地安恆星系統中已有居民的行星。全力進攻，不得留下任何存活的智慧生物，違者將受到嚴厲懲罰。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event004</Name>
+      <Status>Unlocked</Status>
+      <Position>28.0</Position>
+      <Title>2525 年 2 月 3 日</Title>
+      <Date>2525 年 2 月 3 日</Date>
+      <DetailText>
+         農業殖民地豐收星已失去聯繫，我們目前仍無法聯絡上他們，當地恐怕已發生最糟糕的情況。同時，在瑞曲行星上空軌道的 ONI 設施中，用來強化超級戰士候選人的外科手術即將展開，將會有許多候選人因手術造成的死亡或殘疾而被淘汰。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Arbiter01</Name>
+      <Status>Locked</Status>
+      <Position>29.0</Position>
+      <Title>受懲罰行為，第三卷節錄</Title>
+      <Date>2525 年</Date>
+      <DetailText>
+         這位新的神風烈士並不畏懼死亡，但即使是他，也會害怕先祖遺跡裡的東西。他在進入遺跡之前，會先派一小隊的昂苟伊進去，尋找任何危險的跡象。如果他們沒發現任何危險的東西，就會活下來；但如果他們發現任何一絲的危險的跡象，神風烈士就會引爆附在沼氣槽上的電漿炸彈。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event005</Name>
+      <Status>Unlocked</Status>
+      <Position>30.0</Position>
+      <Title>2525 年 4 月 20 日</Title>
+      <Date>2525 年 4 月 20 日</Date>
+      <DetailText>
+         派遣到豐收星調查的偵查船阿爾葛號已失去聯繫，我們已準備更大型的武裝戰鬥群來因應這種狀況。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Arbiter02</Name>
+      <Status>Locked</Status>
+      <Position>31.0</Position>
+      <Title>受懲罰行為，第三卷節錄</Title>
+      <Date>2525 年</Date>
+      <DetailText>
+         新的神風烈士幾乎是被任命後就立刻受到考驗。在某座巨型太空設施殘骸旁的先祖設施中，被認為藏了一個能用來啟動先進科技的物品。這個設施被一群日益壯大，且不認同新先知的精英派系嚴密保護著，而神風烈士在延續數天之久的戰鬥中殺死了他們。神風烈士並沒有找到那個「聖物」，但至少平息了反抗勢力。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event006</Name>
+      <Status>Unlocked</Status>
+      <Position>32.0</Position>
+      <Title>2525 年 10 月 7 日</Title>
+      <Date>2525 年 10 月 7 日</Date>
+      <DetailText>
+         D 戰鬥群抵達豐收星之後，立刻與星盟發生衝突。當戰鬥群的三艘船艦被區區一艘星盟船艦摧毀了兩艘之後，倖存的那艘被迫緊急撤回瑞曲行星。他們在這場戰鬥中收到星盟發出的一則音訊：「你們的毀滅是眾神的旨意... 而我們是眾神的工具。」這則音訊是以英語傳送的，因此我們認為星盟已經研究人類一段時間了。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>FrozenValley01</Name>
+      <Status>Locked</Status>
+      <Position>33.0</Position>
+      <Title>2525 年 11 月 1 日</Title>
+      <Date>2525 年 11 月 1 日</Date>
+      <DetailText>
+         UNSC 軍隊進入高度警戒，開始進行奪回豐收星的準備工作。所有殖民地軍事管理局的部隊，在「危機發生期間」將立刻成為受航空司令部/聯合地面司令部指揮的軍隊。而超級戰士 II 計畫被迫加速至最後階段：MJOLNIR，這是專為超級戰士設計的新型態動力護甲。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Tundra01</Name>
+      <Status>Locked</Status>
+      <Position>34.0</Position>
+      <Title>2525 年 11 月 27 日</Title>
+      <Date>2525 年 11 月 27 日</Date>
+      <DetailText>
+         所有超級戰士都被送到契塞地 4 號星的大馬士革材料試驗廠，來配備 MJOLNIR 護甲。但在他們開始測試護甲功能的數小時之後，外星船艦就進入該恆星系統，攻擊人類的軌道支援船艦。在隨後的戰鬥中，三位超級戰士登上敵艦，首次面對星盟士兵，並搶到一個能產生能量護盾的護手。不過，有一位超級戰士在這場戰鬥中陣亡。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Prophet01</Name>
+      <Status>Locked</Status>
+      <Position>35.0</Position>
+      <Title>高階悲愴先知辦公室的命令</Title>
+      <Date>2525 年</Date>
+      <DetailText>
+         所有同胞聽令，契塞地恆星系統所發生的醜事，肇因於無情號部分船員缺乏信念，導致一群不潔生物登艦屠殺。已下令組成科學團隊來研究搶到的武器與護甲，以減輕未來可能遭遇到的危險。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event007</Name>
+      <Status>Unlocked</Status>
+      <Position>36.0</Position>
+      <Title>2526 年，豐收星戰役</Title>
+      <Date>2526 年</Date>
+      <DetailText>
+         在豐收星戰役中，普雷斯頓寇爾副司令官率領有史以來最龐大的戰鬥艦隊，與摧毀殖民地的外星戰艦戰鬥。寇爾靠著在最後關頭想出的戰術扭轉了戰局，贏得勝利。寇爾在回到地球之後，被晉升為司令官。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>TerminalMoraine01</Name>
+      <Status>Locked</Status>
+      <Position>37.0</Position>
+      <Title>高階悲愴先知辦公室的命令</Title>
+      <Date>2526 年</Date>
+      <DetailText>
+         讓我們以齋戒和祈禱，來慶祝在印地安恆星系統所獲得的勝利。昂苟伊與齊格亞爾在接下來三個工作時段的食物配給已經取消，向斐力與吉拉漢尼必須在兩個休息時段公開祈禱。所有同胞必須在五個鐘響起時聚在公共螢幕前，觀賞那些在勝利中失職的同胞的死刑。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Cutter01</Name>
+      <Status>Locked</Status>
+      <Position>39.0</Position>
+      <Title>2528 年 1 月 30 日</Title>
+      <Date>2528 年 1 月 30 日</Date>
+      <DetailText>
+         卡特艦長拒絕了驅逐艦預言號的指揮職。他不想要離家人太遠的決定，讓 ONI 對他展開心理評估，結果顯示雖然卡特適合指揮職，但家庭的羈絆讓他的軍事生涯無法更上一層樓。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Brute01</Name>
+      <Status>Locked</Status>
+      <Position>40.0</Position>
+      <Title>16-196901 號事故報告</Title>
+      <Date>2528 年</Date>
+      <DetailText>
+         保全小隊在第二班的第三個鐘響起時，被召喚至吉拉漢尼隊長的艙房。小隊抵達時，發現艙房的門被扯下來，走廊上有五塊無法辨識的生物軀塊 (請見附圖)。經過檢視之後，確認這些生物軀塊為在四號甲板廚房工作的兩位昂苟伊。隊長很冷靜，也願意回答訊問。他陳述當時送來的午餐並不符合規格 (帶刺獸肉過熟、沾醬不足)。已通知維修員，並已記錄對四號甲板廚房管理員的正式譴責。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Forge01</Name>
+      <Status>Locked</Status>
+      <Position>42.0</Position>
+      <Title>2530 年 8 月 17 日</Title>
+      <Date>2530 年 8 月 17 日</Date>
+      <DetailText>
+         弗吉中士因攻擊某位高階軍官而遭到監禁。如果寇爾司令官沒有介入，並確保該事件有公平、公開的調查行動，弗吉中士的軍事生涯可能已經結束了。這位高階軍官最後受到軍事審判，而為了讓上述事件能夠平息下來，弗吉中士被派到了火靈號。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Anders01</Name>
+      <Status>Locked</Status>
+      <Position>43.0</Position>
+      <Title>安德絲教授的日誌，2531 年 1 月 30 日</Title>
+      <Date>2531 年 1 月 30 日</Date>
+      <DetailText>
+         我登上晨光號之後，就被帶到自己的艙房。房門上寫著「安德絲博士」，這是我母親希望我在職業生涯中使用的稱號。我被迫回想起她的願望，這實在讓我無法忍受，這整趟秘密的旅程處處可見她留下的痕跡。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox03</Name>
+      <Status>Locked</Status>
+      <Position>44.0</Position>
+      <Title>來自高階悲愴先知辦公室的訊息</Title>
+      <Date>2531 年</Date>
+      <DetailText>
+         盡可能以最快速度回到他們稱為豐收星的行星。我們必須在朝聖之旅能夠繼續之前，了解神聖遺跡裡的秘密。絕對不能讓人類進入聖殿，我們要盡一切力量阻止他們。所有士兵必須堅決地執行這項任務，否則將面臨嚴厲懲罰。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox01</Name>
+      <Status>Locked</Status>
+      <Position>45.0</Position>
+      <Title>2531 年 2 月 4 日</Title>
+      <Date>2531 年 2 月 4 日</Date>
+      <DetailText>
+         UNSC 的支援船艦火靈號進入豐收星上空的軌道。當寇爾司令官的艦隊在別處戰鬥時，火靈號被派去豐收星調查星盟在該恆星系統的活動，並尋找失蹤的 UNSC 驅逐艦預言號 (之前被派至豐收星進行相同的調查行動) 的生還者。由卡特艦長指揮的火靈號被艦隊司令部重新派到其他地方，而 ONI 派了安德絲教授登上火靈號來帶領調查行動。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox09</Name>
+      <Status>Locked</Status>
+      <Position>46.0</Position>
+      <Title>2531 年 2 月 6 日</Title>
+      <Date>2531 年 2 月 6 日</Date>
+      <DetailText>
+         安德絲教授寫了封信給她父親。表面上看來，這封信是荷馬所著奧德賽的詳細分析報告，但事實上這是則加密訊息，詳細記載了她在豐收星的任務及發現。ONI 的信件檢查員完全沒發現其中的密碼，因此訊息被完整地傳送給安德絲的父親。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox02</Name>
+      <Status>Locked</Status>
+      <Position>48.0</Position>
+      <Title>2531 年 2 月 7 日</Title>
+      <Date>2531 年 2 月 7 日</Date>
+      <DetailText>
+         火靈號為預言號的船員舉辦紀念儀式，而且不顧 ONI 人員的抗議，在儀式中宣讀預言號船員的名單。在第一次前往豐收星調查星盟在極地附近找到聖殿的行動中，預言號連同全體船員都遇難了。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+   
+   <Event>
+      <Name>BlackBox07</Name>
+      <Status>Locked</Status>
+      <Position>49.0</Position>
+      <Title>2531 年 2 月 9 日</Title>
+      <Date>2531 年 2 月 9 日</Date>
+      <DetailText>
+         UNSC 火靈號在豐收星地表與星盟部隊交戰之後，抵達阿卡笛亞，但卻發現星盟已經在那裡攻擊殖民地。火靈號的地面部隊在地表上協助撤離行動，並協助攻擊星盟軍隊，讓星盟無法再攻擊。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox06</Name>
+      <Status>Locked</Status>
+      <Position>50.0</Position>
+      <Title>來自高階悲愴先知辦公室的訊息</Title>
+      <Date>2531 年</Date>
+      <DetailText>
+         神風烈士，你是星盟的左右手，也就是我的左右手，你心理明白什麼事是該做的。回去行星地表，俘虜那個在豐收星愚弄了我們的女性人類，因為她就是解開先祖秘密的關鍵。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox08</Name>
+      <Status>Locked</Status>
+      <Position>51.0</Position>
+      <Title>2531 年 2 月 10 日</Title>
+      <Date>2531 年 2 月 10 日</Date>
+      <DetailText>
+         由於安德絲教授被星盟俘虜，迫使卡特艦長率領火靈號跟蹤敵人，進入星盟控制的太空。火靈號的電腦系統預估，將在 312 小時後抵達目的地。火靈號在這段期間將維持高度警戒，同時讓非必要人員進入短暫的人工冬眠。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Forge02</Name>
+      <Status>Locked</Status>
+      <Position>52.0</Position>
+      <Title>2531 年 2 月 11 日</Title>
+      <Date>2531 年 2 月 11 日</Date>
+      <DetailText>
+         弗吉中士當面質疑超級戰士道格拉斯-042 的建議，反對摧毀帶著安德絲教授的星盟船艦。爭論的結果是一把壞掉的椅子、一扇無法緊閉的艙門，以及火靈號的電腦瑟琳娜的嚴厲干預。而道格拉斯 - 042 與弗吉在這次事件之後，在餐廳裡總是坐在一起用餐。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox10</Name>
+      <Status>Locked</Status>
+      <Position>54.0</Position>
+      <Title>2531 年 2 月 14 日</Title>
+      <Date>2531 年 2 月 14 日</Date>
+      <DetailText>
+         瑟琳娜知道這次船員可能再也無法回家，因此製造來自船員家屬的假電子郵件，並傳送給船員來慶祝情人節。由於她是參考之前的信件來撰寫的，因此沒有人懷疑她的造假行為。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox12</Name>
+      <Status>Locked</Status>
+      <Position>56.0</Position>
+      <Title>受懲罰行為，第三卷節錄</Title>
+      <Date>2531 年</Date>
+      <DetailText>
+         悲愴想要啟動的護盾世界，是星盟在尋找環帶時所發現的少數護盾世界之一。這些科技寶藏能讓星盟快速取得先進的武器與太空推進系統，讓星盟能征服銀河系。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox13</Name>
+      <Status>Locked</Status>
+      <Position>57.0</Position>
+      <Title>2531 年 2 月 23 日</Title>
+      <Date>2531 年 2 月 23 日</Date>
+      <DetailText>
+         火靈號抵達一顆不知名的行星，上面充滿了奇怪的外星生物。就在同一天內，火靈號被拉進行星內部，並在那裡遇上星盟軍隊，最後救出了安德絲教授。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Exile01</Name>
+      <Status>Locked</Status>
+      <Position>58.0</Position>
+      <Title>卡特的日誌，2531 年 2 月 25 日</Title>
+      <Date>2531 年 2 月 25 日</Date>
+      <DetailText>
+         準備進行地面行動的鵜鵠號，老是無法降落在護盾行星的外殼上。在鵜鵠號進入行星大氣層的過程中，塵土一直堵塞住機身的通風口，彷彿這行星根本不想讓任何太空船降落在它的表面。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox15</Name>
+      <Status>Locked</Status>
+      <Position>59.0</Position>
+      <Title>2531 年 2 月 25 日</Title>
+      <Date>2531 年 2 月 25 日</Date>
+      <DetailText>
+         多虧了弗吉中士的犧牲，讓火靈號能逃出先行者的護盾世界。火靈號設定了回家的航線，但絕大多數船員將進入人工冬眠，因為這趟旅程將會花上數十年的時間。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Release01</Name>
+      <Status>Locked</Status>
+      <Position>60.0</Position>
+      <Title>總醫官 O'Neil 的日誌，2531 年 2 月 26 日</Title>
+      <Date>2531 年 2 月 26 日</Date>
+      <DetailText>
+         焚毀受病毒感染的屍體絕對不是草率的決定，而是考慮到船員的安全，再說病毒的高度感染性讓我們無法把屍體存放在火靈號上。我們最好也不要在船上研究病毒以及它所造成的影響，因為火靈號上沒有任何隔離實驗室，而且我們根本不了解病毒到底是如何散播的。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox14</Name>
+      <Status>Locked</Status>
+      <Position>62.0</Position>
+      <Title>2531 年 3 月 1 日</Title>
+      <Date>2531 年 3 月 1 日</Date>
+      <DetailText>
+         總工程師皮史考特完成了火靈號的損害評估，並繼續修理船殼。我們無法替換超光速核心反應爐，也不可能從基本的反應爐零件來製造備用的反應爐。因此我們決定以最少量的船員來維持火靈號的運作，並讓其他船員進入人工冬眠。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Anders02</Name>
+      <Status>Locked</Status>
+      <Position>63.0</Position>
+      <Title>卡特的日誌，2531 年 3 月 3 日</Title>
+      <Date>2531 年 3 月 3 日</Date>
+      <DetailText>
+         安德絲教授被星盟俘虜的事件，讓她成為這場戰爭中已知被俘最久的戰俘。可是她沒有尋求心理諮商，也沒談起太多她在被俘期間發生的事，我們只能猜想她在那段恐怖的時間經歷了什麼樣的夢魘。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Labyrinth01</Name>
+      <Status>Locked</Status>
+      <Position>64.0</Position>
+      <Title>安德絲的日誌，2531 年 3 月 4 日</Title>
+      <Date>2531 年 3 月 4 日</Date>
+      <DetailText>
+         這個「世界」的人造建築物遠遠超越星盟的科技。的確，星盟似乎在尋找可供他們利用的科技，但卻完全無法操作這些機械。而他們必須靠我的手才能啟動裝置的事實，也讓我相信，原來在這行星上的建造者對人類有某種程度的了解。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Cutter02</Name>
+      <Status>Locked</Status>
+      <Position>68.0</Position>
+      <Title>2531 年 3 月 12 日</Title>
+      <Date>2531 年 3 月 12 日</Date>
+      <DetailText>
+         卡特艦長步入醫務室，查看因戰鬥而負傷，仍在復原中的船員。他還向荷西護士保證，他一定會找到回家的方法，讓她能再次見到丈夫。卡特回到自己的艙房，然後在多撰寫了 5 封表現傑出推薦函、14 封家屬弔唁信，以及給妻子的筆記之後，在兩個星期內第一次入睡。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Repository01</Name>
+      <Status>Locked</Status>
+      <Position>70.0</Position>
+      <Title>2534 年 2 月 10 日</Title>
+      <Date>2534 年 2 月 10 日</Date>
+      <DetailText>
+         UNSC 已正式認定火靈號為「全員覆沒」。先前公佈的「失蹤」給了家屬及朋友一絲希望，但這次變更為「全員覆沒」的理由，被視為最高機密。UNSC 為火靈號的船員舉辦了紀念儀式，但許多重要的家屬並沒有參加，因為他們堅決希望自己深愛的親人仍然活著。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event008</Name>
+      <Status>Unlocked</Status>
+      <Position>73.0</Position>
+      <Title>2536 年 6 月 1 日</Title>
+      <Date>2536 年 6 月 1 日</Date>
+      <DetailText>
+         大批星盟軍隊湧入人類控制的太空，內殖民地圍攻戰開始了。在這幾年來，戰爭陷入了固定的模式：人類贏得零星的戰鬥，但通常是在地面行動中付出極高的代價才獲得的。因此，殖民地一個接著一個淪陷。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BeasleysPlateau01</Name>
+      <Status>Locked</Status>
+      <Position>84.0</Position>
+      <Title>2549 年 9 月 9 日</Title>
+      <Date>2549 年 9 月 9 日</Date>
+      <DetailText>
+         阿卡笛亞第二次淪陷。2531 年，星盟在首次攻擊阿卡笛亞後就離開了，但人類也幾乎拋棄了這裡，讓首府波希市回歸自然。最後，某個小型農業團體在穆大陸上建立了阿巴斯坎，這是個有肥沃農地的地區。雖然這是違法的行為，但該地區提供 UNSC 迫切需要的糧食補給，直到 2549 年秋天，阿卡笛亞再次被星盟攻擊為止。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>FortDeen01</Name>
+      <Status>Locked</Status>
+      <Position>86.0</Position>
+      <Title>高階真相先知辦公室的命令</Title>
+      <Date>2550 年</Date>
+      <DetailText>
+         我們得知，在新建造的戰艦上安裝發光體的工作已受到延誤。在每艘戰艦上，只要缺少 1 個發光體，就必需在每 64 位昂苟伊工人中處決 1 位。但為了維持向斐力工頭與昂苟伊之間的紀律，決定犧牲者及處決的工作就由齊格亞爾死亡小隊來執行。這項命令將持續到該戰艦的發光體全部安裝完畢為止。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BloodGulch01</Name>
+      <Status>Locked</Status>
+      <Position>90.0</Position>
+      <Title>2552 年 8 月 27 日</Title>
+      <Date>2552 年 8 月 27 日</Date>
+      <DetailText>
+         在 28 位存活的超級戰士中 (包括超級戰士 117)，有 25 位被招回瑞曲行星，聽取有關星盟威脅的簡報，並接受新的命令：登上一艘受損的星盟船艦、利用一位「任務專家」入侵星盟的電腦系統，然後尋找星盟母星的位置。當這個目標達成之後，UNSC 將會派遣一支秘密的小隊去俘虜星盟的領袖，來強迫星盟簽署停戰協議。雖然 UNSC 最近打贏了幾場仗，但人類軍隊仍然被大量屠殺。因此，或許這個任務是人類生存的唯一希望。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event009</Name>
+      <Status>Unlocked</Status>
+      <Position>92.0</Position>
+      <Title>2552 年 8 月 30 日 0400 小時</Title>
+      <Date>2552 年 8 月 30 日</Date>
+      <DetailText>
+         瑞曲行星，也就是 ONI 城堡基地及執行超級戰士 II 計畫的所在地，被不斷湧入的星盟軍隊攻擊。吉斯艦長指揮秋風之墩號把超級戰士運送到戰場上，期望他們能佔領某艘星盟船艦。雖然最後成功阻止星盟找出地球的所在位置，但大多數的超級戰士都不幸陣亡，瑞曲行星也淪陷了。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event010</Name>
+      <Status>Unlocked</Status>
+      <Position>93.0</Position>
+      <Title>2552 年 8 月 30 日 0500 小時</Title>
+      <Date>2552 年 8 月 30 日</Date>
+      <DetailText>
+         由吉斯艦長指揮的秋風之墩號，在星盟船艦的追逐下逃離瑞曲行星。雖然秋風之墩號嚴重受損，但仍設法進入躍遷空間，順利逃離。而當時以為唯一在瑞曲行星的戰鬥中存活的超級戰士，就在秋風之墩號上。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Crevice01</Name>
+      <Status>Locked</Status>
+      <Position>98.0</Position>
+      <Title>高階真相先知辦公室的命令</Title>
+      <Date>2552 年</Date>
+      <DetailText>
+         所有人員聽令，大家必須在今天的第二個休息時段注意觀看螢幕，所有螢幕都將播放針對特殊正義艦隊的向斐力至高指揮官的羞辱及懲罰，因為他的失敗、懦弱，及缺乏信念。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Brute02</Name>
+      <Status>Locked</Status>
+      <Position>99.0</Position>
+      <Title>高階真相先知辦公室的命令</Title>
+      <Date>2552 年</Date>
+      <DetailText>
+         為了表揚吉拉漢尼的美德，深奧孤獨艦隊、鎮靜艦隊、內在知識艦隊中所有向斐力都將完全被吉拉漢尼取代。每位被取代的向斐力將被派遣到其他任務。為了慶祝，所有囚禁中的吉拉漢尼罪犯都將被釋放、更生及赦免。
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+</Timeline>

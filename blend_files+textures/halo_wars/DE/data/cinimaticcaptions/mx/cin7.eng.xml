@@ -1,0 +1,16 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<cinimaticCaption>
+	<caption startFrame="50" endFrame="140" color="4294967295">CUTTER: ¿Así que es un escudo de energía que pueden implementar en el planeta?</caption>
+	<caption startFrame="150" endFrame="175" color="4294967295">ANDERS: Sí, capitán.</caption>
+	<caption startFrame="180" endFrame="270" color="4294967295">No podemos ver a través de él, pero los Covenant traman algo.</caption>
+	<caption startFrame="280" endFrame="365" color="4294967295">CUTTER: Sí, y debemos descubrir qué es.</caption>
+	<caption startFrame="370" endFrame="440" color="4294967295">¿Podemos usar los cañones de la nave para eliminarlo?</caption>
+	<caption startFrame="450" endFrame="515" color="4294967295">ANDERS: Podríamos destruir lo que sea que haya ahí abajo.</caption>
+	<caption startFrame="520" endFrame="645" color="4294967295">Los escudos de los Covenant son vulnerables al plasma sobrecalentado.</caption>
+	<caption startFrame="650" endFrame="720" color="4294967295">¿Acaso no hemos estado probando unos Rhinos basados en plasma?</caption>
+	<caption startFrame="730" endFrame="830" color="4294967295">SERINA: El inventario de la Pillar of Autumn dice que tienen unos prototipos.</caption>
+	<caption startFrame="840" endFrame="915" color="4294967295">ANDERS: Tardaremos algo de tiempo en encontrar los ajustes de energía correctos.</caption>
+	<caption startFrame="920" endFrame="970" color="4294967295">Tendré que estar en el terreno para hacerlo.</caption>
+	<caption startFrame="980" endFrame="1070" color="4294967295">CUTTER: Profesora, sargento Forge, ¡derribemos ese escudo!</caption>
+	<caption startFrame="1080" endFrame="1160" color="4294967295">FORGE: Uggh... ¿haciendo de niñera otra vez?</caption>
+</cinimaticCaption>

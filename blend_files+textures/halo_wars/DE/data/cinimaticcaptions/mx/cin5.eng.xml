@@ -1,0 +1,35 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<cinimaticCaption>
+	<caption startFrame="120" endFrame="190" color="4294967295">CUTTER: ¿Y lo único que hizo fue señalar?</caption>
+	<caption startFrame="200" endFrame="275" color="4294967295">ANDERS: ¿En los 30 segundos que tuve para examinar el artefacto?</caption>
+	<caption startFrame="280" endFrame="375" color="4294967295">Sí, solo señaló un segundo sistema estelar.</caption>
+	<caption startFrame="380" endFrame="455" color="4294967295">SERINA: La colonia Arcadia, para ser precisos.</caption>
+	<caption startFrame="460" endFrame="555" color="4294967295">Población de algo menos de tres millones, casi sin explorar,</caption>
+	<caption startFrame="560" endFrame="650" color="4294967295">pero parece un lugar de vacaciones.</caption>
+	<caption startFrame="660" endFrame="735" color="4294967295">ANDERS: Hay algo ahí, capitán, y creo</caption>
+	<caption startFrame="740" endFrame="790" color="4294967295">que es importante que lleguemos antes que los Covenant.</caption>
+	<caption startFrame="800" endFrame="860" color="4294967295">CUTTER: Nuestras órdenes son investigar Harvest.</caption>
+	<caption startFrame="870" endFrame="970" color="4294967295">Aún no sabemos mucho sobre lo que sucede ahí abajo.</caption>
+	<caption startFrame="970" endFrame="1045" color="4294967295">ANDERS: Lo sé, capitán, pero todo lo que hay aquí</caption>
+	<caption startFrame="1050" endFrame="1150" color="4294967295">indica que tenemos que ir a Arcadia para averiguar qué pasa.</caption>
+	<caption startFrame="1200" endFrame="1275" color="4294967295">CUTTER: Muy bien, profesora. Lo hablaré con el almirante Cole.</caption>
+	<caption startFrame="1280" endFrame="1350" color="4294967295">Serina, ponga rumbo a Arcadia.</caption>
+	<caption startFrame="1360" endFrame="1475" color="4294967295">SERINA: Sí, señor. Viaje de locos a Arcadia trazado,</caption>
+	<caption startFrame="1480" endFrame="1560" color="4294967295">acelerando unidad FTL.</caption>
+	<caption startFrame="1570" endFrame="1640" color="4294967295">ANDERS: Serina, fuera de mi laboratorio.</caption>
+	<caption startFrame="1820" endFrame="1920" color="4294967295" SubtitleForVisualElement="true">SIST. PROCYON - ARCADIA 9 DE FEB. DE 2531</caption>
+	<caption startFrame="1940" endFrame="1990" color="4294967295">CUTTER: Serina, informe de la situación.</caption>
+	<caption startFrame="2000" endFrame="2105" color="4294967295">SERINA: Dos naves Covenant salieron del hiperespacio cerca de Arcadia.</caption>
+	<caption startFrame="2110" endFrame="2235" color="4294967295">Las naves Belfast, Pillar of Autumn, Texas y Armstrong atacaron inmediatamente</caption>
+	<caption startFrame="2240" endFrame="2325" color="4294967295">y sorprendieron a una con los escudos desactivados.</caption>
+	<caption startFrame="2330" endFrame="2425" color="4294967295">Perdimos la Texas y la Belfast, la Armstrong está renovando el aire</caption>
+	<caption startFrame="2430" endFrame="2495" color="4294967295">y la Autumn está muy dañada.</caption>
+	<caption startFrame="2500" endFrame="2560" color="4294967295">La segunda nave está realizando actividades de superficie.</caption>
+	<caption startFrame="2570" endFrame="2620" color="4294967295">CUTTER: ¿Qué tipo de actividades de superficie?</caption>
+	<caption startFrame="2630" endFrame="2780" color="4294967295">SERINA: Desconocidas. Un momento, llega una señal. Solo audio.</caption>
+	<caption startFrame="2790" endFrame="2875" color="4294967295">RADIO: ¡Nos superan! Fuerzas alienígenas dentro de los límites de la ciudad</caption>
+	<caption startFrame="2880" endFrame="2985" color="4294967295">acercándose al puerto espacial. Aún estamos evacuando civiles.</caption>
+	<caption startFrame="2990" endFrame="3040" color="4294967295">¡Necesitamos ayuda!</caption>
+	<caption startFrame="3050" endFrame="3110" color="4294967295">SERINA: Ahora llegan imágenes, capitán.</caption>
+	<caption startFrame="3680" endFrame="3760" color="4294967295">CUTTER: Serina. Lance las cápsulas. Ponga a la nave en alerta.</caption>
+</cinimaticCaption>

@@ -1,0 +1,615 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<Timeline>
+   <LockedImage>img://art\ui\flash\shared\textures\timeline\timeline_locked.ddx</LockedImage>
+
+   <Event>
+      <Name>TheDocks01</Name>
+      <Status>Locked</Status>
+      <Position>1.0</Position>
+      <Title>16. ledna 2498</Title>
+      <Date>16. ledna 2498</Date>
+      <DetailText>
+         Kolonie Arkádia otevírá DSRA, Středisko pro výzkum hlubokého vesmíru, které má za úkol studovat a zkoumat úkazy s vysokou gravitací, jako jsou například černé díry, a další oblasti, které nemohou být zkoumány přímo průzkumnými plavidly. Středisko DSRA bude zničeno Covenantem během prvního útoku na Arkádii v roce 2531.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event001</Name>
+      <Status>Unlocked</Status>
+      <Position>5.0</Position>
+      <Title>2506</Title>
+      <Date>2506</Date>
+      <DetailText>
+         Projekt ORION, původní projekt SPARŤAN - první pokus Vojenské koloniální služby o vytvoření a výcvik týmů super vojáků pro speciální nasazení ve vzdálených koloniích - je pozastaven. I když jsou Sparťani efektivní, jejich schopnosti nesplňují původní představy a jejich vývoj a nasazení jsou příliš drahé. Vojáci z programu jsou přeřazováni do různých speciálních jednotek.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event002</Name>
+      <Status>Unlocked</Status>
+      <Position>14.0</Position>
+      <Title>17. srpna 2517</Title>
+      <Date>17. srpna 2517</Date>
+      <DetailText>
+         Dr. Catherine Halseyová a její poradce, poručík Jacob Keyes, tajně kontrolují jeden z prvních zkušebních subjektů pro tajemný projekt SPARŤAN-II. Příslušný kandidát - šestileté dítě, které se jmenuje John - je pro projekt ideální. Doktorka Halseyová zajišťuje, aby byl subjekt tajně odveden.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event003</Name>
+      <Status>Unlocked</Status>
+      <Position>15.0</Position>
+      <Title>23. září 2517</Title>
+      <Date>23. září 2517</Date>
+      <DetailText>
+         Začíná projekt SPARŤAN-II doktorky Halseyové. Primární výzkum probíhá na planetě Reach v systému Epsilon Eridani. Sedmdesát pět dětí obou pohlaví se účastní intenzivního programu, jehož účelem je fyzická a mentální příprava a technologické vylepšování, včetně posílené kosterní struktury a vylepšené svalové soustavy.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox04</Name>
+      <Status>Locked</Status>
+      <Position>18.0</Position>
+      <Title>20. července 2520</Title>
+      <Date>20. července 2520</Date>
+      <DetailText>
+         Kapitán Alexander, poslední civilní kapitán lodi Spirit of Fire, odchází z aktivní služby po ukončení mise Verent. UNSC zabavuje loď, která bude později upravena.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox05</Name>
+      <Status>Locked</Status>
+      <Position>20.0</Position>
+      <Title>1. září 2520</Title>
+      <Date>1. září 2520</Date>
+      <DetailText>
+         Spirit of Fire prošla rozsáhlými úpravami v orbitálních docích u planety Reach a následně byla zařazena do armádní výzbroje jako podpůrné plavidlo pro pozemní jednotky. Původně měla poskytovat pozemní podporu při operaci TREBUCHET.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>PirthOutskirts01</Name>
+      <Status>Locked</Status>
+      <Position>22.0</Position>
+      <Title>Vyhláška úřadu Vysokého proroka zábrany</Title>
+      <Date>2524</Date>
+      <DetailText>
+         Je známo, že Kig-Yarská loď Pitiless přivezla tělo Nečisté bytosti. Nyní musí být prohledány všechny Kig-Yarské lodě. Věrní Sangheili povedou týmy Unggoyů na všechny Kig-Yarské lodě, kde budou hledat další důkazy o Nečistých. Provedeno.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox11</Name>
+      <Status>Locked</Status>
+      <Position>23.0</Position>
+      <Title>Vyhláška úřadu Vysokého proroka tolerance</Title>
+      <Date>2524</Date>
+      <DetailText>
+         Má být vytvořeno pět set týmů, které budou studovat jazyk Nečistých. Každý tým se má skládat z těch nejchytřejších a nejvzdělanějších Unggoyů a Sangheili. Tyto týmy mezi sebou smějí mluvit pouze jazykem Nečistých. Jazyk Nečistých se mají učit všechny vojenské zásahové týmy kvůli zvýšení zranitelnosti nepřítele.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Prophet02</Name>
+      <Status>Locked</Status>
+      <Position>26.0</Position>
+      <Title>Výtah z knihy Potrestané skutky, 3. svazek</Title>
+      <Date>2525</Date>
+      <DetailText>
+         Prorok lítosti, nejmladší z Proroků, si svůj postup zajistil manipulací a vydíráním svého okolí. Byl jedním z Proroků, kteří navštívili Vědmu, starodávnou umělou inteligenci. Tenkrát se dozvěděl, že existuje určité spojení mezi lidmi a rasou poslů a že samotný základ víry Covenantu měl chyby. Jejich rozhodnutí vyhladit lidskou rasu kvůli zakrytí těchto faktů je dodnes předmětem diskusí.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+   <Event>
+      <Name>Chasms01</Name>
+      <Status>Locked</Status>
+      <Position>27.0</Position>
+      <Title>Vyhláška úřadu Vysokého proroka pravdy</Title>
+      <Date>2525</Date>
+      <DetailText>
+         Slyš, veškerý Covenante, a poslouchej. Zbraně a válečné lodě mají nyní za cíl obydlený svět Epsilon Indi. Udeřte veškerou silou. Nesmějí přežít žádní inteligentní tvorové, jinak vám hrozí ten nepřísnější trest.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event004</Name>
+      <Status>Unlocked</Status>
+      <Position>28.0</Position>
+      <Title>3. února 2525</Title>
+      <Date>3. února 2525</Date>
+      <DetailText>
+         Kontakt se zemědělskou kolonií Harvest byl přerušen. Počáteční pokusy o znovunavázání kontaktu nebyly úspěšné. Panuje obava z toho nejhoršího. Mezitím se v orbitálním zařízení ONI poblíž planety Reach chystají operativní zákroky, kterými budou vylepšeni kandidáti projektu SPARŤAN-II. Mnoho kandidátů skončí velice špatně - následkem zákroku zemřou nebo budou zmrzačeni.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Arbiter01</Name>
+      <Status>Locked</Status>
+      <Position>29.0</Position>
+      <Title>Výtah z knihy Potrestané skutky, 3. svazek</Title>
+      <Date>2525</Date>
+      <DetailText>
+         Tento nový Soudce se nebál smrti, ale i on se bál toho, co bylo uvnitř pradávné relikvie. Než vstoupil do relikvie, poslal dovnitř jednotku Unggoyů, aby zjistili, zda nehrozí nebezpečí. Pokud by bylo vše v pořádku, přežili by. Pokud by ale Soudce zpozoroval nejmenší známky potíží, odpálil by plazmové bomby upevněné na nádržích s metanem.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event005</Name>
+      <Status>Unlocked</Status>
+      <Position>30.0</Position>
+      <Title>20. dubna 2525</Title>
+      <Date>20. dubna 2525</Date>
+      <DetailText>
+         Došlo k přerušení kontaktu s průzkumnou lodí Argo, která byla vyslána zjistit informace o problému na planetě Harvest. Proto byla připravena větší, ozbrojená bojová skupina.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Arbiter02</Name>
+      <Status>Locked</Status>
+      <Position>31.0</Position>
+      <Title>Výtah z knihy Potrestané skutky, 3. svazek</Title>
+      <Date>2525</Date>
+      <DetailText>
+         Nový Soudce byl téměř okamžitě podroben zkoušce. Panovalo přesvědčení, že objekt po pradávných předcích v blízkosti zbytků masivního vesmírného objektu obsahuje „klíč“ - předmět, kterým mělo být možné aktivovat technologii. Objekt byl bráněn rostoucí frakcí Elitních jednotek, které nesouhlasily s rozhodováním nových Proroků. Po bitvě, která trvala několik dní, je Soudce zabil. Žádný klíč nalezen nebyl, ale hnutí disidentů bylo umlčeno.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event006</Name>
+      <Status>Unlocked</Status>
+      <Position>32.0</Position>
+      <Title>7. října 2525</Title>
+      <Date>7. října 2525</Date>
+      <DetailText>
+         Bojová skupina D dorazila na planetu Harvest a postavila se Covenantu. Musí se ale stáhnout zpět na Reach, protože jedno plavidlo Covenantu zničilo dvě ze tří lodí bojové skupiny. Covenant při tomto střetu odeslal zvukovou zprávu: „Vaše zničení je vůlí bohů... a my jsme jejich nástrojem.“ Vzhledem k tomu, že zpráva byla odeslána v našem jazyce, předpokládá se, že Covenant lidstvo již nějaký čas studuje.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>FrozenValley01</Name>
+      <Status>Locked</Status>
+      <Position>33.0</Position>
+      <Title>1. listopadu 2525</Title>
+      <Date>1. listopadu 2525</Date>
+      <DetailText>
+         Armáda UNSC přechází do plné pohotovosti a začíná se připravovat na převzetí planety Harvest. Veškeré bojové síly Vojenské koloniální služby okamžitě podléhají ústředí NavCom/UniCom - „po dobu trvání krize“. Projekt SPARŤAN-II je urychlen do konečné fáze: MJOLNIR, nový druh aktivní zbroje, které je určeno speciálně pro jednotky Sparťan.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Tundra01</Name>
+      <Status>Locked</Status>
+      <Position>34.0</Position>
+      <Title>27. listopadu 2525</Title>
+      <Date>27. listopadu 2525</Date>
+      <DetailText>
+         Všechny jednotky SPARŤAN-II jsou transportovány do testovacího střediska Damascus Materials Testing Facility na Chi Ceti-4, kde budou vybaveny zbrojí MJOLNIR. Na otestování funkčnosti zbroje mají jen několik hodin - poté do systému vstoupí nepřátelská loď, která zaútočí na podpůrnou loď čekající na oběžné dráze. V následné bitvě se tři Sparťani nalodí na nepřátelskou loď, poprvé se setkají s vojáky Covenantu a získají přitom rukavici s energetickým štítem. V akci je ztracen jeden Sparťan.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Prophet01</Name>
+      <Status>Locked</Status>
+      <Position>35.0</Position>
+      <Title>Vyhláška úřadu Vysokého proroka lítosti</Title>
+      <Date>2525</Date>
+      <DetailText>
+         V systému Chi Ceti se stala strašná hanebnost. Kvůli nedostatku víry posádky lodi Unrelenting se bandě Nečistých podařilo nalodit a zabíjet. Bude vytvořena vědecká skupina, která bude studovat získané zbraně a zbroje, aby mohla být v budoucnosti přijata vhodná opatření.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event007</Name>
+      <Status>Unlocked</Status>
+      <Position>36.0</Position>
+      <Title>Bitva o Harvest, 2526</Title>
+      <Date>2526</Date>
+      <DetailText>
+         V Bitvě o Harvest válečná flotila viceadmirála Prestona Colea - jedna z největších flotil, které byly kdy mobilizovány - útočí na mimozemské válečné lodě, které byly odpovědné za zničení kolonie. Flotila z boje vychází vítězně. Vývoj bitvy zvrátilo až Coleovo taktické rozhodnutí na poslední chvíli. Po návratu na Zemi byl Cole povýšen na Admirála.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>TerminalMoraine01</Name>
+      <Status>Locked</Status>
+      <Position>37.0</Position>
+      <Title>Vyhláška úřadu Vysokého proroka lítosti</Title>
+      <Date>2526</Date>
+      <DetailText>
+         Oslavme vítězství Epsilon Indi půstem a modlitbou. Potravinové příděly pro Unggoye a Kig-Yar budou na dobu následujících tří pracovních období odebrány. Sangheili a Jiralhanae stráví dvě odpočinková období veřejnou modlitbou. Po zazvonění pěti zvonů všichni sledujte veřejné monitory, na kterých uvidíte popravu těch, kteří nesplnili svůj úkol.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Cutter01</Name>
+      <Status>Locked</Status>
+      <Position>39.0</Position>
+      <Title>30. ledna 2528</Title>
+      <Date>30. ledna 2528</Date>
+      <DetailText>
+         Kapitán Cutter odmítá pozici velitele na palubě útočné lodi Prophecy. Jeho rozhodnutí zůstat nablízku rodině si vynutilo psychologické vyšetření ze strany ONI, při kterém bylo zjištěno, že i když může zastávat velitelskou pozici, jeho rodina figuruje v rámci armádní kariéry jako negativní prvek.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Brute01</Name>
+      <Status>Locked</Status>
+      <Position>40.0</Position>
+      <Title>Hlášení o incidentu 16-196901</Title>
+      <Date>2528</Date>
+      <DetailText>
+         Do obydlí velitele Jiralhanae byl při třetím zvonění druhé směny přivolán bezpečnostní tým. Když tým dorazil na místo, dveře byly vyrvány z rámu a v předsíni se nacházelo pět kusů neidentifikované biologické hmoty (viz přiložené schéma). Po inspekci bylo ověřeno, že biologická hmota byly kusy dvou Unggoyů z kuchyně na čtvrtém podlaží. Velitel byl klidný a komunikativní; prohlásil, že doručený oběd neodpovídal jeho objednávce (přepečený steak z rohatice, nedostatek omáčky). Byla povolána údržba; vedoucímu kuchyně na čtvrtém podlaží byla udělena oficiální důtka.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Forge01</Name>
+      <Status>Locked</Status>
+      <Position>42.0</Position>
+      <Title>17. srpna 2530</Title>
+      <Date>17. srpna 2530</Date>
+      <DetailText>
+         Seržant Forge byl uvězněn za napadení vysokého důstojníka. S jeho kariérou by byl konec nebýt zásahu admirála Colea, který dohlédl na to, aby šetření bylo spravedlivé a nestranné. Vysoký důstojník nakonec stanul před válečným soudem a seržant Forge byl převelen na Spirit of Fire, aby byly předchozí události udrženy v tajnosti.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Anders01</Name>
+      <Status>Locked</Status>
+      <Position>43.0</Position>
+      <Title>Deník profesorky Andersové, 30. ledna 2531</Title>
+      <Date>30. ledna 2531</Date>
+      <DetailText>
+         Po nalodění na Last Gleaming mi ukázali moji kajutu. Na dveřích bylo napsáno „Doktorka Andersová“ - jméno, o kterém si má matka myslí, že bych měla používat ve své profesionální kariéře. Nesnesu, aby mi něco připomínalo její přání. Tahle tajemná cesta na mě působí dojmem, že v ní má prsty.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox03</Name>
+      <Status>Locked</Status>
+      <Position>44.0</Position>
+      <Title>Z úřadu Vysokého proroka lítosti</Title>
+      <Date>2531</Date>
+      <DetailText>
+         Vraťte se co nejrychleji na planetu známou jako Harvest. Aby mohla Velká cesta pokračovat, musíme se dozvědět o tajemství ve svaté relikvii. Lidé do artefaktu nesmějí vstoupit; uděláme vše proto, abychom jim přístup znemožnili. Tento úkol musí být kompletně splněn, jinak budete čelit trestu.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox01</Name>
+      <Status>Locked</Status>
+      <Position>45.0</Position>
+      <Title>4. února 2531</Title>
+      <Date>4. února 2531</Date>
+      <DetailText>
+         Podpůrná loď UNSC Spirit of Fire vstupuje na oběžnou dráhu planety Harvest. Zatímco je flotila admirála Colea zaměstnána jinde, Spirit je poslána na planetu Harvest, aby zkoumala aktivitu Covenantu v systému a našla trosečníky z pohřešované útočné lodě UNSC Prophecy (která byla dříve odeslána na planetu Harvest, aby zkoumala stejnou aktivitu). Loď Spirit byla pod vedením kapitána Cuttera převelena ústředím FLEETCOM. ONI dosadila na palubu profesorku Andersovou, aby vedla výzkum.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox09</Name>
+      <Status>Locked</Status>
+      <Position>46.0</Position>
+      <Title>6. února 2531</Title>
+      <Date>6. února 2531</Date>
+      <DetailText>
+         Profesorka Andersová píše svému otci podrobnou analýzu Homérovy Odyssey. Ve skutečnosti jde o kódovanou zprávu informující o její misi na planetě Harvest a nalezených výsledcích. Cenzoři ONI šifru neodhalili a zpráva prochází beze změny až k jejímu otci.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox02</Name>
+      <Status>Locked</Status>
+      <Position>48.0</Position>
+      <Title>7. února 2531</Title>
+      <Date>7. února 2531</Date>
+      <DetailText>
+         Spirit of Fire pořádá bohoslužbu za posádku lodě Prophecy. I přes námitky ONI se čte seznam posádky. Loď Prophecy byla ztracena se všemi lidmi na palubě při první expedici na planetu Harvest, kde měla zkoumat zájem Covenantu o artefakt, který se nachází v blízkosti pólu.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+   
+   <Event>
+      <Name>BlackBox07</Name>
+      <Status>Locked</Status>
+      <Position>49.0</Position>
+      <Title>9. února 2531</Title>
+      <Date>9. února 2531</Date>
+      <DetailText>
+         Po boji s covenantskými silami na povrchu planety Harvest doráží loď UNSC Spirit of Fire do Arkádie - aby zde zjistila, že Covenant už je zde a útočí na kolonii. Pozemní síly lodě Spirit pomáhají při evakuaci a v boji proti Covenantu na povrchu planety.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox06</Name>
+      <Status>Locked</Status>
+      <Position>50.0</Position>
+      <Title>Z úřadu Vysokého proroka lítosti</Title>
+      <Date>2531</Date>
+      <DetailText>
+         Soudce, jsi rukou Covenantu - mojí rukou. Víš, co je třeba udělat. Vrať se na povrch a zajmi tu lidskou ženu - tu, která z nás udělala na planetě Harvest hlupáky. Právě ona je klíčem, který může odemknout tajemství pradávných předků.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox08</Name>
+      <Status>Locked</Status>
+      <Position>51.0</Position>
+      <Title>10. února 2531</Title>
+      <Date>10. února 2531</Date>
+      <DetailText>
+         Zajetí profesorky Andersové donutilo kapitána Cuttera k akci; Spirit of Fire pronásleduje nepřítele do prostoru Covenantu. Umělá inteligence lodi odhaduje přílet do cíle za 312 hodin. Po tuto dobu zůstává loď v pohotovosti, i když méně klíčoví členové posádky přecházejí krátce do kryo spánku.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Forge02</Name>
+      <Status>Locked</Status>
+      <Position>52.0</Position>
+      <Title>11. února 2531</Title>
+      <Date>11. února 2531</Date>
+      <DetailText>
+         Seržant Forge má spor se SPARŤANEM Douglasem-042 kvůli jeho doporučení zničit covenantskou loď, na jejíž palubě je profesorka Andersová. Hádka skončila jednou rozbitou židlí, narušeným těsněním na dveřích a rázným zakročením ze strany Seriny, umělé inteligence lodi. 42 a Forge od té doby jedí v jídelně vždy spolu.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox10</Name>
+      <Status>Locked</Status>
+      <Position>54.0</Position>
+      <Title>14. února 2531</Title>
+      <Date>14. února 2531</Date>
+      <DetailText>
+         Serina, protože ví, že posádka nemá moc velkou šanci na zpáteční cestu, na den svatého Valentýna vytvoří a doručí posádce falešné e-maily od rodinných příslušníků. Jako podklady používá předchozí korespondenci. Nikdo nemá o jejím klamu sebemenší podezření.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox12</Name>
+      <Status>Locked</Status>
+      <Position>56.0</Position>
+      <Title>Výtah z knihy Potrestané skutky, 3. svazek</Title>
+      <Date>2531</Date>
+      <DetailText>
+         Svět pod štítem, který chtěl prorok lítosti aktivovat, byl jeden z několika, které Covenant našel při hledání Halo. Tyto pokladnice technologií poskytly Covenantu rychlý přístup k pokročilým zbraním a systémům pro cestování vesmírem, díky kterým ovládl galaxii.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox13</Name>
+      <Status>Locked</Status>
+      <Position>57.0</Position>
+      <Title>23. února 2531</Title>
+      <Date>23. února 2531</Date>
+      <DetailText>
+         Spirit of Fire doráží na neznámou planetu, která je plná cizích forem života. Během dne je loď vtažena do vnitřku planety, kde se posádka utká s Covenanty a nakonec zachrání profesorku Andersovou.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Exile01</Name>
+      <Status>Locked</Status>
+      <Position>58.0</Position>
+      <Title>Cutterův deník, 25. února 2531</Title>
+      <Date>25. února 2531</Date>
+      <DetailText>
+         Pelikáni zařazení do pozemních operací na vnější straně planety měli stejnou poruchu během čtyř až pěti letů. Prach při vstupu do atmosféry planety zanášel otvory sání téměř obranným způsobem, jako by samotná planeta nechtěla, aby se na její povrch dostala jakákoli vesmírná plavidla.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox15</Name>
+      <Status>Locked</Status>
+      <Position>59.0</Position>
+      <Title>25. února 2531</Title>
+      <Date>25. února 2531</Date>
+      <DetailText>
+         Díky oběti seržanta Forge uniká Spirit of Fire ze světa pod štítem poslů. Spirit of Fire stanoví kurz domů a většina posádky se připravuje na kryo spánek, protože cesta potrvá roky, možná desetiletí.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Release01</Name>
+      <Status>Locked</Status>
+      <Position>60.0</Position>
+      <Title>Deník hl. lék. důstojníka O'Neila, 26. února 2531</Title>
+      <Date>26. února 2531</Date>
+      <DetailText>
+         Rozhodnutí spálit těla infikovaná virem nebylo jednoduché, ale kvůli nebezpečí, kterému by posádka čelila, a nenasytnosti infekce bylo nalodění těl na Spirit of Fire nemožné. Studium viru a jeho efektů se také nezdá být moudré, protože nemáme k dispozici izolovanou laboratoř s karanténou a nemáme představu o tom, jak se virus šíří.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox14</Name>
+      <Status>Locked</Status>
+      <Position>62.0</Position>
+      <Title>1. března 2531</Title>
+      <Date>1. března 2531</Date>
+      <DetailText>
+         Hlavní inženýr Prescott dokončuje odhad poškození lodi Spirit of Fire, také pokračují opravy trupu. Jaderný reaktor FTL nelze nahradit a plány na výrobu náhrady ze základních reaktorových jednotek se zdají být nemožné. Je rozhodnuto, že loď bude řídit jen základní posádka a ostatní budou uloženi k spánku se zpomalenými životními funkcemi.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Anders02</Name>
+      <Status>Locked</Status>
+      <Position>63.0</Position>
+      <Title>Cutterův deník, 3. března 2531</Title>
+      <Date>3. března 2531</Date>
+      <DetailText>
+         Díky svému zajetí Covenantem se profesorka Andersová stala v této válce zajatcem s nejdelší dobou v zajetí. O svém zajetí s nikým příliš nemluvila. Člověk si může jen těžko představit, čím vším si během této strašlivé doby musela projít.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Labyrinth01</Name>
+      <Status>Locked</Status>
+      <Position>64.0</Position>
+      <Title>Deník Andersové, 4. března 2531</Title>
+      <Date>4. března 2531</Date>
+      <DetailText>
+         Umělá konstrukce tohoto „světa“ se datuje daleko před Covenantem. Ve skutečnosti to vypadá, že se tuto technologii snaží získat pro své vlastní účely, ale nedokážou se stroji zacházet - ať už kvůli jejich provedení, nebo sofistikovanosti. Vzhledem k tomu, že byla k odemknutí zařízení potřeba má ruka, zdá se, že původní tvůrci planety o lidské rase věděli.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Cutter02</Name>
+      <Status>Locked</Status>
+      <Position>68.0</Position>
+      <Title>12. března 2531</Title>
+      <Date>12. března 2531</Date>
+      <DetailText>
+         Kapitán Cutter se prochází po lodi a vstupuje do zdravotního oddělení, aby se podíval na členy posádky, kteří se zotavují z bitvy. Ujišťuje sestru Hersheyovou, že najdou cestu domů a ona že znovu uvidí svého manžela. Vrací se do své kajuty a po napsání dalších pěti doporučení na vyznamenání, čtrnácti kondolencí rodinám a dopisu své ženě jde poprvé po dvou týdnech spát.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Repository01</Name>
+      <Status>Locked</Status>
+      <Position>70.0</Position>
+      <Title>10. února 2534</Title>
+      <Date>10. února 2534</Date>
+      <DetailText>
+         UNSC prohlašuje loď Spirit of Fire za ztracenou se všemi na palubě. Předchozí označení ''pohřešována'' dávalo rodinám a přátelům naději. Důvod pro změnu stavu je označován jako přísně tajný. Pořádá se bohoslužba za posádku, ale mnoho rodinných příslušníků se jí neúčastní, protože doufají, že jsou jejich milovaní stále naživu.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event008</Name>
+      <Status>Unlocked</Status>
+      <Position>73.0</Position>
+      <Title>1. června 2536</Title>
+      <Date>1. června 2536</Date>
+      <DetailText>
+         Začíná obléhání Vnitřních kolonií - covenantské síly vtrhly do lidmi ovládaného prostoru. Na několik let válka upadá do stereotypu: lidé vyhrávají některé bitvy, obvykle při pozemních operacích, ale za strašlivou cenu. Kolonie jedna za druhou postupně zanikají.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BeasleysPlateau01</Name>
+      <Status>Locked</Status>
+      <Position>84.0</Position>
+      <Title>9. září 2549</Title>
+      <Date>9. září 2549</Date>
+      <DetailText>
+         Druhý pád Arkádie. Po prvním útoku na planetu v roce 2531 nechal Covenant Arkádii na pokoji, ale lidé ji z větší části opustili a hlavní město Pirth ponechali osudu. Po určité době začala malá farmářská komunita budovat Abaskun, bohatou zemědělskou oblast na kontinentu Mu. I když zde neexistovaly takřka žádné zákony, oblast poskytovala UNSC tolik potřebné zásoby jídla - do té doby, než na planetu na podzim roku 2549 znovu zaútočil Covenant.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>FortDeen01</Name>
+      <Status>Locked</Status>
+      <Position>86.0</Position>
+      <Title>Vyhláška úřadu Vysokého proroka pravdy</Title>
+      <Date>2550</Date>
+      <DetailText>
+         Je známo, že instalace Světel na nově postavená válečná plavidla se opožďuje. Na každém plavidlu, které stále ještě nemá Světlo, má být jeden dělník Unggoy z každých 64 popraven. Aby byla zachována disciplína mezi vedoucími Sangheili a pracujícími Unggoyi, výběr oběti a poprava bude svěřena smrtícím jednotkám Kig-Yar. Tak to bude probíhat každý den, dokud nebude na dané plavidlo nainstalováno Světlo.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BloodGulch01</Name>
+      <Status>Locked</Status>
+      <Position>90.0</Position>
+      <Title>27. srpna 2552</Title>
+      <Date>27. srpna 2552</Date>
+      <DetailText>
+         Dvacet pět z dvaceti osmi přeživších jednotek SPARŤAN-II, včetně jednotky SPARŤAN-117, je svoláno na planetu Reach, aby byly informovány o hrozbě ze strany Covenantu a aby obdržely nové rozkazy: nalodit se na poškozené plavidlo Covenantu, použít „specialistu mise“ k nabourání se do počítačového systému Covenantu a vyhledat domácí planetu Covenantu. Po splnění úkolu bude vyslán zásahový tým, aby zajal vedení Covenantu a násilím docílil příměří. I přes poslední úspěchy je lidská armáda systematicky likvidována a toto může být jediná šance na přežití.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event009</Name>
+      <Status>Unlocked</Status>
+      <Position>92.0</Position>
+      <Title>30. srpna 2552 - 04:00</Title>
+      <Date>30. srpna 2552</Date>
+      <DetailText>
+         Reach, domov zařízení ONI CASTLE a projektu Sparťan-II, je přepaden obrovskou přesilou Covenantu. Loď Pillar of Autumn, které velí kapitán Keyes, přepravuje Sparťany do bitvy s nadějí, že obsadí covenantskou loď. Covenantu se sice nepodaří získat informace o poloze Země, ale většina Sparťanů v bitvě padne a planeta Reach je ztracena.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event010</Name>
+      <Status>Unlocked</Status>
+      <Position>93.0</Position>
+      <Title>30. srpna 2552 - 05:00</Title>
+      <Date>30. srpna 2552</Date>
+      <DetailText>
+         Loď Pillar of Autumn, které velí kapitán Keyes, uniká z planety Reach s covenantskými plavidly v patách. Loď je těžce poškozena, ale dokáže se dostat do hyperprostoru a uniknout. Na palubě Pillar of Autumn je pravděpodobně jediný Sparťan, který boj na planetě Reach přežil.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Crevice01</Name>
+      <Status>Locked</Status>
+      <Position>98.0</Position>
+      <Title>Vyhláška úřadu Vysokého proroka pravdy</Title>
+      <Date>2552</Date>
+      <DetailText>
+         Slyšte, dnes budou všichni v průběhu druhého odpočinkového období pozorně sledovat monitory. Všechny monitory budou ukazovat ponížení a potrestání vrchního velitele Sangheili z flotily Jedinečné spravedlnosti za selhání, zbabělost a nedostatek víry.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Brute02</Name>
+      <Status>Locked</Status>
+      <Position>99.0</Position>
+      <Title>Vyhláška úřadu Vysokého proroka pravdy</Title>
+      <Date>2552</Date>
+      <DetailText>
+         Vzhledem k schopnostem rasy Jiralhanae budou všichni Sangheili na palubách lodí flotily Hluboké samoty, flotily Klidného soustředění a flotily Vnitřního uvědomění nahrazeni personálem rasy Jiralhanae. Všem nahrazeným Sangheili budou přiděleny nové povinnosti. Na oslavu budou všichni uvěznění Jiralhanae propuštěni, rehabilitováni a bude jim udělena milost.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+</Timeline>

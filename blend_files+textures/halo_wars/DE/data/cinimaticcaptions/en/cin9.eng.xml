@@ -1,0 +1,25 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<cinimaticCaption>
+	<caption startFrame="400" endFrame="430" color="4294967295">REGRET: This is her?</caption>
+	<caption startFrame="440" endFrame="530" color="4294967295">ARBITER: Yes, Hierarch, this is the one I observed.</caption>
+	<caption startFrame="540" endFrame="605" color="4294967295">REGRET: Such a frail thing.</caption>
+	<caption startFrame="610" endFrame="660" color="4294967295">You would hardly think them a threat.</caption>
+	<caption startFrame="670" endFrame="740" color="4294967295">ANDERS: I demand to know why I'm being held!</caption>
+	<caption startFrame="750" endFrame="800" color="4294967295">ARBITER: Demand?</caption>
+	<caption startFrame="810" endFrame="855" color="4294967295">ELITE: Arbiter, a human ship has arrived</caption>
+	<caption startFrame="860" endFrame="940" color="4294967295">and is closing in on the entrance portal.</caption>
+	<caption startFrame="950" endFrame="995" color="4294967295">ARBITER: Get the Hierarch to High Charity!</caption>
+	<caption startFrame="1000" endFrame="1100" color="4294967295">Intercept that human ship and destroy it at once!</caption>
+	<caption startFrame="1390" endFrame="1420" color="4294967295">FORGE: Nothing but ocean.</caption>
+	<caption startFrame="1440" endFrame="1500" color="4294967295">CUTTER: Are you sure this is it, Serina?</caption>
+	<caption startFrame="1510" endFrame="1610" color="4294967295">SERINA: Fairly sure. Initiating a deep scan.</caption>
+	<caption startFrame="1650" endFrame="1765" color="4294967295">Docking? Cleansing? That's not right...</caption>
+	<caption startFrame="1770" endFrame="1820" color="4294967295">Captain, you're not going to like this!</caption>
+	<caption startFrame="2060" endFrame="2075" color="4294967295">CUTTER: Serina -</caption>
+	<caption startFrame="2080" endFrame="2150" color="4294967295">FORGE: Captain! We've got company!</caption>
+	<caption startFrame="2550" endFrame="2645" color="4294967295">CUTTER: All hands, engage! Serina, I've got troops out there still.</caption>
+	<caption startFrame="2650" endFrame="2690" color="4294967295">Get them back onboard now!</caption>
+	<caption startFrame="2700" endFrame="2790" color="4294967295">SERINA: Captain, I can only hold this position a few minutes at the most.</caption>
+	<caption startFrame="2800" endFrame="2830" color="4294967295">CUTTER: Now, Serina!</caption>
+	<caption startFrame="2840" endFrame="3000" color="4294967295">SERINA: Recalling surface squads so we can all die together - aye, sir!</caption>
+</cinimaticCaption>

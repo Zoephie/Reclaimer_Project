@@ -1,0 +1,6 @@
+<physics>
+   <blueprint>crp_rebel_arcadiaBase_01</blueprint>
+   <ThrownByBallistics>false</ThrownByBallistics>
+   <DestroyedByBallistics>true</DestroyedByBallistics>
+   <MotionType>fixed</MotionType>
+</physics>

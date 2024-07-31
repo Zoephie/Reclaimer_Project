@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<cinimaticCaption>
+	<caption startFrame="10" endFrame="140" color="4294967295">CUTTER: Captain's Report - February 4th, 2531.</caption>
+	<caption startFrame="145" endFrame="270" color="4294967295">Five years. Five long years.</caption>
+	<caption startFrame="280" endFrame="400" color="4294967295">That's how long it took us to get Harvest back.</caption>
+	<caption startFrame="1110" endFrame="1180" color="4294967295">At first, it was going well...</caption>
+	<caption startFrame="1190" endFrame="1310" color="4294967295">...then setback after setback...</caption>
+	<caption startFrame="1440" endFrame="1560" color="4294967295">...loss after loss...</caption>
+	<caption startFrame="1620" endFrame="1740" color="4294967295">...made what was going to be a quick and decisive win...</caption>
+	<caption startFrame="1790" endFrame="1910" color="4294967295">...into five years of hell.</caption>
+	<caption startFrame="2040" endFrame="2160" color="4294967295">Of course, that's all Harvest is today...</caption>
+	<caption startFrame="2170" endFrame="2240" color="4294967295">...it's hell down there.</caption>
+	<caption startFrame="2250" endFrame="2360" color="4294967295">But now it's ours again.</caption>
+	<caption startFrame="2670" endFrame="2940" color="4294967295" SubtitleForVisualElement="true">EPSILON INDI SYSTEM - HARVEST
+FEBRURAY 4TH 2531</caption>
+	<caption startFrame="2980" endFrame="3060" color="4294967295" SubtitleForVisualElement="true">20 YEARS BEFORE THE HALO EVENT</caption>
+	<caption startFrame="3780" endFrame="3830" color="4294967295">CUTTER: Serina. Status?</caption>
+	<caption startFrame="3840" endFrame="3920" color="4294967295">SERINA: Standard orbit achieved. All systems normal.</caption>
+	<caption startFrame="3930" endFrame="4010" color="4294967295">CUTTER: Prep for pod launches. Bring weapon systems online.</caption>
+	<caption startFrame="4020" endFrame="4070" color="4294967295">SERINA: Expecting trouble, Captain?</caption>
+	<caption startFrame="4080" endFrame="4140" color="4294967295">CUTTER: Harvest may be ours again,</caption>
+	<caption startFrame="4140" endFrame="4260" color="4294967295">but I don't think the Covenant appreciate that yet.</caption>
+	<caption startFrame="4320" endFrame="4370" color="4294967295">Sergeant Forge. Report.</caption>
+	<caption startFrame="4380" endFrame="4430" color="4294967295">FORGE: Definitely plenty of bad guys down here, Captain,</caption>
+	<caption startFrame="4440" endFrame="4490" color="4294967295">and they've found something in the ice.</caption>
+	<caption startFrame="4500" endFrame="4615" color="4294967295">CUTTER: Damn it! That complicates our mission. Anders, what have you got?</caption>
+	<caption startFrame="4620" endFrame="4690" color="4294967295">ANDERS: Captain, scans of the northern polar region</caption>
+	<caption startFrame="4700" endFrame="4770" color="4294967295">show some interesting Covenant activity on the surface.</caption>
+	<caption startFrame="4780" endFrame="4840" color="4294967295">There's some kind of structure down there.</caption>
+	<caption startFrame="4860" endFrame="4920" color="4294967295">SERINA: What do you think they are looking for?</caption>
+	<caption startFrame="4950" endFrame="5000" color="4294967295">CUTTER: That's what we're here to find out.</caption>
+	<caption startFrame="5010" endFrame="5075" color="4294967295">We're to bring Alpha Base up to operational status</caption>
+	<caption startFrame="5080" endFrame="5120" color="4294967295">and take control of that site.</caption>
+	<caption startFrame="5130" endFrame="5180" color="4294967295">ANDERS: I'll get my equipment ready, Captain.</caption>
+	<caption startFrame="5190" endFrame="5290" color="4294967295">FORGE: Lady, there's no way you're coming down here on the first bird.</caption>
+	<caption startFrame="5400" endFrame="5460" color="4294967295">CUTTER: Sergeant Forge, pull back to Alpha Base.</caption>
+	<caption startFrame="5460" endFrame="5505" color="4294967295">I'm sending you some backup.</caption>
+	<caption startFrame="5510" endFrame="5560" color="4294967295">FORGE: Roger that. Forge out.</caption>
+	<caption startFrame="5570" endFrame="5650" color="4294967295">SERINA: So... nothing too difficult, then?</caption>
+	<caption startFrame="5730" endFrame="5810" color="4294967295">CUTTER: It might be the key to this whole war, Serina.</caption>
+	<caption startFrame="5815" endFrame="5860" color="4294967295">It's worth the risk.</caption>
+</cinimaticCaption>

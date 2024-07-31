@@ -1,0 +1,6 @@
+<physics>
+   <blueprint>creep_flood_base_01</blueprint>
+   <ThrownByBallistics>false</ThrownByBallistics>
+   <DestroyedByBallistics>true</DestroyedByBallistics>
+   <MotionType>fixed</MotionType>
+</physics>

@@ -1,0 +1,1559 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Squads>
+	<Squad name="unsc_air_pelican_01" dbid="3082">
+		<UIVisual>unsc\air\wasp_01\wasp_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_unsc\air_wasp</PortraitIcon>
+		<MinimapIcon size="8">Triangle</MinimapIcon>
+		<DisplayNameID>23675</DisplayNameID>
+		<RolloverTextID>23676</RolloverTextID>
+		<PrereqTextID>233</PrereqTextID>
+		<BuildPoints>18</BuildPoints>
+		<Cost resourcetype="Supplies">360</Cost>
+		<Cost resourcetype="Power">3</Cost>
+		<SubSelectSort>7300</SubSelectSort>
+		<HPBar offset="0, 5, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">unsc_air_pelican_01</Unit>
+		</Units>
+		<Flag>Repairable</Flag>
+		<Selection>
+			<ConformToTerrain>false</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="unsc_air_hornet_01" dbid="1145">
+		<UIVisual>unsc\air\wasp_01\wasp_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_unsc\air_wasp</PortraitIcon>
+		<MinimapIcon size="8">Triangle</MinimapIcon>
+		<DisplayNameID>22215</DisplayNameID>
+		<RolloverTextID>22216</RolloverTextID>
+		<PrereqTextID>233</PrereqTextID>
+		<BuildPoints>28</BuildPoints>
+		<Cost resourcetype="Supplies">600</Cost>
+		<Cost resourcetype="Power">3</Cost>
+		<SubSelectSort>7000</SubSelectSort>
+		<HPBar offset="0, 5, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">unsc_air_hornet_01</Unit>
+		</Units>
+		<Flag>Repairable</Flag>
+		<Selection>
+			<ConformToTerrain>false</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="unsc_air_hawk_01" dbid="868">
+		<UIVisual>unsc\air\hawk_01\hawk_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_unsc\air_hawk</PortraitIcon>
+		<MinimapIcon size="8">Triangle</MinimapIcon>
+		<DisplayNameID>3028</DisplayNameID>
+		<RolloverTextID>3029</RolloverTextID>
+		<PrereqTextID>234</PrereqTextID>
+		<BuildPoints>33</BuildPoints>
+		<Cost resourcetype="Supplies">720</Cost>
+		<Cost resourcetype="Power">3</Cost>
+		<SubSelectSort>7100</SubSelectSort>
+		<HPBar offset="0, 5, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">unsc_air_hawk_01</Unit>
+		</Units>
+		<Flag>Repairable</Flag>
+		<Selection>
+			<ConformToTerrain>false</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="unsc_veh_warthog_01" dbid="869">
+		<UIVisual>unsc\air\shortsword_01\shortsword_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\placeholder</PortraitIcon>
+		<MinimapIcon size="8">Triangle</MinimapIcon>
+		<DisplayNameID>3032</DisplayNameID>
+		<RolloverTextID>3033</RolloverTextID>
+		<PrereqTextID>232</PrereqTextID>
+		<BuildPoints>40</BuildPoints>
+		<Cost resourcetype="Supplies">1</Cost>
+		<Cost resourcetype="Power">1</Cost>
+		<Stance>Passive</Stance>
+		<HPBar offset="0, 5, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">unsc_air_shortsword_01</Unit>
+		</Units>
+		<Selection>
+			<ConformToTerrain>false</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="unsc_air_vulture_01" dbid="871">
+		<UIVisual>unsc\air\vulture_01\vulture_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_unsc\air_vulture</PortraitIcon>
+		<MinimapIcon size="8">Triangle</MinimapIcon>
+		<DisplayNameID>3030</DisplayNameID>
+		<RolloverTextID>3031</RolloverTextID>
+		<PrereqTextID>236</PrereqTextID>
+		<BuildPoints>60</BuildPoints>
+		<Cost resourcetype="Supplies">2160</Cost>
+		<Cost resourcetype="Power">6</Cost>
+		<SubSelectSort>7200</SubSelectSort>
+		<HPBar sizeX="14.0f" sizeY="8.0f" offset="0, 12, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">unsc_air_vulture_01</Unit>
+		</Units>
+		<Flag>Repairable</Flag>
+		<Selection>
+			<ConformToTerrain>false</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="unsc_veh_elephant_01" dbid="3009">
+		<UIVisual>unsc\vehicle\scorpion_01\scorpion_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_unsc\veh_scorpion</PortraitIcon>
+		<MinimapIcon size="8">Square</MinimapIcon>
+		<DisplayNameID>23670</DisplayNameID>
+		<RolloverTextID>23671</RolloverTextID>
+		<PrereqTextID>232</PrereqTextID>
+		<BuildPoints>44</BuildPoints>
+		<Cost resourcetype="Supplies">960</Cost>
+		<Cost resourcetype="Power">2</Cost>
+		<SubSelectSort>5201</SubSelectSort>
+		<Birth anim="Train" trainerAnim="Train" spawnPoint="bone_spawnpoint01">Trained</Birth>
+		<HPBar offset="0, 12, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">unsc_veh_elephant_01</Unit>
+		</Units>
+		<TurnRadius min="0.1" max="8" />
+		<Flag>Repairable</Flag>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="unsc_veh_scorpion_01" dbid="882">
+		<UIVisual>unsc\vehicle\scorpion_01\scorpion_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_unsc\veh_scorpion</PortraitIcon>
+		<MinimapIcon size="8">Square</MinimapIcon>
+		<DisplayNameID>3020</DisplayNameID>
+		<RolloverTextID>3021</RolloverTextID>
+		<PrereqTextID>232</PrereqTextID>
+		<BuildPoints>54</BuildPoints>
+		<Cost resourcetype="Supplies">1200</Cost>
+		<Cost resourcetype="Power">2</Cost>
+		<SubSelectSort>5200</SubSelectSort>
+		<Birth anim="Train" trainerAnim="Train" spawnPoint="bone_spawnpoint01">Trained</Birth>
+		<HPBar offset="0, 12, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">unsc_veh_scorpion_01</Unit>
+		</Units>
+		<TurnRadius min="0.1" max="8" />
+		<Flag>Repairable</Flag>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="unsc_veh_grizzly_01" dbid="883">
+		<UIVisual>unsc\vehicle\tiger_01\tiger_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_unsc\veh_tiger</PortraitIcon>
+		<MinimapIcon size="8">Square</MinimapIcon>
+		<DisplayNameID>3082</DisplayNameID>
+		<RolloverTextID>3083</RolloverTextID>
+		<PrereqTextID>234</PrereqTextID>
+		<BuildPoints>63</BuildPoints>
+		<Cost resourcetype="Supplies">1440</Cost>
+		<Cost resourcetype="Power">3</Cost>
+		<SubSelectSort>5250</SubSelectSort>
+		<HPBar offset="0, 12, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">unsc_veh_grizzly_01</Unit>
+		</Units>
+		<TurnRadius min="0.5" max="8" />
+		<Flag>Repairable</Flag>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="unsc_veh_wolverine_01" dbid="886">
+		<UIVisual>unsc\vehicle\wolverine_01\wolverine_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_unsc\veh_wolverine</PortraitIcon>
+		<MinimapIcon size="8">Square</MinimapIcon>
+		<DisplayNameID>3022</DisplayNameID>
+		<RolloverTextID>3023</RolloverTextID>
+		<PrereqTextID>233</PrereqTextID>
+		<BuildPoints>23</BuildPoints>
+		<Cost resourcetype="Supplies">480</Cost>
+		<Cost resourcetype="Power">3</Cost>
+		<SubSelectSort>5100</SubSelectSort>
+		<Birth anim="Train" trainerAnim="Train" spawnPoint="bone_spawnpoint01">Trained</Birth>
+		<HPBar offset="0, 6, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">unsc_veh_wolverine_01</Unit>
+		</Units>
+		<TurnRadius min="1.5" max="4" />
+		<Flag>Repairable</Flag>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="unsc_veh_cobra_01" dbid="873">
+		<UIVisual>unsc\infantry\fox_01\fox_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_unsc\veh_fox</PortraitIcon>
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<DisplayNameID>3072</DisplayNameID>
+		<RolloverTextID>3073</RolloverTextID>
+		<PrereqTextID>232</PrereqTextID>
+		<BuildPoints>39</BuildPoints>
+		<Cost resourcetype="Supplies">840</Cost>
+		<Cost resourcetype="Power">2</Cost>
+		<SubSelectSort>5075</SubSelectSort>
+		<Birth anim="Train" trainerAnim="Train" spawnPoint="bone_spawnpoint01">Trained</Birth>
+		<HPBar offset="0, 4, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">unsc_veh_cobra_01</Unit>
+		</Units>
+		<TurnRadius min="2" max="5" />
+		<Flag>Repairable</Flag>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="unsc_veh_warthog_011" dbid="885">
+		<UIVisual>unsc\vehicle\warthog_01\warthog_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_unsc\veh_warthogROF</PortraitIcon>
+		<MinimapIcon size="8">Square</MinimapIcon>
+		<DisplayNameID>3016</DisplayNameID>
+		<RolloverTextID>3017</RolloverTextID>
+		<BuildPoints>36</BuildPoints>
+		<Cost resourcetype="Supplies">240</Cost>
+		<SubSelectSort>5000</SubSelectSort>
+		<Birth anim="Train" trainerAnim="Train" spawnPoint="bone_spawnpoint01">Trained</Birth>
+		<HPBar offset="0, 12, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">unsc_veh_warthog_01</Unit>
+		</Units>
+		<TurnRadius min="1.5" max="4" />
+		<Flag>Repairable</Flag>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="unsc_veh_gremlin_01" dbid="3010">
+		<UIVisual>unsc\vehicle\warthog_01\warthog_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_unsc\veh_warthogROF</PortraitIcon>
+		<MinimapIcon size="8">Square</MinimapIcon>
+		<DisplayNameID>23666</DisplayNameID>
+		<RolloverTextID>23667</RolloverTextID>
+		<BuildPoints>15</BuildPoints>
+		<Cost resourcetype="Supplies">300</Cost>
+		<SubSelectSort>5001</SubSelectSort>
+		<Birth anim="Train" trainerAnim="Train" spawnPoint="bone_spawnpoint01">Trained</Birth>
+		<HPBar offset="0, 12, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">unsc_veh_gremlin_01</Unit>
+		</Units>
+		<TurnRadius min="1.5" max="4" />
+		<Flag>Repairable</Flag>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="unsc_inf_flameMarine_01" formationType="Line" dbid="874">
+		<UIVisual>unsc\infantry\marine_01\marine_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_unsc\inf_flamemarine</PortraitIcon>
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<DisplayNameID>3068</DisplayNameID>
+		<RolloverTextID>3069</RolloverTextID>
+		<PrereqTextID>231</PrereqTextID>
+		<BuildPoints>6</BuildPoints>
+		<Cost resourcetype="Supplies">240</Cost>
+		<Cost resourcetype="Power">0</Cost>
+		<SubSelectSort>3100</SubSelectSort>
+		<Birth trainerAnim="SpawnMarine" spawnPoint="bone_landingpoint01">FlyIn</Birth>
+		<HPBar offset="0, 8, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="2" role="normal">unsc_inf_flameMarine_01</Unit>
+		</Units>
+		<Sound Type="StopExist">stop_unsc_batchat_flame_exist</Sound>
+		<Sound Type="MoveChatter">play_unsc_batchat_flame_move</Sound>
+		<Sound Type="AttackChatter">play_unsc_batchat_flame_action</Sound>
+		<Sound Type="MoveAttackChatter">play_unsc_batchat_flame_moveattack</Sound>
+		<Sound Type="IdleChatter">play_unsc_batchat_flame_idle</Sound>
+		<Sound Type="KillEnemy">play_unsc_batchat_flame_killenemy</Sound>
+		<Sound Type="AllyKilled">play_unsc_batchat_flame_allykilled</Sound>
+		<Flag>Repairable</Flag>
+		<Flag>Chatter</Flag>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="unsc_inf_marine_01" formationType="Flock" dbid="877">
+		<UIVisual>unsc\infantry\marine_01\marine_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_unsc\inf_marine</PortraitIcon>
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<DisplayNameID>3000</DisplayNameID>
+		<RolloverTextID>3001</RolloverTextID>
+		<BuildPoints>6</BuildPoints>
+		<Cost resourcetype="Supplies">240</Cost>
+		<SubSelectSort>3000</SubSelectSort>
+		<Birth trainerAnim="SpawnMarine" spawnPoint="bone_landingpoint01">FlyIn</Birth>
+		<HPBar offset="0, 8, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="4" role="normal">unsc_inf_marine_01</Unit>
+		</Units>
+		<Sound Type="StopExist">stop_unsc_batchat_marine_exist</Sound>
+		<Sound Type="MoveChatter">play_unsc_batchat_marine_move</Sound>
+		<Sound Type="AttackChatter">play_unsc_batchat_marine_action</Sound>
+		<Sound Type="AttackChatter" Squad="unsc_inf_marine_01">play_unsc_batchat_marine_idle</Sound>
+		<Sound Type="MoveAttackChatter">play_unsc_batchat_marine_moveattack</Sound>
+		<Sound Type="IdleChatter">play_unsc_batchat_marine_idle</Sound>
+		<Sound Type="KilledEnemy">play_unsc_batchat_marine_killenemy</Sound>
+		<Sound Type="AllyKilled">play_unsc_batchat_marine_allykilled</Sound>
+		<Sound Type="ReactDeath" Squad="unsc_inf_spartan_01">play_unsc_warthog_acknowledge</Sound>
+		<Sound Type="ReactBirth" Squad="unsc_inf_spartan_01">play_unsc_warthog_acknowledge</Sound>
+		<Sound Type="ReactJoinBattle" Squad="unsc_inf_spartan_01">play_test_unit_response_spartan</Sound>
+		<Sound Type="ReactJoinBattle" Squad="unsc_inf_spartan_01">play_test_unit_response_spartan</Sound>
+		<Sound Type="LevelUp">play_arbiter_level_up</Sound>
+		<Flag>Repairable</Flag>
+		<Flag>Chatter</Flag>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="unsc_inf_marine_02" formationType="Flock" dbid="3083">
+		<UIVisual>unsc\infantry\marine_01\marine_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_unsc\inf_marine</PortraitIcon>
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<DisplayNameID>3000</DisplayNameID>
+		<RolloverTextID>3001</RolloverTextID>
+		<BuildPoints>6</BuildPoints>
+		<Cost resourcetype="Supplies">240</Cost>
+		<SubSelectSort>3000</SubSelectSort>
+		<Birth trainerAnim="SpawnMarine" spawnPoint="bone_landingpoint01">FlyIn</Birth>
+		<HPBar offset="0, 8, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="4" role="normal">unsc_inf_marine_01</Unit>
+			<Unit count="1" role="normal">unsc_inf_marine_02</Unit>
+		</Units>
+		<Sound Type="StopExist">stop_unsc_batchat_marine_exist</Sound>
+		<Sound Type="MoveChatter">play_unsc_batchat_marine_move</Sound>
+		<Sound Type="AttackChatter">play_unsc_batchat_marine_action</Sound>
+		<Sound Type="AttackChatter" Squad="unsc_inf_marine_01">play_unsc_batchat_marine_idle</Sound>
+		<Sound Type="MoveAttackChatter">play_unsc_batchat_marine_moveattack</Sound>
+		<Sound Type="IdleChatter">play_unsc_batchat_marine_idle</Sound>
+		<Sound Type="KilledEnemy">play_unsc_batchat_marine_killenemy</Sound>
+		<Sound Type="AllyKilled">play_unsc_batchat_marine_allykilled</Sound>
+		<Sound Type="ReactDeath" Squad="unsc_inf_spartan_01">play_unsc_warthog_acknowledge</Sound>
+		<Sound Type="ReactBirth" Squad="unsc_inf_spartan_01">play_unsc_warthog_acknowledge</Sound>
+		<Sound Type="ReactJoinBattle" Squad="unsc_inf_spartan_01">play_test_unit_response_spartan</Sound>
+		<Sound Type="ReactJoinBattle" Squad="unsc_inf_spartan_01">play_test_unit_response_spartan</Sound>
+		<Sound Type="LevelUp">play_arbiter_level_up</Sound>
+		<Flag>Repairable</Flag>
+		<Flag>Chatter</Flag>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="unsc_inf_marine_03" formationType="Flock" dbid="3084">
+		<UIVisual>unsc\infantry\marine_01\marine_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_unsc\inf_marine</PortraitIcon>
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<DisplayNameID>3000</DisplayNameID>
+		<RolloverTextID>3001</RolloverTextID>
+		<BuildPoints>6</BuildPoints>
+		<Cost resourcetype="Supplies">240</Cost>
+		<SubSelectSort>3000</SubSelectSort>
+		<Birth trainerAnim="SpawnMarine" spawnPoint="bone_landingpoint01">FlyIn</Birth>
+		<HPBar offset="0, 8, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="4" role="normal">unsc_inf_marine_01</Unit>
+			<Unit count="2" role="normal">unsc_inf_marine_02</Unit>
+		</Units>
+		<Sound Type="StopExist">stop_unsc_batchat_marine_exist</Sound>
+		<Sound Type="MoveChatter">play_unsc_batchat_marine_move</Sound>
+		<Sound Type="AttackChatter">play_unsc_batchat_marine_action</Sound>
+		<Sound Type="AttackChatter" Squad="unsc_inf_marine_01">play_unsc_batchat_marine_idle</Sound>
+		<Sound Type="MoveAttackChatter">play_unsc_batchat_marine_moveattack</Sound>
+		<Sound Type="IdleChatter">play_unsc_batchat_marine_idle</Sound>
+		<Sound Type="KilledEnemy">play_unsc_batchat_marine_killenemy</Sound>
+		<Sound Type="AllyKilled">play_unsc_batchat_marine_allykilled</Sound>
+		<Sound Type="ReactDeath" Squad="unsc_inf_spartan_01">play_unsc_warthog_acknowledge</Sound>
+		<Sound Type="ReactBirth" Squad="unsc_inf_spartan_01">play_unsc_warthog_acknowledge</Sound>
+		<Sound Type="ReactJoinBattle" Squad="unsc_inf_spartan_01">play_test_unit_response_spartan</Sound>
+		<Sound Type="ReactJoinBattle" Squad="unsc_inf_spartan_01">play_test_unit_response_spartan</Sound>
+		<Sound Type="LevelUp">play_arbiter_level_up</Sound>
+		<Flag>Repairable</Flag>
+		<Flag>Chatter</Flag>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="unsc_inf_mark1Suit_01" formationType="Flock" dbid="2825">
+		<UIVisual>unsc\infantry\marine_01\marine_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_unsc\inf_marine</PortraitIcon>
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<DisplayNameID>23524</DisplayNameID>
+		<RolloverTextID>23525</RolloverTextID>
+		<PrereqTextID>234</PrereqTextID>
+		<BuildPoints>24</BuildPoints>
+		<Cost resourcetype="Supplies">300</Cost>
+		<Cost resourcetype="Power">4</Cost>
+		<SubSelectSort>3000</SubSelectSort>
+		<HPBar offset="0, 8, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">unsc_inf_mark1Suit_01</Unit>
+		</Units>
+		<Flag>Repairable</Flag>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="unsc_inf_odst_01" formationType="Flock" dbid="878">
+		<UIVisual>unsc\infantry\odst_01\odst_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\placeholder</PortraitIcon>
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<DisplayNameID>3012</DisplayNameID>
+		<RolloverTextID>3013</RolloverTextID>
+		<Cost resourcetype="Supplies">300</Cost>
+		<BuildPoints>15</BuildPoints>
+		<SubSelectSort>3300</SubSelectSort>
+		<HPBar offset="0, 8, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="4" role="normal">unsc_inf_odst_01</Unit>
+		</Units>
+		<Flag>Repairable</Flag>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="unsc_inf_spartan_01" dbid="880">
+		<UIVisual>unsc\infantry\spartan_01\spartan_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\placeholder</PortraitIcon>
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<DisplayNameID>3014</DisplayNameID>
+		<RolloverTextID>3015</RolloverTextID>
+		<PrereqTextID>234</PrereqTextID>
+		<BuildPoints>41</BuildPoints>
+		<Cost resourcetype="Supplies">900</Cost>
+		<Cost resourcetype="Power">4</Cost>
+		<SubSelectSort>1000</SubSelectSort>
+		<HPBar offset="0, 8, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">unsc_inf_spartan_01</Unit>
+		</Units>
+		<Flag>Repairable</Flag>
+		<Flag>CreateAudioReactions</Flag>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="unsc_con_turret_01" dbid="2724">
+		<UIVisual>unsc\vehicle\wolverine_01\wolverine_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_unsc\bldg_turret</PortraitIcon>
+		<MinimapIcon size="8">Square</MinimapIcon>
+		<DisplayNameID>23430</DisplayNameID>
+		<RolloverTextID>23475</RolloverTextID>
+		<BuildPoints>15</BuildPoints>
+		<Cost ResourceType="Supplies">720</Cost>
+		<Cost ResourceType="Power">0</Cost>
+		<SubSelectSort>5100</SubSelectSort>
+		<HPBar offset="0, 6, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">unsc_con_turret_01</Unit>
+		</Units>
+		<TurnRadius min="1.5" max="4" />
+		<Flag>Repairable</Flag>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="unsc_con_base_01" dbid="2726">
+		<UIVisual>unsc\vehicle\wolverine_01\wolverine_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_unsc\bldg_command1</PortraitIcon>
+		<MinimapIcon size="8">Square</MinimapIcon>
+		<DisplayNameID>23478</DisplayNameID>
+		<RolloverTextID>23479</RolloverTextID>
+		<PrereqTextID>230</PrereqTextID>
+		<BuildPoints>40</BuildPoints>
+		<Cost ResourceType="Supplies">1000</Cost>
+		<SubSelectSort>5100</SubSelectSort>
+		<HPBar offset="0, 6, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">unsc_con_base_01</Unit>
+		</Units>
+		<TurnRadius min="1.5" max="4" />
+		<Flag>Repairable</Flag>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cov_air_spirit_01" dbid="3085">
+		<UIVisual>covenant\air\banshee_01\banshee_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\air_banshee</PortraitIcon>
+		<MinimapIcon size="8">Triangle</MinimapIcon>
+		<DisplayNameID>23677</DisplayNameID>
+		<RolloverTextID>23678</RolloverTextID>
+		<PrereqTextID>243</PrereqTextID>
+		<BuildPoints>15</BuildPoints>
+		<Cost resourcetype="Supplies">300</Cost>
+		<Cost resourcetype="Power">3</Cost>
+		<HPBar offset="0, 6, 0">COV_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">cov_air_spirit_01</Unit>
+		</Units>
+		<Flag>Repairable</Flag>
+		<Selection>
+			<ConformToTerrain>false</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cov_air_banshee_01" dbid="888">
+		<UIVisual>covenant\air\banshee_01\banshee_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\air_banshee</PortraitIcon>
+		<MinimapIcon size="8">Triangle</MinimapIcon>
+		<DisplayNameID>3064</DisplayNameID>
+		<RolloverTextID>3065</RolloverTextID>
+		<PrereqTextID>243</PrereqTextID>
+		<BuildPoints>20</BuildPoints>
+		<Cost resourcetype="Supplies">480</Cost>
+		<Cost resourcetype="Power">3</Cost>
+		<HPBar offset="0, 6, 0">COV_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">cov_air_banshee_01</Unit>
+		</Units>
+		<Flag>Repairable</Flag>
+		<Selection>
+			<ConformToTerrain>false</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cov_air_vampire_01" dbid="890">
+		<UIVisual>covenant\air\hydra_01\hydra_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\air_hydra</PortraitIcon>
+		<MinimapIcon size="8">Triangle</MinimapIcon>
+		<DisplayNameID>3066</DisplayNameID>
+		<RolloverTextID>3067</RolloverTextID>
+		<PrereqTextID>243</PrereqTextID>
+		<BuildPoints>25</BuildPoints>
+		<Cost resourcetype="Supplies">540</Cost>
+		<Cost resourcetype="Power">3</Cost>
+		<SubSelectSort>8000</SubSelectSort>
+		<HPBar offset="0, 6, 0">COV_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">cov_air_vampire_01</Unit>
+		</Units>
+		<Flag>Repairable</Flag>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cov_veh_locust_01" dbid="914">
+		<UIVisual>covenant\vehicle\ghost_01\ghost_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\inf_chimera</PortraitIcon>
+		<MinimapIcon size="8">Square</MinimapIcon>
+		<DisplayNameID>3070</DisplayNameID>
+		<RolloverTextID>3071</RolloverTextID>
+		<PrereqTextID>243</PrereqTextID>
+		<BuildPoints>33</BuildPoints>
+		<Cost resourcetype="Supplies">720</Cost>
+		<Cost resourcetype="Power">3</Cost>
+		<SubSelectSort>6300</SubSelectSort>
+		<HPBar offset="0, 7, 0">COV_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">cov_veh_locust_01</Unit>
+		</Units>
+		<TurnRadius min="0.5" max="6" />
+		<Flag>Repairable</Flag>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cov_veh_scarab_01" dbid="915">
+		<UIVisual>covenant\vehicle\scarab_01\scarab_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\veh_scarab</PortraitIcon>
+		<MinimapIcon size="8">Square</MinimapIcon>
+		<DisplayNameID>3060</DisplayNameID>
+		<RolloverTextID>3061</RolloverTextID>
+		<PrereqTextID>246</PrereqTextID>
+		<BuildPoints>120</BuildPoints>
+		<Cost resourcetype="Supplies">7200</Cost>
+		<Cost resourcetype="Power">6</Cost>
+		<HPBar sizeX="14.0f" sizeY="8.0f" offset="0, 11, 0">COV_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">cov_veh_scarab_01</Unit>
+		</Units>
+		<TurnRadius min="2" max="16" />
+		<Flag>Repairable</Flag>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cov_veh_wraith_01" dbid="917">
+		<UIVisual>covenant\vehicle\wraith_01\wraith_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\veh_wraith</PortraitIcon>
+		<MinimapIcon size="8">Square</MinimapIcon>
+		<DisplayNameID>3056</DisplayNameID>
+		<RolloverTextID>3057</RolloverTextID>
+		<PrereqTextID>242</PrereqTextID>
+		<BuildPoints>39</BuildPoints>
+		<Cost resourcetype="Supplies">840</Cost>
+		<Cost resourcetype="Power">2</Cost>
+		<SubSelectSort>6500</SubSelectSort>
+		<HPBar offset="0, 6, 0">COV_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">cov_veh_wraith_01</Unit>
+		</Units>
+		<TurnRadius min="0.5" max="4" />
+		<Flag>Repairable</Flag>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cov_veh_bruteChopper_01" dbid="2455">
+		<UIVisual>covenant\infantry\brute_01\brute_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\placeholder</PortraitIcon>
+		<MinimapIcon size="8">Square</MinimapIcon>
+		<DisplayNameID>3084</DisplayNameID>
+		<RolloverTextID>3085</RolloverTextID>
+		<BuildPoints>45</BuildPoints>
+		<Cost resourcetype="Supplies">300</Cost>
+		<SubSelectSort>6200</SubSelectSort>
+		<HPBar offset="0, 7, 0">COV_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">cov_veh_bruteChopper_01</Unit>
+		</Units>
+		<Sound Type="StopExist">stop_cov_batchat_brute_exist</Sound>
+		<Sound Type="MoveChatter">play_cov_batchat_brute_move</Sound>
+		<Sound Type="AttackChatter">play_cov_batchat_brute_action</Sound>
+		<Sound Type="IdleChatter">play_cov_batchat_brute_idle</Sound>
+		<Sound Type="KillEnemy">play_cov_batchat_brute_killenemy</Sound>
+		<Sound Type="AllyKilled">play_cov_batchat_brute_allykilled</Sound>
+		<TurnRadius min="1.5" max="4" />
+		<Flag>Repairable</Flag>
+		<Flag>Chatter</Flag>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cov_veh_ghost_01" formationType="Line" dbid="913">
+		<UIVisual>covenant\vehicle\ghost_01\ghost_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\veh_ghost</PortraitIcon>
+		<MinimapIcon size="8">Square</MinimapIcon>
+		<DisplayNameID>3058</DisplayNameID>
+		<RolloverTextID>3059</RolloverTextID>
+		<BuildPoints>27</BuildPoints>
+		<Cost resourcetype="Supplies">180</Cost>
+		<SubSelectSort>6100</SubSelectSort>
+		<HPBar offset="0, 6, 0">COV_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">cov_veh_ghost_01</Unit>
+		</Units>
+		<TurnRadius min="0.1" max="4" />
+		<Flag>Repairable</Flag>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cov_inf_kamikazeGrunt_01" formationType="Flock" dbid="894">
+		<UIVisual>covenant\infantry\grunt_01\grunt_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\inf_grunt_kami</PortraitIcon>
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<DisplayNameID>3086</DisplayNameID>
+		<RolloverTextID>3087</RolloverTextID>
+		<PrereqTextID>240</PrereqTextID>
+		<BuildPoints>16</BuildPoints>
+		<SubSelectSort>4300</SubSelectSort>
+		<HPBar offset="0, 5, 0">COV_Health</HPBar>
+		<Units>
+			<Unit count="6" role="normal">cov_inf_kamikazegrunt_01</Unit>
+		</Units>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cov_inf_gruntHorde_01" formationType="Flock" dbid="895">
+		<UIVisual>covenant\infantry\grunt_01\grunt_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\inf_grunt</PortraitIcon>
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<DisplayNameID>3036</DisplayNameID>
+		<RolloverTextID>3037</RolloverTextID>
+		<BuildPoints>10</BuildPoints>
+		<SubSelectSort>4000</SubSelectSort>
+		<HPBar offset="0, 5, 0">COV_Health</HPBar>
+		<Units>
+			<Unit count="10" role="normal">cov_inf_grunt_01</Unit>
+		</Units>
+		<Flag>Repairable</Flag>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cov_inf_gruntHorde_02" formationType="Gaggle" dbid="2807">
+		<UIVisual>covenant\infantry\grunt_01\grunt_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\inf_grunt</PortraitIcon>
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<DisplayNameID>3036</DisplayNameID>
+		<RolloverTextID>3037</RolloverTextID>
+		<BuildPoints>10</BuildPoints>
+		<SubSelectSort>4000</SubSelectSort>
+		<HPBar offset="0, 5, 0">COV_Health</HPBar>
+		<Units>
+			<Unit count="10" role="normal">cov_inf_grunt_01</Unit>
+		</Units>
+		<Flag>Repairable</Flag>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cov_inf_arbiter_01" dbid="902">
+		<UIVisual>covenant\infantry\arbiter_01\arbiter_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\inf_arbiter</PortraitIcon>
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<DisplayNameID>3052</DisplayNameID>
+		<RolloverTextID>3053</RolloverTextID>
+		<PrereqTextID>244</PrereqTextID>
+		<BuildPoints>76</BuildPoints>
+		<Cost resourcetype="Supplies">1800</Cost>
+		<Cost resourcetype="Power">4</Cost>
+		<SubSelectSort>2000</SubSelectSort>
+		<HPBar offset="0, 5, 0">COV_HealthShield</HPBar>
+		<Units>
+			<Unit count="1" role="normal">cov_inf_arbiter_01</Unit>
+		</Units>
+		<Flag>Repairable</Flag>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cov_inf_bruteChief_01" dbid="2826">
+		<UIVisual>covenant\infantry\arbiter_01\arbiter_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\inf_arbiter</PortraitIcon>
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<DisplayNameID>23528</DisplayNameID>
+		<RolloverTextID>23529</RolloverTextID>
+		<PrereqTextID>244</PrereqTextID>
+		<BuildPoints>76</BuildPoints>
+		<Cost resourcetype="Supplies">1800</Cost>
+		<Cost resourcetype="Power">4</Cost>
+		<SubSelectSort>2000</SubSelectSort>
+		<HPBar offset="0, 5, 0">COV_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">cov_inf_bruteChief_01</Unit>
+		</Units>
+		<Flag>Repairable</Flag>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cov_inf_minister_01" dbid="2488">
+		<UIVisual>covenant\infantry\arbiter_01\arbiter_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\inf_grunt</PortraitIcon>
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<DisplayNameID>22637</DisplayNameID>
+		<RolloverTextID>22638</RolloverTextID>
+		<PrereqTextID>244</PrereqTextID>
+		<BuildPoints>76</BuildPoints>
+		<Cost resourcetype="Supplies">1800</Cost>
+		<Cost resourcetype="Power">4</Cost>
+		<SubSelectSort>2000</SubSelectSort>
+		<HPBar offset="0, 5, 0">COV_HealthShield</HPBar>
+		<Units>
+			<Unit count="1" role="normal">cov_inf_minister_01</Unit>
+		</Units>
+		<Flag>Repairable</Flag>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cov_inf_brute_01" formationType="Flock" dbid="903">
+		<UIVisual>covenant\infantry\brute_01\brute_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\inf_brute</PortraitIcon>
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<DisplayNameID>3046</DisplayNameID>
+		<RolloverTextID>3047</RolloverTextID>
+		<PrereqTextID>244</PrereqTextID>
+		<BuildPoints>18</BuildPoints>
+		<Cost resourcetype="Supplies">360</Cost>
+		<Cost resourcetype="Power">4</Cost>
+		<SubSelectSort>4800</SubSelectSort>
+		<HPBar offset="0, 7, 0">COV_Health</HPBar>
+		<Units>
+			<Unit count="2" role="normal">cov_inf_brute_01</Unit>
+		</Units>
+		<Sound Type="StopExist">stop_cov_batchat_brute_exist</Sound>
+		<Sound Type="MoveChatter">play_cov_batchat_brute_move</Sound>
+		<Sound Type="AttackChatter">play_cov_batchat_brute_action</Sound>
+		<Sound Type="IdleChatter">play_cov_batchat_brute_idle</Sound>
+		<Sound Type="KillEnemy">play_cov_batchat_brute_killenemy</Sound>
+		<Sound Type="AllyKilled">play_cov_batchat_brute_allykilled</Sound>
+		<Flag>Repairable</Flag>
+		<Flag>Chatter</Flag>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cov_inf_bruteGrunt_01" formationType="Flock" dbid="904">
+		<UIVisual>covenant\infantry\grunt_01\grunt_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\inf_grunt</PortraitIcon>
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<DisplayNameID>3036</DisplayNameID>
+		<RolloverTextID>3037</RolloverTextID>
+		<BuildPoints>6</BuildPoints>
+		<Cost resourcetype="Supplies">240</Cost>
+		<SubSelectSort>4000</SubSelectSort>
+		<HPBar offset="0, 5, 0">COV_Health</HPBar>
+		<Units>
+			<Unit count="4" role="normal">cov_inf_grunt_01</Unit>
+			<Unit count="1" role="normal">cov_inf_bruteLeader_01</Unit>
+		</Units>
+		<Sound Type="StopExist">stop_cov_batchat_grunt_exist</Sound>
+		<Sound Type="MoveChatter">play_cov_batchat_grunt_move</Sound>
+		<Sound Type="AttackChatter">play_cov_batchat_grunt_action</Sound>
+		<Sound Type="MoveAttackChatter">play_cov_batchat_grunt_moveattack</Sound>
+		<Sound Type="IdleChatter">play_cov_batchat_grunt_idle</Sound>
+		<Sound Type="KillEnemy">play_cov_batchat_grunt_killenemy</Sound>
+		<Sound Type="AllyKilled">play_cov_batchat_grunt_allykilled</Sound>
+		<Flag>Repairable</Flag>
+		<Flag>Chatter</Flag>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cov_inf_grunt_01" formationType="Flock" dbid="906">
+		<UIVisual>covenant\infantry\grunt_01\grunt_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\inf_grunt</PortraitIcon>
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<DisplayNameID>3036</DisplayNameID>
+		<RolloverTextID>3037</RolloverTextID>
+		<BuildPoints>6</BuildPoints>
+		<Cost resourcetype="Supplies">240</Cost>
+		<SubSelectSort>4000</SubSelectSort>
+		<HPBar offset="0, 5, 0">COV_HealthShield</HPBar>
+		<Units>
+			<Unit count="4" role="normal">cov_inf_grunt_01</Unit>
+			<Unit count="1" role="normal">cov_inf_eliteLeader_01</Unit>
+		</Units>
+		<Sound Type="StopExist">stop_cov_batchat_grunt_exist</Sound>
+		<Sound Type="MoveChatter">play_cov_batchat_grunt_move</Sound>
+		<Sound Type="AttackChatter">play_cov_batchat_grunt_action</Sound>
+		<Sound Type="MoveAttackChatter">play_cov_batchat_grunt_moveattack</Sound>
+		<Sound Type="IdleChatter">play_cov_batchat_grunt_idle</Sound>
+		<Sound Type="KillEnemy">play_cov_batchat_grunt_killenemy</Sound>
+		<Sound Type="AllyKilled">play_cov_batchat_grunt_allykilled</Sound>
+		<Flag>Repairable</Flag>
+		<Flag>Chatter</Flag>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cov_inf_needlerGrunt_01" formationType="Flock" dbid="908">
+		<UIVisual>covenant\infantry\grunt_01\grunt_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\inf_grunt_needler</PortraitIcon>
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<DisplayNameID>3036</DisplayNameID>
+		<RolloverTextID>3037</RolloverTextID>
+		<BuildPoints>6</BuildPoints>
+		<HPBar offset="0, 5, 0">COV_HealthShield</HPBar>
+		<Units>
+			<Unit count="4" role="normal">cov_inf_needlerGrunt_01</Unit>
+			<Unit count="1" role="normal">cov_inf_eliteLeader_01</Unit>
+		</Units>
+		<Sound Type="StopExist">stop_cov_batchat_grunt_exist</Sound>
+		<Sound Type="MoveChatter">play_cov_batchat_grunt_move</Sound>
+		<Sound Type="AttackChatter">play_cov_batchat_grunt_action</Sound>
+		<Sound Type="IdleChatter">play_cov_batchat_grunt_idle</Sound>
+		<Sound Type="KillEnemy">play_cov_batchat_grunt_killenemy</Sound>
+		<Sound Type="AllyKilled">play_cov_batchat_grunt_allykilled</Sound>
+		<Flag>Repairable</Flag>
+		<Flag>Chatter</Flag>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cov_inf_eliteCommando_01" formationType="Line" dbid="2454">
+		<UIVisual>covenant\infantry\grunt_01\grunt_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\placeholder</PortraitIcon>
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<DisplayNameID>3080</DisplayNameID>
+		<RolloverTextID>3081</RolloverTextID>
+		<PrereqTextID>244</PrereqTextID>
+		<BuildPoints>24</BuildPoints>
+		<Cost resourcetype="Supplies">480</Cost>
+		<Cost resourcetype="Power">4</Cost>
+		<SubSelectSort>4003</SubSelectSort>
+		<HPBar offset="0, 5, 0">COV_HealthShield</HPBar>
+		<Units>
+			<Unit count="2" role="normal">cov_inf_eliteCommando_01</Unit>
+		</Units>
+		<Flag>Repairable</Flag>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cov_inf_hunter_01" formationType="Line" dbid="910">
+		<UIVisual>covenant\infantry\hunter_01\hunter_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\inf_hunter</PortraitIcon>
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<DisplayNameID>3050</DisplayNameID>
+		<RolloverTextID>3051</RolloverTextID>
+		<PrereqTextID>242</PrereqTextID>
+		<BuildPoints>30</BuildPoints>
+		<Cost resourcetype="Supplies">600</Cost>
+		<Cost resourcetype="Power">2</Cost>
+		<SubSelectSort>4700</SubSelectSort>
+		<HPBar offset="0, 6, 0">COV_Health</HPBar>
+		<Units>
+			<Unit count="2" role="normal">cov_inf_hunter_01</Unit>
+		</Units>
+		<Flag>Repairable</Flag>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cov_inf_jackal_01" formationType="Flock" dbid="911">
+		<UIVisual>covenant\infantry\jackal_01\jackal_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\inf_jackal</PortraitIcon>
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<DisplayNameID>3048</DisplayNameID>
+		<RolloverTextID>3049</RolloverTextID>
+		<PrereqTextID>241</PrereqTextID>
+		<BuildPoints>6</BuildPoints>
+		<Cost resourcetype="Supplies">240</Cost>
+		<Cost resourcetype="Power">0</Cost>
+		<SubSelectSort>4600</SubSelectSort>
+		<HPBar offset="0, 6, 0">COV_HealthShield</HPBar>
+		<Units>
+			<Unit count="2" role="normal">cov_inf_jackal_01</Unit>
+		</Units>
+		<Flag>Repairable</Flag>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cov_con_turret_01" dbid="2727">
+		<UIVisual>unsc\vehicle\wolverine_01\wolverine_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\bldg_node_01</PortraitIcon>
+		<MinimapIcon size="8">Square</MinimapIcon>
+		<DisplayNameID>23480</DisplayNameID>
+		<RolloverTextID>23481</RolloverTextID>
+		<BuildPoints>15</BuildPoints>
+		<Cost ResourceType="Supplies">720</Cost>
+		<Cost ResourceType="Power">0</Cost>
+		<SubSelectSort>5100</SubSelectSort>
+		<HPBar offset="0, 6, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">cov_con_turret_01</Unit>
+		</Units>
+		<TurnRadius min="1.5" max="4" />
+		<Flag>Repairable</Flag>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cov_con_node_01" dbid="2728">
+		<UIVisual>unsc\vehicle\wolverine_01\wolverine_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\placeholder</PortraitIcon>
+		<MinimapIcon size="8">Square</MinimapIcon>
+		<DisplayNameID>23482</DisplayNameID>
+		<RolloverTextID>23483</RolloverTextID>
+		<BuildPoints>10</BuildPoints>
+		<Cost ResourceType="Supplies">800</Cost>
+		<Cost ResourceType="Power">300</Cost>
+		<SubSelectSort>5100</SubSelectSort>
+		<HPBar offset="0, 6, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">cov_con_node_01</Unit>
+		</Units>
+		<TurnRadius min="1.5" max="4" />
+		<Flag>Repairable</Flag>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cov_con_base_01" dbid="2729">
+		<UIVisual>unsc\vehicle\wolverine_01\wolverine_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\bldg_builder</PortraitIcon>
+		<MinimapIcon size="8">Square</MinimapIcon>
+		<DisplayNameID>23484</DisplayNameID>
+		<RolloverTextID>23485</RolloverTextID>
+		<PrereqTextID>240</PrereqTextID>
+		<BuildPoints>20</BuildPoints>
+		<Cost ResourceType="Supplies">1000</Cost>
+		<SubSelectSort>5100</SubSelectSort>
+		<HPBar offset="0, 6, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">cov_con_base_01</Unit>
+		</Units>
+		<TurnRadius min="1.5" max="4" />
+		<Flag>Repairable</Flag>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="for_air_drone_01" dbid="2886">
+		<DisplayNameID>23604</DisplayNameID>
+		<RolloverTextID>23605</RolloverTextID>
+		<MinimapIcon size="8">Triangle</MinimapIcon>
+		<HPBar offset="0, 5, 0">COV_Health</HPBar>
+		<Cost resourcetype="Supplies">100</Cost>
+		<Cost resourcetype="Power">0</Cost>
+		<BuildPoints>30</BuildPoints>
+		<SubSelectSort>10000</SubSelectSort>
+		<Units>
+			<Unit count="1" role="normal">for_air_drone_01</Unit>
+		</Units>
+		<Selection>
+			<ConformToTerrain>false</ConformToTerrain>
+		</Selection>
+		<Flag>InstantTrainWithRecharge</Flag>
+	</Squad>
+	<Squad name="for_air_sentinel_01" dbid="919">
+		<DisplayNameID>23600</DisplayNameID>
+		<RolloverTextID>23601</RolloverTextID>
+		<UIVisual>forerunner\air\sentinel_01\sentinel_01.vis</UIVisual>
+		<PortraitIcon>ui\npc\air\sentinel\sentinel</PortraitIcon>
+		<MinimapIcon size="8">Triangle</MinimapIcon>
+		<HPBar offset="0, 5, 0">COV_HealthShield</HPBar>
+		<Cost resourcetype="Supplies">250</Cost>
+		<Cost resourcetype="Power">1</Cost>
+		<BuildPoints>15</BuildPoints>
+		<SubSelectSort>10001</SubSelectSort>
+		<Units>
+			<Unit count="1" role="normal">for_air_sentinel_01</Unit>
+		</Units>
+		<Selection>
+			<ConformToTerrain>false</ConformToTerrain>
+		</Selection>
+		<Flag>Repairable</Flag>
+		<Flag>InstantTrainWithRecharge</Flag>
+	</Squad>
+	<Squad name="for_air_sentinel_03" dbid="1478">
+		<DisplayNameID>23602</DisplayNameID>
+		<RolloverTextID>23603</RolloverTextID>
+		<UIVisual>forerunner\air\sentinel_01\sentinel_03.vis</UIVisual>
+		<PortraitIcon>ui\npc\air\sentinel\sentinel</PortraitIcon>
+		<MinimapIcon size="8">Triangle</MinimapIcon>
+		<BuildPoints>60</BuildPoints>
+		<HPBar offset="0, 5, 0">COV_HealthShield</HPBar>
+		<Cost resourcetype="Supplies">1000</Cost>
+		<Cost resourcetype="Power">4</Cost>
+		<BuildPoints>30</BuildPoints>
+		<SubSelectSort>10002</SubSelectSort>
+		<Units>
+			<Unit count="1" role="normal">for_air_sentinel_03</Unit>
+		</Units>
+		<Selection>
+			<ConformToTerrain>false</ConformToTerrain>
+		</Selection>
+		<Flag>Repairable</Flag>
+		<Flag>InstantTrainWithRecharge</Flag>
+	</Squad>
+	<Squad name="for_air_enforcer_01" dbid="2466">
+		<UIVisual>forerunner\air\sentinel_01\sentinel_01.vis</UIVisual>
+		<PortraitIcon>ui\npc\air\sentinel\sentinel</PortraitIcon>
+		<MinimapIcon size="8">Triangle</MinimapIcon>
+		<DisplayNameID>22604</DisplayNameID>
+		<RolloverTextID>22605</RolloverTextID>
+		<BuildPoints>60</BuildPoints>
+		<HPBar offset="0, 5, 0">COV_HealthShield</HPBar>
+		<Units>
+			<Unit count="1" role="normal">for_air_enforcer_01</Unit>
+		</Units>
+		<Selection>
+			<ConformToTerrain>false</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cpgn_inf_bombGrunt_01" dbid="2990">
+		<UIVisual>covenant\vehicle\wraith_01\wraith_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\veh_wraith</PortraitIcon>
+		<MinimapIcon size="8">Square</MinimapIcon>
+		<DisplayNameID>10112</DisplayNameID>
+		<RolloverTextID>10113</RolloverTextID>
+		<SubSelectSort>4001</SubSelectSort>
+		<HPBar offset="0, 6, 0">COV_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">cpgn_inf_bombGrunt_01</Unit>
+		</Units>
+		<TurnRadius min="0.5" max="4" />
+		<Flag>Repairable</Flag>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cpgn_inf_needlerElite_01" formationType="Flock" dbid="3014">
+		<UIVisual>covenant\infantry\grunt_01\grunt_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\inf_grunt</PortraitIcon>
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<DisplayNameID>23672</DisplayNameID>
+		<RolloverTextID>23673</RolloverTextID>
+		<Cost resourcetype="Supplies">120</Cost>
+		<BuildPoints>10</BuildPoints>
+		<SubSelectSort>4002</SubSelectSort>
+		<HPBar offset="0, 5, 0">COV_HealthShield</HPBar>
+		<Units>
+			<Unit count="2" role="normal">cpgn_inf_needlerElite_01</Unit>
+		</Units>
+		<Flag>Repairable</Flag>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cpgn_unit_scarabBoss_01" dbid="920">
+		<UIVisual>campaign\unit\scarabBoss_01\scarabBoss_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\placeholder</PortraitIcon>
+		<MinimapIcon size="8">Square</MinimapIcon>
+		<DisplayNameID>3060</DisplayNameID>
+		<RolloverTextID>3061</RolloverTextID>
+		<Units>
+			<Unit count="1" role="normal">cpgn_unit_scarabBoss_01</Unit>
+		</Units>
+		<Birth anim="Train" trainerAnim="Train" spawnPoint="bone_spawnpoint01">Trained</Birth>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cpgn_veh_AAwraith_01" dbid="2967">
+		<UIVisual>covenant\vehicle\wraith_01\wraith_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\veh_wraith</PortraitIcon>
+		<MinimapIcon size="8">Square</MinimapIcon>
+		<DisplayNameID>23651</DisplayNameID>
+		<RolloverTextID>236527</RolloverTextID>
+		<Cost resourcetype="Supplies">840</Cost>
+		<SubSelectSort>6501</SubSelectSort>
+		<HPBar offset="0, 6, 0">COV_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">cpgn_veh_AAwraith_01</Unit>
+		</Units>
+		<TurnRadius min="0.5" max="4" />
+		<Flag>Repairable</Flag>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cpgn_scn14_reactor_01" dbid="2762">
+		<UIVisual />
+		<PortraitIcon />
+		<MinimapIcon size="8">Square</MinimapIcon>
+		<DisplayNameID />
+		<RolloverTextID />
+		<PrereqTextID />
+		<BuildPoints>0</BuildPoints>
+		<Cost resourcetype="Supplies">0</Cost>
+		<Cost resourcetype="Power">0</Cost>
+		<SubSelectSort />
+		<HPBar offset="0, 12, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">cpgn_scn14_reactor_01</Unit>
+		</Units>
+		<TurnRadius min="0.5" max="8" />
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cpgn_scn02_rocketWarthog_01" dbid="2929">
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<DisplayNameID>3016</DisplayNameID>
+		<RolloverTextID>3017</RolloverTextID>
+		<HPBar offset="0, 8, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">cpgn_scn02_rocketWarthog_01</Unit>
+		</Units>
+		<Flag>Repairable</Flag>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cpgn_inf_spartanRocket_01" dbid="2265">
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<DisplayNameID>3014</DisplayNameID>
+		<RolloverTextID>3015</RolloverTextID>
+		<HPBar offset="0, 8, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">cpgn_inf_spartanRocket_01</Unit>
+		</Units>
+		<Flag>Repairable</Flag>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cpgn_inf_spartanSniper_01" dbid="2266">
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<DisplayNameID>3014</DisplayNameID>
+		<RolloverTextID>3015</RolloverTextID>
+		<HPBar offset="0, 8, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">cpgn_inf_spartanSniper_01</Unit>
+		</Units>
+		<Flag>Repairable</Flag>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="fld_inf_infectionForm_01" formationType="Gaggle" dbid="921">
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<DisplayNameID>22686</DisplayNameID>
+		<RolloverTextID>22687</RolloverTextID>
+		<HPBar offset="0, 5, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="24" role="normal">fld_inf_infectionForm_01</Unit>
+		</Units>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="fld_inf_infectionForm_02" formationType="Gaggle" dbid="2739">
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<DisplayNameID>22686</DisplayNameID>
+		<RolloverTextID>22687</RolloverTextID>
+		<HPBar offset="0, 5, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="4" role="normal">fld_inf_infectionForm_01</Unit>
+		</Units>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="fld_inf_infectedElite_01" formationType="Flock" dbid="922">
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<DisplayNameID>22684</DisplayNameID>
+		<RolloverTextID>22685</RolloverTextID>
+		<HPBar offset="0, 5, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="2" role="normal">fld_inf_infectedElite_01</Unit>
+		</Units>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="fld_inf_infectedEliteSingle_01" formationType="Flock" dbid="2274">
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<DisplayNameID>22684</DisplayNameID>
+		<RolloverTextID>22685</RolloverTextID>
+		<HPBar offset="0, 5, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">fld_inf_infectedElite_01</Unit>
+		</Units>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="fld_inf_flameMarine_01" formationType="Flock" dbid="2582">
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<DisplayNameID>22610</DisplayNameID>
+		<RolloverTextID>22673</RolloverTextID>
+		<HPBar offset="0, 5, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="2" role="normal">fld_inf_flameMarine_01</Unit>
+		</Units>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="fld_inf_infectedMarine_01" formationType="Flock" dbid="924">
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<DisplayNameID>22678</DisplayNameID>
+		<RolloverTextID>22679</RolloverTextID>
+		<HPBar offset="0, 5, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="4" role="normal">fld_inf_infectedMarine_01</Unit>
+		</Units>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="fld_inf_infectedMarineSingle_01" dbid="2275">
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<DisplayNameID>22678</DisplayNameID>
+		<RolloverTextID>22679</RolloverTextID>
+		<HPBar offset="0, 5, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">fld_inf_infectedMarine_01</Unit>
+		</Units>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="fld_inf_rhinodillo_01" formationType="Flock" dbid="1155">
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<DisplayNameID>22680</DisplayNameID>
+		<RolloverTextID>22681</RolloverTextID>
+		<HPBar offset="0, 5, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">fld_veh_rhinodillo_01</Unit>
+		</Units>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="fld_air_swarm_01" formationType="Flock" dbid="1156">
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<DisplayNameID>22682</DisplayNameID>
+		<RolloverTextID>22683</RolloverTextID>
+		<HPBar offset="0, 5, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="5" role="normal">fld_air_swarm_01</Unit>
+		</Units>
+		<Selection>
+			<ConformToTerrain>false</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="fld_inf_infectedCarrier_01" dbid="928">
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<DisplayNameID>22676</DisplayNameID>
+		<RolloverTextID>22677</RolloverTextID>
+		<HPBar offset="0, 5, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">fld_inf_infectedCarrier_01</Unit>
+		</Units>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cpgn_scn04_ship_01" dbid="929">
+		<UIVisual>unsc\air\vulture_01\vulture_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\placeholder</PortraitIcon>
+		<MinimapIcon size="8">Triangle</MinimapIcon>
+		<DisplayNameID>3088</DisplayNameID>
+		<RolloverTextID>3089</RolloverTextID>
+		<BuildPoints>10</BuildPoints>
+		<Cost resourcetype="Supplies">500</Cost>
+		<Cost resourcetype="Power">0</Cost>
+		<HPBar sizeX="14.0f" sizeY="8.0f" offset="0, 10, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">cpgn_scn04_ship_01</Unit>
+		</Units>
+		<Selection>
+			<ConformToTerrain>false</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cpgn_scn04_ship_02" dbid="1056">
+		<UIVisual>unsc\air\vulture_01\vulture_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\placeholder</PortraitIcon>
+		<MinimapIcon size="8">Triangle</MinimapIcon>
+		<DisplayNameID>3088</DisplayNameID>
+		<RolloverTextID>3089</RolloverTextID>
+		<BuildPoints>10</BuildPoints>
+		<Cost resourcetype="Supplies">500</Cost>
+		<Cost resourcetype="Power">0</Cost>
+		<HPBar sizeX="14.0f" sizeY="8.0f" offset="0, 10, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">cpgn_scn04_ship_02</Unit>
+		</Units>
+		<Selection>
+			<ConformToTerrain>false</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cpgn_scn04_ship_03" dbid="1057">
+		<UIVisual>unsc\air\vulture_01\vulture_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\placeholder</PortraitIcon>
+		<MinimapIcon size="8">Triangle</MinimapIcon>
+		<DisplayNameID>3088</DisplayNameID>
+		<RolloverTextID>3089</RolloverTextID>
+		<BuildPoints>10</BuildPoints>
+		<Cost resourcetype="Supplies">500</Cost>
+		<Cost resourcetype="Power">0</Cost>
+		<HPBar sizeX="14.0f" sizeY="8.0f" offset="0, 10, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">cpgn_scn04_ship_03</Unit>
+		</Units>
+		<Selection>
+			<ConformToTerrain>false</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cpgn_scn04_ship_04" dbid="1058">
+		<UIVisual>unsc\air\vulture_01\vulture_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\placeholder</PortraitIcon>
+		<MinimapIcon size="8">Triangle</MinimapIcon>
+		<DisplayNameID>3088</DisplayNameID>
+		<RolloverTextID>3089</RolloverTextID>
+		<BuildPoints>1</BuildPoints>
+		<HPBar sizeX="14.0f" sizeY="8.0f" offset="0, 10, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">cpgn_scn04_ship_04</Unit>
+		</Units>
+		<Selection>
+			<ConformToTerrain>false</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cpgn_scn04_ship_05" dbid="1059">
+		<UIVisual>unsc\air\vulture_01\vulture_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\placeholder</PortraitIcon>
+		<MinimapIcon size="8">Triangle</MinimapIcon>
+		<DisplayNameID>3088</DisplayNameID>
+		<RolloverTextID>3089</RolloverTextID>
+		<BuildPoints>1</BuildPoints>
+		<HPBar sizeX="14.0f" sizeY="8.0f" offset="0, 10, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">cpgn_scn04_ship_05</Unit>
+		</Units>
+		<Selection>
+			<ConformToTerrain>false</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cpgn_air_pelican_01" dbid="966">
+		<UIVisual>unsc\air\vulture_01\vulture_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\placeholder</PortraitIcon>
+		<MinimapIcon size="8">Triangle</MinimapIcon>
+		<DisplayNameID>3090</DisplayNameID>
+		<RolloverTextID>3091</RolloverTextID>
+		<BuildPoints>1</BuildPoints>
+		<HPBar sizeX="14.0f" sizeY="8.0f" offset="0, 10, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">cpgn_air_pelican_01</Unit>
+		</Units>
+		<Selection>
+			<ConformToTerrain>false</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cpgn_npc_arcadiaPolice_01" formationType="Flock" dbid="2223">
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<HPBar offset="0, 5, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="4" role="normal">cpgn_npc_arcadiaPolice_01</Unit>
+		</Units>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cpgn_npc_civilian_01" formationType="Flock" dbid="1271">
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<HPBar offset="0, 5, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="5" role="normal">cpgn_npc_civilian_01</Unit>
+		</Units>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cpgn_npc_forge_01" formationType="Flock" dbid="2896">
+		<DisplayNameID>23610</DisplayNameID>
+		<RolloverTextID>23611</RolloverTextID>
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<HPBar offset="0, 5, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">cpgn_npc_forge_01</Unit>
+		</Units>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cpgn_npc_anders_01" formationType="Flock" dbid="2897">
+		<DisplayNameID>23612</DisplayNameID>
+		<RolloverTextID>23613</RolloverTextID>
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<HPBar offset="0, 5, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">cpgn_npc_anders_01</Unit>
+		</Units>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cpgn_npc_ForgeAndAnders_01" formationType="Flock" dbid="2898">
+		<DisplayNameID>23614</DisplayNameID>
+		<RolloverTextID>23615</RolloverTextID>
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<HPBar offset="0, 5, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">cpgn_npc_forge_01</Unit>
+			<Unit count="1" role="normal">cpgn_npc_anders_01</Unit>
+		</Units>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cpgn_inf_jackalSniper_01" formationType="Flock" dbid="2775">
+		<UIVisual>covenant\infantry\jackal_01\jackal_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\placeholder</PortraitIcon>
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<DisplayNameID>3048</DisplayNameID>
+		<RolloverTextID>3049</RolloverTextID>
+		<SubSelectSort>4600</SubSelectSort>
+		<HPBar offset="0, 6, 0">COV_HealthShield</HPBar>
+		<Units>
+			<Unit count="2" role="normal">cpgn_inf_jackalSniper_01</Unit>
+		</Units>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="cpgn_veh_scn06Rhino_01" dbid="1318">
+		<UIVisual>unsc\vehicle\rhino_01\rhino_01.vis</UIVisual>
+		<PortraitIcon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\placeholder</PortraitIcon>
+		<MinimapIcon size="8">Square</MinimapIcon>
+		<DisplayNameID>3024</DisplayNameID>
+		<RolloverTextID>3025</RolloverTextID>
+		<PrereqTextID>231</PrereqTextID>
+		<BuildPoints>30</BuildPoints>
+		<Cost resourcetype="Supplies">700</Cost>
+		<Cost resourcetype="Power">900</Cost>
+		<Birth anim="Train" trainerAnim="Train" spawnPoint="bone_spawnpoint01">Trained</Birth>
+		<HPBar offset="0, 12, 0">UNSC_Health</HPBar>
+		<Units>
+			<Unit count="1" role="normal">cpgn_veh_scn06Rhino_01</Unit>
+		</Units>
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="dp_fld_inf_infectionForm_2" formationType="Gaggle" dbid="2583">
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<DisplayNameID>22686</DisplayNameID>
+		<RolloverTextID>22687</RolloverTextID>
+		<Units>
+			<Unit count="2" role="normal">fld_inf_infectionForm_01</Unit>
+		</Units>
+		<TurnRadius min="0.5" max="2" />
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="dp_fld_inf_infectionForm_4" formationType="Gaggle" dbid="2584">
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<DisplayNameID>22686</DisplayNameID>
+		<RolloverTextID>22687</RolloverTextID>
+		<Units>
+			<Unit count="4" role="normal">fld_inf_infectionForm_01</Unit>
+		</Units>
+		<TurnRadius min="1" max="4" />
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="dp_fld_inf_infectionForm_8" formationType="Gaggle" dbid="2585">
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<DisplayNameID>22686</DisplayNameID>
+		<RolloverTextID>22687</RolloverTextID>
+		<Units>
+			<Unit count="8" role="normal">fld_inf_infectionForm_01</Unit>
+		</Units>
+		<TurnRadius min="2" max="6" />
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="dp_fld_inf_infectionForm_16" formationType="Gaggle" dbid="2586">
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<DisplayNameID>22686</DisplayNameID>
+		<RolloverTextID>22687</RolloverTextID>
+		<Units>
+			<Unit count="16" role="normal">fld_inf_infectionForm_01</Unit>
+		</Units>
+		<TurnRadius min="2" max="6" />
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="dp_fld_inf_infectionForm_24" formationType="Gaggle" dbid="2587">
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<DisplayNameID>22686</DisplayNameID>
+		<RolloverTextID>22687</RolloverTextID>
+		<Units>
+			<Unit count="24" role="normal">fld_inf_infectionForm_01</Unit>
+		</Units>
+		<TurnRadius min="4" max="8" />
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+	<Squad name="dp_fld_inf_infectionForm_48" formationType="Gaggle" dbid="2588">
+		<MinimapIcon size="8">Circle</MinimapIcon>
+		<DisplayNameID>22686</DisplayNameID>
+		<RolloverTextID>22687</RolloverTextID>
+		<Units>
+			<Unit count="48" role="normal">fld_inf_infectionForm_01</Unit>
+		</Units>
+		<TurnRadius min="4" max="8" />
+		<Selection>
+			<ConformToTerrain>true</ConformToTerrain>
+		</Selection>
+	</Squad>
+</Squads>

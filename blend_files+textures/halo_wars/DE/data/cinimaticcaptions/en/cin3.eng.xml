@@ -1,0 +1,32 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<cinimaticCaption>
+	<caption startFrame="380" endFrame="460" color="4294967295">FORGE: Let's just take one last look-see...</caption>
+	<caption startFrame="690" endFrame="770" color="4294967295">ARBITER: The Hierarchs grow impatient! We can delay no longer!</caption>
+	<caption startFrame="780" endFrame="835" color="4294967295">ELITE: What if the infection defiles the relic?</caption>
+	<caption startFrame="840" endFrame="945" color="4294967295">ARBITER: I care not for your little life - open the relic.</caption>
+	<caption startFrame="1245" endFrame="1310" color="4294967295">FORGE: Well, well -</caption>
+	<caption startFrame="1320" endFrame="1380" color="4294967295">open sesame...</caption>
+	<caption startFrame="2030" endFrame="2100" color="4294967295" SubtitleForVisualElement="true">SPIRIT OF FIRE
+OBSERVATION DECK</caption>
+	<caption startFrame="2105" endFrame="2210" color="4294967295">CUTTER: What made you choose my observation deck as your lab, Professor?</caption>
+	<caption startFrame="2245" endFrame="2360" color="4294967295">ANDERS: I like the view. It adds...perspective to my work.</caption>
+	<caption startFrame="2405" endFrame="2490" color="4294967295">CUTTER: Forge doesn't think it's safe for you to go down there yet.</caption>
+	<caption startFrame="2500" endFrame="2550" color="4294967295">He's quite insistent.</caption>
+	<caption startFrame="2565" endFrame="2730" color="4294967295">ANDERS: I can be quite insistent too, Captain. I can take care of myself.</caption>
+	<caption startFrame="2740" endFrame="2800" color="4294967295">CUTTER: Any idea what it is we've got down there?</caption>
+	<caption startFrame="2815" endFrame="2860" color="4294967295">ANDERS: It's all theories right now,</caption>
+	<caption startFrame="2865" endFrame="2950" color="4294967295">and I'll know a lot more once I get down there.</caption>
+	<caption startFrame="2970" endFrame="3045" color="4294967295">CUTTER: I'm approving the mission, but the slightest sign of danger</caption>
+	<caption startFrame="3050" endFrame="3135" color="4294967295">and I'm pulling you out. Is that understood?</caption>
+	<caption startFrame="3140" endFrame="3200" color="4294967295">ANDERS: Understood, Captain.</caption>
+	<caption startFrame="3310" endFrame="3400" color="4294967295">ARBITER: Hierarch. The humans are closing and will soon be upon us!</caption>
+	<caption startFrame="3410" endFrame="3430" color="4294967295">REGRET: No matter.</caption>
+	<caption startFrame="3440" endFrame="3530" color="4294967295">The information you have gathered here is most appetizing.</caption>
+	<caption startFrame="3540" endFrame="3640" color="4294967295">However, we must protect what we have learned here.</caption>
+	<caption startFrame="3650" endFrame="3720" color="4294967295">Set the charges and destroy this place.</caption>
+	<caption startFrame="3730" endFrame="3790" color="4294967295">ARBITER: Destroy this holy relic? Surely you jest!</caption>
+	<caption startFrame="3800" endFrame="3860" color="4294967295">REGRET: The Journey requires sacrifice!</caption>
+	<caption startFrame="3870" endFrame="3960" color="4294967295">Set the charges. Return to us!</caption>
+	<caption startFrame="3970" endFrame="4070" color="4294967295">Our patience is not infinite!</caption>
+	<caption startFrame="4080" endFrame="4180" color="4294967295">ARBITER: It will be done.</caption>
+</cinimaticCaption>

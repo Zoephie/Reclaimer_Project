@@ -1,0 +1,25 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<cinimaticCaption>
+	<caption startFrame="400" endFrame="430" color="4294967295">PESAR: ¿Es ella?</caption>
+	<caption startFrame="440" endFrame="530" color="4294967295">INQUISIDOR: Sí, Jerarca, es la humana que observé.</caption>
+	<caption startFrame="540" endFrame="605" color="4294967295">PESAR: Qué cosas más frágiles.</caption>
+	<caption startFrame="610" endFrame="660" color="4294967295">Nadie diría que son una amenaza.</caption>
+	<caption startFrame="670" endFrame="740" color="4294967295">ANDERS: ¡Exijo saber por qué estoy prisionera!</caption>
+	<caption startFrame="750" endFrame="800" color="4294967295">INQUISIDOR: ¿Exige?</caption>
+	<caption startFrame="810" endFrame="855" color="4294967295">ÉLITE: Inquisidor, ha llegado una nave humana</caption>
+	<caption startFrame="860" endFrame="940" color="4294967295">y se está acercando al portal de entrada.</caption>
+	<caption startFrame="950" endFrame="995" color="4294967295">INQUISIDOR: ¡Lleven al Jerarca a la High Charity!</caption>
+	<caption startFrame="1000" endFrame="1100" color="4294967295">¡Intercepten esa nave humana y destrúyanla de inmediato!</caption>
+	<caption startFrame="1390" endFrame="1420" color="4294967295">FORGE: Nada más que océano.</caption>
+	<caption startFrame="1440" endFrame="1500" color="4294967295">CUTTER: ¿Está segura de que es aquí, Serina?</caption>
+	<caption startFrame="1510" endFrame="1610" color="4294967295">SERINA: Muy segura. Iniciando escáner en profundidad.</caption>
+	<caption startFrame="1650" endFrame="1765" color="4294967295">¿Acoplándose? ¿Despejando? Hay algo que no anda bien...</caption>
+	<caption startFrame="1770" endFrame="1820" color="4294967295">¡Capitán, esto no le va a gustar!</caption>
+	<caption startFrame="2060" endFrame="2075" color="4294967295">CUTTER: Serina...</caption>
+	<caption startFrame="2080" endFrame="2150" color="4294967295">FORGE: ¡Capitán! ¡Tenemos compañía!</caption>
+	<caption startFrame="2550" endFrame="2645" color="4294967295">CUTTER: ¡Todo el mundo! ¡A trabajar! Serina, aún hay tropas ahí afuera.</caption>
+	<caption startFrame="2650" endFrame="2690" color="4294967295">¡Súbalas AHORA MISMO!</caption>
+	<caption startFrame="2700" endFrame="2790" color="4294967295">SERINA: Capitán, solo podré mantener esta posición unos minutos más.</caption>
+	<caption startFrame="2800" endFrame="2830" color="4294967295">CUTTER: ¡Ahora, Serina!</caption>
+	<caption startFrame="2840" endFrame="3000" color="4294967295">SERINA: Llamando a los escuadrones de superficie para morir juntos, sí, señor.</caption>
+</cinimaticCaption>

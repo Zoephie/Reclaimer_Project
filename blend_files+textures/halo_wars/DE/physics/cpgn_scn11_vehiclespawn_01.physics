@@ -1,0 +1,6 @@
+<physics>
+   <blueprint>cpgn_scn11_vehiclespawn_01</blueprint>
+   <ThrownByBallistics>false</ThrownByBallistics>
+   <DestroyedByBallistics>true</DestroyedByBallistics>
+   <MotionType>fixed</MotionType>
+</physics>

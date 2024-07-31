@@ -1,0 +1,615 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<Timeline>
+   <LockedImage>img://art\ui\flash\shared\textures\timeline\timeline_locked.ddx</LockedImage>
+
+   <Event>
+      <Name>TheDocks01</Name>
+      <Status>Locked</Status>
+      <Position>1.0</Position>
+      <Title>2498년 1월 16일</Title>
+      <Date>2498년 1월 16일</Date>
+      <DetailText>
+         아카디아 이주지가 블랙홀과 같은 초중력 현상과 탐사선이 미치지 못하는 지역을 연구하기 위해 심우주 연구소(DSRA)를 건설한다. DSRA는 2531년 코버넌트의 아카디아 침공에 의해 결국 파괴된다.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event001</Name>
+      <Status>Unlocked</Status>
+      <Position>5.0</Position>
+      <Title>2506년</Title>
+      <Date>2506년</Date>
+      <DetailText>
+         오리온 프로젝트는 스파르탄 프로젝트의 시초로서, 이주군정이 외곽 이주지에서 비밀 군사작전을 수행할 슈퍼 솔저 팀을 창설하려 했던 프로젝트다. 이 프로젝트는 어느 정도 성과를 거두었으나 애초의 기대에는 미치지 못했고, 개발과 실전 투입에 드는 비용이 너무 막대하여 결국 이 프로젝트는 취소되었다. 훈련 중이던 병사들은 각자 다른 특수부대로 뿔뿔이 흩어진다.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event002</Name>
+      <Status>Unlocked</Status>
+      <Position>14.0</Position>
+      <Title>2517년 8월 17일</Title>
+      <Date>2517년 8월 17일</Date>
+      <DetailText>
+         캐서린 핼시 박사와 그녀의 부관, 제이콥 키예스 중위가 비밀리에 스파르탄-II 프로젝트의 첫 번째 실험 대상들을 검열한다. 후보들 중에 6살 '존'이 가장 이상적이라는 결론이 내려지고, 핼시 박사는 존을 비밀리에 징집하기로 결정한다.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event003</Name>
+      <Status>Unlocked</Status>
+      <Position>15.0</Position>
+      <Title>2517년 9월 23일</Title>
+      <Date>2517년 9월 23일</Date>
+      <DetailText>
+         핼시 박사의 스파르탄-II 프로젝트가 엡실론 에리다니 행성계에 있는 리치 행성에서 시작된다.  75명의 남녀 아이들이 가혹한 육체적, 정신적 개조 훈련을 거치고, 골격 및 근육 강화 프로그램에 동원된다.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox04</Name>
+      <Status>Locked</Status>
+      <Position>18.0</Position>
+      <Title>2520년 7월 20일</Title>
+      <Date>2520년 7월 20일</Date>
+      <DetailText>
+         스피릿 오브 파이어의 마지막 민항 함장 알렉산더가 베렌트 임무를 마지막으로 현역에서 물러난다. UNSC는 스피릿 오브 파이어를 징발해 군함으로 개장하기로 결정한다.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox05</Name>
+      <Status>Locked</Status>
+      <Position>20.0</Position>
+      <Title>2520년 9월 1일</Title>
+      <Date>2520년 9월 1일</Date>
+      <DetailText>
+         스피릿 오브 파이어가 리치 행성 궤도의 조선소에서 대대적인 개장 작업을 마치고, 트레뷰셋 작전을 시작으로 지상 지원함의 임무를 수행한다.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>PirthOutskirts01</Name>
+      <Status>Locked</Status>
+      <Position>22.0</Position>
+      <Title>칙령: 속박의 사제청으로부터</Title>
+      <Date>2524년</Date>
+      <DetailText>
+         키그야르 함선 '잔인무도'가 부정한 자의 시체를 내놓았다. 듣거라. 이제 모든 키그야르 함선을 수색한다. 신실한 상헬리로 하여금 엉고이들을 이끌고 모든 키그야르 함선에서 부정한 자들의 증거를 더 찾아내도록 하라. 당장 수행하라.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox11</Name>
+      <Status>Locked</Status>
+      <Position>23.0</Position>
+      <Title>칙령: 관용의 사제청으로부터</Title>
+      <Date>2524년</Date>
+      <DetailText>
+         듣거라. 500여 팀이 부정한 자들의 언어를 연구하는 임무를 맡았다. 각 팀은 영민한 엉고이와 상헬리로 이루어졌다. 그들은 자기들끼리도 부정한 자들의 언어로만 대화를 나눌 것이다. 모든 공격 대원들이 부정한 자들의 언어를 익힌다면 적들은 혼란에 휩싸일 것이다.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Prophet02</Name>
+      <Status>Locked</Status>
+      <Position>26.0</Position>
+      <Title>응징의 업적 3편에서 발췌</Title>
+      <Date>2525년</Date>
+      <DetailText>
+         비탄의 사제는 여론 조작과 공갈 등으로 가장 젊은 나이에 대사제에 올랐다. 비탄의 사제를 비롯한 몇 명의 사제는 고대의 인공지능인 오라클을 만나 코버넌트 신앙의 근간을 뒤흔들 사실, 인간과 선조 종족은 상당한 연관이 있다는 사실을 알게 되었다. 인류를 말살해 이러한 사실을 영원히 숨기려 한 그들의 결정은 지금까지도 논란거리로 남아 있다.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+   <Event>
+      <Name>Chasms01</Name>
+      <Status>Locked</Status>
+      <Position>27.0</Position>
+      <Title>칙령: 진실의 사제청으로부터</Title>
+      <Date>2525년</Date>
+      <DetailText>
+         모든 코버넌트여, 듣고 따르라. 전 병기와 전함들은 엡실론 인디 행성계의 거주자가 있는 행성을 습격하라.  모든 화력을 집중하라. 지엄한 형벌을 내려 지성을 가진 생존자는 단 한 명도 남겨두지 말라.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event004</Name>
+      <Status>Unlocked</Status>
+      <Position>28.0</Position>
+      <Title>2525년 2월 3일</Title>
+      <Date>2525년 2월 3일</Date>
+      <DetailText>
+         농업형 이주행성 하베스트와의 통신이 두절된다. 통신을 재개하기 위한 초기의 시도가 실패로 끝나면서 최악의 상황이 우려되기 시작한다. 한편 리치 행성 궤도의 해군 정보국 시설에서는 스파르탄-II 후보자들의 강화 수술이 시작된다. 이 과정에서 수많은 후보자들이 죽거나 불구가 된다.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Arbiter01</Name>
+      <Status>Locked</Status>
+      <Position>29.0</Position>
+      <Title>응징의 업적 3편에서 발췌</Title>
+      <Date>2525년</Date>
+      <DetailText>
+         새로 임명된 아비터는 죽음을 두려워하지 않았으나, 고대 유적에 들어가는 것만은 두려워했다. 그는 유적에 들어가기 전에 엉고이 분대를 먼저 보내 안전한지 살펴보도록 했다. 만일 안전하다면 그들은 살아남겠지만, 조금이라도 위험이 감지된다면 아비터는 메탄 탱크에 부착된 플라즈마 폭탄을 폭발시킬 것이다.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event005</Name>
+      <Status>Unlocked</Status>
+      <Position>30.0</Position>
+      <Title>2525년 4월 20일</Title>
+      <Date>2525년 4월 20일</Date>
+      <DetailText>
+         하베스트 행성의 문제를 조사하고자 파견된 정찰함 아르고와의 통신이 두절된다.  이에 대한 대응책으로 대규모의 무장 함대가 집결한다.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Arbiter02</Name>
+      <Status>Locked</Status>
+      <Position>31.0</Position>
+      <Title>응징의 업적 3편에서 발췌</Title>
+      <Date>2525년</Date>
+      <DetailText>
+         새로 임명된 아비터는 즉시 시험대에 올랐다. 버려진 거대 우주 시설에 있는 고대의 유적은 고대 기술을 일깨울 수 있는 '열쇠'를 담고 있다고 여겨졌다. 유적은 새로 임명된 대사제들에게 대항하는 엘리트 파벌에 의해 엄중히 보호되고 있었다. 아비터는 며칠 간의 전투로 그들을 모조리 해치웠다. 열쇠는 끝내 발견되지 않았지만 불순한 움직임은 모두 정리되었다.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event006</Name>
+      <Status>Unlocked</Status>
+      <Position>32.0</Position>
+      <Title>2525년 10월 7일</Title>
+      <Date>2525년 10월 7일</Date>
+      <DetailText>
+         하베스트에 도착한 D 전단이 코버넌트와 교전을 벌였으나, 3척의 함선 중 2척이 단 1척의 코버넌트 함선에게 격파당하고 남은 한 척이 리치 행성으로 점프하여 퇴각한다.  이 교전에서 다음과 같은 코버넌트의 음성 메시지가 수신된다. "너희의 멸망은 신들의 의지이며... 우리는 그분들의 도구이다."  이 메시지가 영어로 전송된 것으로 미루어 코버넌트가 인류를 연구해왔다는 사실이 밝혀진다.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>FrozenValley01</Name>
+      <Status>Locked</Status>
+      <Position>33.0</Position>
+      <Title>2525년 11월 1일</Title>
+      <Date>2525년 11월 1일</Date>
+      <DetailText>
+         UNSC 군이 전체 경계 태세를 발령하면서 하베스트 탈환을 위한 공격 준비에 들어가고, 이주군정의 모든 전투 부대가 '위기 상황' 동안 해군 사령부/지상군 사령부에 배속된다. 스파르탄-II 프로젝트의 마지막 단계로, 스파르탄 전용으로 설계된 신형 강화 방어구 '묠니르'가 완성을 앞두게 된다.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Tundra01</Name>
+      <Status>Locked</Status>
+      <Position>34.0</Position>
+      <Title>2525년 11월 27일</Title>
+      <Date>2525년 11월 27일</Date>
+      <DetailText>
+         스파르탄-II 부대원 전원이 묠니르 방어구를 착용하기 위해 카이 세티-4 행성의 다마스커스 재료 시험 시설로 이송된다. 방어구를 시험하던 중 외계인 함선이 행성계에 침입하여 궤도선을 공격하고, 이 전투에서 스파르탄 3명이 적 함선에 침투해 최초로 코버넌트 병사와 교전, 적의 에너지 방어막 건틀렛을 탈취한다. 이 교전에서 스파르탄 1명이 전사한다.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Prophet01</Name>
+      <Status>Locked</Status>
+      <Position>35.0</Position>
+      <Title>칙령: 비탄의 사제청으로부터</Title>
+      <Date>2525년</Date>
+      <DetailText>
+         듣거라. 카이 세티 행성계로부터 불미스러운 소식이 들려왔다. 함선 '무자비'의 승무원 중 몇몇이 믿음이 부족한 탓에 부정한 자들이 침투하여 학살을 자행하였다.  명하노니, 과학부를 소집하여 놈들에게서 탈취한 무기와 장갑을 철저히 연구하라.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event007</Name>
+      <Status>Unlocked</Status>
+      <Position>36.0</Position>
+      <Title>2526년, 하베스트 전투</Title>
+      <Date>2526년</Date>
+      <DetailText>
+         하베스트 전투에서 프레스톤 콜 중장이 이끄는 사상 최대 규모의 함대가 이주행성을 초토화시켰던 외계인 전함을 상대로 승리한다. 최후의 순간에 빛을 발한 콜 중장의 감각적인 전술이 전쟁의 승패를 갈랐으며, 지구로 귀환한 콜 중장은 해군 대장으로 진급한다.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>TerminalMoraine01</Name>
+      <Status>Locked</Status>
+      <Position>37.0</Position>
+      <Title>칙령: 비탄의 사제청으로부터</Title>
+      <Date>2526년</Date>
+      <DetailText>
+         단식과 기도로 엡실론 인디 행성계의 승전을 기념하라. 엉고이와 키그야르에게는 앞으로 세 번의 근무 시간 동안 식량 배급이 없다. 상헬리와 저힐라네는 앞으로 두 번의 휴식 시간 동안 공개 기도식을 치르라. 다섯 번의 종이 울리면 모두 모여 승전에서 임무를 다하지 못한 자들의 처형을 지켜보도록 하라.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Cutter01</Name>
+      <Status>Locked</Status>
+      <Position>39.0</Position>
+      <Title>2528년 1월 30일</Title>
+      <Date>2528년 1월 30일</Date>
+      <DetailText>
+         커터 함장이 구축함 프로퍼시의 함장직을 거절한다. 가족 가까이에 머물기로 한 이 결정으로 인해 해군 정보국의 심리 검사를 받게 되고, '함장직 수행에는 문제가 없으나 어떤 좋은 직책을 주어도 가족에 대한 애착을 버리지 않을 것'이라는 진단을 받는다.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Brute01</Name>
+      <Status>Locked</Status>
+      <Position>40.0</Position>
+      <Title>사건 보고서 16-196901</Title>
+      <Date>2528년</Date>
+      <DetailText>
+         세 번째 종이 울리고 2차 교대 시간에 저힐라네 사령관의 선실로 보안대가 호출되었다. 보안대는 현장에 도착해 뜯겨나간 선실 문과 복도에 떨어진 미확인 생체 물질 다섯 덩어리를 발견했다(도해 첨부). 조사 결과 생체 물질은 제4갑판의 조리실에서 근무하던 엉고이 2명의 조각난 시체로 밝혀졌다. 사령관은 차분하게 답했다. '내 점심밥이 주문한 대로 오지 않았다.' (쏜 비스트 고기는 너무 익었으며, 찍어먹는 소스는 부족했다.) 관리부는 제4갑판 조리장의 공식 징계를 신청했다.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Forge01</Name>
+      <Status>Locked</Status>
+      <Position>42.0</Position>
+      <Title>2530년 8월 17일</Title>
+      <Date>2530년 8월 17일</Date>
+      <DetailText>
+         포지 상사가 상관폭행죄로 구속된다. 콜 대장이 개입하여 사건 조사가 공정히 이루어지게 하지 않았다면 포지 상사는 군복을 벗게 되었을 것이다. 결국 그 상관은 군사재판에 넘겨지고, 포지 상사는 사건의 무마를 위해 스피릿 오브 파이어로 자리를 옮겨 복무하게 된다.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Anders01</Name>
+      <Status>Locked</Status>
+      <Position>43.0</Position>
+      <Title>2531년 1월 30일, 앤더스 교수의 기록</Title>
+      <Date>2531년 1월 30일</Date>
+      <DetailText>
+         라스트 글리밍에 승선한 뒤 내 선실을 배정 받았다. 문에는 어머니가 내가 경력을 쌓으며 사용하기를 원하는 '앤더스 박사'라는 이름이 새겨져 있다. 매번 이렇게 어머니의 기대를 느끼는 건 정말 견디기 힘들다. 이 모든 뒷공작에도 어머니의 손길이 닿아 있겠지.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox03</Name>
+      <Status>Locked</Status>
+      <Position>44.0</Position>
+      <Title>교서: 비탄의 사제청으로부터</Title>
+      <Date>2531년</Date>
+      <DetailText>
+         그들이 하베스트라 부르는 행성으로 최대한 빨리 돌아가라. 위대한 고행을 계속하려면 성스러운 유적의 비밀을 밝혀내야 한다. 인간들이 유물에 손도 대지 못하도록 해야 한다. 무슨 일이 있더라도 놈들을 막으라. 이 일을 확실하게 처리하라. 안 그러면 징벌을 피할 수 없으리라.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox01</Name>
+      <Status>Locked</Status>
+      <Position>45.0</Position>
+      <Title>2531년 2월 4일</Title>
+      <Date>2531년 2월 4일</Date>
+      <DetailText>
+         UNSC의 지원함인 스피릿 오브 파이어가 하베스트 행성 궤도에 진입한다. 콜 대장의 함대가 다른 곳에서 교전하는 동안 스피릿 오브 파이어는 행성계에서 진행 중인 코버넌트의 활동을 조사하고, 실종된 UNSC 소속 구축함 프로퍼시(스피릿 오브 파이어 이전에 같은 활동의 조사를 목적으로 파견된 함선)의 생존자를 수색하는 임무를 부여받아 하베스트로 파견된다. 커터 함장이 지휘하는 스피릿 오브 파이어는 함대 사령부로 재배치되었다. 해군 정보국은 앤더스 교수를 조사 책임자로서 승선시킨다.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox09</Name>
+      <Status>Locked</Status>
+      <Position>46.0</Position>
+      <Title>2531년 2월 6일</Title>
+      <Date>2531년 2월 6일</Date>
+      <DetailText>
+         앤더스 교수가 호메로스의 오디세이 분석 자료로 보이는 메시지를 그녀의 아버지에게 보낸다. 이 자료는 앤더스 교수가 하베스트에서 임무를 수행하면서 발견한 내용을 자세히 기록해 암호화한 메시지로, 해군 정보국 검열 부서에서 이 암호를 전혀 알아차리지 못해 메시지가 그녀의 아버지에게 고스란히 전달된다.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox02</Name>
+      <Status>Locked</Status>
+      <Position>48.0</Position>
+      <Title>2531년 2월 7일</Title>
+      <Date>2531년 2월 7일</Date>
+      <DetailText>
+         스피릿 오브 파이어는 프로퍼시의 승무원들을 위한 추도식을 연다. 해군 정보국 인사과의 반대에도 불구하고 승무원 명부가 낭독되었다. 프로퍼시는 극지에서 발견된 유물을 둘러싼 코버넌트의 수상한 움직임을 조사하기 위해 하베스트로 첫 번째 탐사를 떠난 뒤 모든 승무원과 함께 침몰했다.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+   
+   <Event>
+      <Name>BlackBox07</Name>
+      <Status>Locked</Status>
+      <Position>49.0</Position>
+      <Title>2531년 2월 9일</Title>
+      <Date>2531년 2월 9일</Date>
+      <DetailText>
+         하베스트 지표에서 벌어진 코버넌트와의 교전 후, UNSC 소속 함선 스피릿 오브 파이어는 아카디아에 도착한다. 아카디아 행성은 이미 코버넌트에게 공격받고 있었다. 스피릿의 지상부대는 아카디아 주민의 피난을 도우며, 행성 지표에서 주둔군과 함께 코버넌트와 싸운다.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox06</Name>
+      <Status>Locked</Status>
+      <Position>50.0</Position>
+      <Title>교서: 비탄의 사제청으로부터</Title>
+      <Date>2531년</Date>
+      <DetailText>
+         아비터여, 그대는 코버넌트의 손이자 내 충실한 부하도다. 그대의 임무는 알고 있을 것이다. 지표로 돌아가 하베스트에서 우리를 욕보인 인간 여자를 납치하라. 그녀가 바로 선조의 비밀을 풀 열쇠이니라.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox08</Name>
+      <Status>Locked</Status>
+      <Position>51.0</Position>
+      <Title>2531년 2월 10일</Title>
+      <Date>2531년 2월 10일</Date>
+      <DetailText>
+         앤더스 교수의 납치에 커터 함장이 결단을 내린다. 스피릿 오브 파이어는 적을 추적해 코버넌트의 영역으로 향한다. 도착까지 312시간이 걸린다는 함선 인공 지능의 계산에 따라, 경보 발령을 유지한 채 승무원들은 필요한 인원을 남겨놓고 냉동 수면에 들어간다.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Forge02</Name>
+      <Status>Locked</Status>
+      <Position>52.0</Position>
+      <Title>2531년 2월 11일</Title>
+      <Date>2531년 2월 11일</Date>
+      <DetailText>
+         포지 상사는 앤더스 교수를 납치한 코버넌트 함선을 파괴하자고 제안했던 스파르탄 042 더글라스와 대립한다. 언쟁을 벌이다가 기물을 파손하는 폭력 사태에 이르자 결국 함선의 인공지능 세리나가 중재에 나선다. 그 후 042 더글라스와 포지는 식당에서 항상 함께 식사하는 둘도 없는 사이가 된다.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox10</Name>
+      <Status>Locked</Status>
+      <Position>54.0</Position>
+      <Title>2531년 2월 14일</Title>
+      <Date>2531년 2월 14일</Date>
+      <DetailText>
+         다시 돌아올 수 없을 지도 모르는 여행임을 알고 있는 세리나가 승무원들의 가족 이름으로 가짜 밸런타인데이 축하 메일을 승무원들에게 발송한다. 승무원들이 가족과 주고받은 메일을 해킹해 교묘하게 조작한 메일을 받은 승무원들은 아무도 그녀의 귀여운 장난을 눈치 채지 못한다.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox12</Name>
+      <Status>Locked</Status>
+      <Position>56.0</Position>
+      <Title>응징의 업적 3편에서 발췌</Title>
+      <Date>2531년</Date>
+      <DetailText>
+         비탄의 사제가 작동시키려 했던 실드 월드는 코버넌트가 헤일로 탐사에서 발견한 몇 안되는 것들 중 하나였다. 코버넌트는 이러한 기술의 보물 상자들을 이용하여 진보된 무기와 우주 추진 시스템을 개발할 수 있었고 그들의 은하계를 정복할 수 있었던 것이다.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox13</Name>
+      <Status>Locked</Status>
+      <Position>57.0</Position>
+      <Title>2531년 2월 23일</Title>
+      <Date>2531년 2월 23일</Date>
+      <DetailText>
+         스피릿 오브 파이어가 낯선 외계 생명체로 가득한 미지의 행성에 도착한다. 하루가 채 지나지도 않아 함선은 행성 내부로 끌려 들어가지만 코버넌트와 교전을 펼친 끝에 마침내 앤더스 교수를 구해낸다.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Exile01</Name>
+      <Status>Locked</Status>
+      <Position>58.0</Position>
+      <Title>2531년 2월 25일, 커터의 항해 일지</Title>
+      <Date>2531년 2월 25일</Date>
+      <DetailText>
+         이 껍데기 같은 행성의 외부 지표로 작전을 수행하러 간 펠리칸들이 네다섯 번의 시도 끝에 임무에 실패하고 말았다.  행성 대기권으로 진입하려 하자, 무수한 이물질들이 펠리칸을 저지라도 하듯 모든 흡기구에 들러붙었다. 마치 이 행성이 무엇이든 자신의 내부에서 빠져나가지 못하게 하려 하는 듯했다.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox15</Name>
+      <Status>Locked</Status>
+      <Position>59.0</Position>
+      <Title>2531년 2월 25일</Title>
+      <Date>2531년 2월 25일</Date>
+      <DetailText>
+         포지 상사의 희생 덕에 스피릿 오브 파이어가 선조의 실드 월드를 탈출한다. 스피릿 오브 파이어는 귀환 항로를 설정하고, 대부분의 승무원들은 몇 년 혹은 몇십 년이 걸릴지 모르는 항해를 위해 냉동 수면에 들어갈 준비를 한다.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Release01</Name>
+      <Status>Locked</Status>
+      <Position>60.0</Position>
+      <Title>2531년 2월 26일, 오닐 의무과장의 기록</Title>
+      <Date>2531년 2월 26일</Date>
+      <DetailText>
+         바이러스에 감염된 시신들을 소각하는 건 쉽지 않은 결정이었다. 하지만 탐욕스러운 바이러스가 스피릿 오브 파이어 전체를 집어 삼키게 놔둘 수는 없었다. 마땅한 격리 연구실이나 바이러스의 전파 경로에 대한 한 가닥 실마리조차 없는 상황에서는 바이러스에 대한 연구를 진행하는 것도 현명하지 못한 일로 보인다.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BlackBox14</Name>
+      <Status>Locked</Status>
+      <Position>62.0</Position>
+      <Title>2531년 3월 1일</Title>
+      <Date>2531년 3월 1일</Date>
+      <DetailText>
+         프레스콧 기술과장이 스피릿 오브 파이어의 피해 조사를 마치고 선체 수리가 계속된다.  초광속 원자로의 교체는 불가능하며, 이미 있는 원자로를 활용해 제작하는 것도 불가능하므로, 결국 항해에 필요한 최소한의 인원만 남긴 채 나머지 승무원은 모두 가사 상태로 만든다는 결정이 내려진다.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_blackbox.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Anders02</Name>
+      <Status>Locked</Status>
+      <Position>63.0</Position>
+      <Title>2531년 3월 3일, 커터의 항해 일지</Title>
+      <Date>2531년 3월 3일</Date>
+      <DetailText>
+         코버넌트에게 납치되었던 앤더스 교수는 이 전쟁에서 지금까지 가장 오래 구금되었던 전쟁 포로이다.  그녀는 정신 상담을 받으려 하거나 포로 생활에 대해 얘기하지는 않지만, 악몽 속에서 끔찍했던 시간을 다시금 떠올리곤 하는 것 같다.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Labyrinth01</Name>
+      <Status>Locked</Status>
+      <Position>64.0</Position>
+      <Title>2531년 3월 4일, 앤더스의 연구 일지</Title>
+      <Date>2531년 3월 4일</Date>
+      <DetailText>
+         이 인공 '행성'을 축조하는 것은 코버넌트의 기술을 훨씬 넘어서는 일이다. 실제로 그들은 이 기술을 사용하기 위해 찾아 헤맸을 뿐 장치를 작동시킬 수 없었다. 의도적으로 그렇게 설계되었거나 발전된 것으로 보인다. 내 손이 장치를 작동시키는 데 필요했던 것으로 볼 때, 이 행성을 축조한 자들은 인간에 대한 지식을 보유했을 가능성이 있다.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Cutter02</Name>
+      <Status>Locked</Status>
+      <Position>68.0</Position>
+      <Title>2531년 3월 12일</Title>
+      <Date>2531년 3월 12일</Date>
+      <DetailText>
+         커터 함장이 함내를 둘러보다가 의무실에 들러 전투로 입은 부상에서 회복중인 승무원들을 살펴본다. 허시 간호사에게는 반드시 집으로 돌아가 약혼자를 다시 만날 수 있을 거라고 안심시킨다. 그리고 방으로 돌아와 훈장 수여 추천서 5장과 전사자 가족에게 보내는 애도의 편지 14장, 아내에게 보내는 편지를 쓰고 2주 만에 처음으로 잠에 빠져든다.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Repository01</Name>
+      <Status>Locked</Status>
+      <Position>70.0</Position>
+      <Title>2534년 2월 10일</Title>
+      <Date>2534년 2월 10일</Date>
+      <DetailText>
+         UNSC가 스피릿 오브 파이어의 상태를 '실종'에서 '전 승무원과 함께 침몰'로 변경한다. 가족들의 실낱 같은 희망도 점점 작아져 간다. 변경 사유는 극비에 부쳐졌다. 승무원들을 위한 추도식이 거행되지만, 사랑하는 이들이 아직 살아있다는 희망을 버리지 않은 다수의 가족들은 참석하지 않는다.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event008</Name>
+      <Status>Unlocked</Status>
+      <Position>73.0</Position>
+      <Title>2536년 6월 1일</Title>
+      <Date>2536년 6월 1일</Date>
+      <DetailText>
+         내곽 이주지의 인간 거주 구역에 코버넌트가 침공함으로써 본격적인 전쟁이 시작된다. 인간은 주로 지상 작전을 펼치면서 소규모 국지전에서 승리하지만 그 대가는 참혹할 뿐이다. 수년 간 같은 양상이 반복되고, 이주행성들은 차례로 함락되어 간다.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BeasleysPlateau01</Name>
+      <Status>Locked</Status>
+      <Position>84.0</Position>
+      <Title>2549년 9월 9일</Title>
+      <Date>2549년 9월 9일</Date>
+      <DetailText>
+         아카디아가 두 번째로 함락된다. 2531년 첫 번째 침공 이후 코버넌트는 아카디아를 떠났지만 대다수의 인간들 역시 수도 퍼스를 떠나버렸다. 시간이 지나고 무 대륙의 비옥한 농지인 아베스쿤에서 소규모 농촌 사회가 생겨났다. 법제가 거의 마련되지 않은 상태에서도 2549년 가을 코버넌트의 재침공이 있기 전까지 아베스쿤은 많은 식량을 UNSC에 조달해왔다.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>FortDeen01</Name>
+      <Status>Locked</Status>
+      <Position>86.0</Position>
+      <Title>칙령: 진실의 사제청으로부터</Title>
+      <Date>2550년</Date>
+      <DetailText>
+         전함 건조 중에 '선조의 등불' 설치 과정이 늦어지고 있다. 등불이 설치되지 않은 각 함선에서 64명의 엉고이 노동자마다 1명을 처형한다. 상헬리 감독관과 엉고이 간의 규율을 지켜야 하니 희생자 선별과 집행은 키그야르 암살대가 수행토록 한다.  등불 설치가 완료될 때까지 매일 집행하라.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>BloodGulch01</Name>
+      <Status>Locked</Status>
+      <Position>90.0</Position>
+      <Title>2552년 8월 27일</Title>
+      <Date>2552년 8월 27일</Date>
+      <DetailText>
+         생존한 28명의 스파르탄-II 중 스파르탄-117을 포함한 25명이 코버넌트의 계획을 막는 새로운 임무를 수행하고자 리치 행성으로 재소집된다. 그 임무는 파손된 코버넌트 함선에 침입해, '임무 수행 전문가'를 이용해서 코버넌트 컴퓨터 시스템을 해킹해 코버넌트의 근거지를 알아내는 것이다.  그러면 비밀 작전팀이 코버넌트 지도세력을 납치해 강제로 휴전 협정을 맺는다는 계획이다.  최근의 분전에도 인간 군대가 조직적으로 학살당하는 상황에서, 이 작전만이 생존을 위한 유일한 기회일 것이다.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event009</Name>
+      <Status>Unlocked</Status>
+      <Position>92.0</Position>
+      <Title>2552년 8월 30일 - 0400시</Title>
+      <Date>2552년 8월 30일</Date>
+      <DetailText>
+         해군 정보국 본부 시설이 위치한, 그리고 스파르탄-II 프로젝트의 고향이기도 한 리치 행성에 압도적인 위력의 코버넌트 군대가 침공한다. 키예스 함장의 지휘에 따라 필라 오브 오텀은 스파르탄들이 코버넌트 함선을 장악하기를 바라며 전장에 투입한다.  코버넌트는 지구의 위치를 알아내는 것을 막아냈으나, 스파르탄 대부분이 전사하고 리치 행성이 함락된다.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Event010</Name>
+      <Status>Unlocked</Status>
+      <Position>93.0</Position>
+      <Title>2552년 8월 30일 - 0500시</Title>
+      <Date>2552년 8월 30일</Date>
+      <DetailText>
+         키예스 함장의 지휘 아래 필라 오브 오텀이 코버넌트 함선들의 추격을 받으며 리치 행성을 벗어난다. 함선은 큰 손상을 입지만, 겨우 슬립스페이스에 돌입하여 탈출에 성공한다. 필라 오브 오텀에는 리치 교전에서 유일하게 살아남은 것으로 알려진 스파르탄이 타고 있다.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_unsc.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Crevice01</Name>
+      <Status>Locked</Status>
+      <Position>98.0</Position>
+      <Title>칙령: 진실의 사제청으로부터</Title>
+      <Date>2552년</Date>
+      <DetailText>
+         듣거라. 모든 인원은 오늘의 두 번째 휴식 시간에 모니터 화면을 주의 깊게 지켜보라. 패배자에 겁쟁이이며 믿음마저 저버린 자, 특별한 정의 함대 상헬리 최고 사령관의 비천한 종말이 모든 모니터에 비치리라.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+
+   <Event>
+      <Name>Brute02</Name>
+      <Status>Locked</Status>
+      <Position>99.0</Position>
+      <Title>칙령: 진실의 사제청으로부터</Title>
+      <Date>2552년</Date>
+      <DetailText>
+         저힐라네의 공적을 인정하여, 프로파운드 솔리튜드, 트랜퀼 컴포저, 이너 놀리지 함대의 상헬리를 모두 저힐라네로 교체할 것을 명한다. 직위 해제된 상헬리는 다른 부서로 배속하라. 축복 속에서 기존 저힐라네 범법자들의 죄를 모두 사하고 원대 복귀토록 한다.
+      </DetailText>
+      <UnlockedImage>img://art\ui\flash\shared\textures\timeline\timeline_covenant.ddx</UnlockedImage>
+   </Event>
+</Timeline>

@@ -1,0 +1,31 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<cinimaticCaption>
+	<caption startFrame="380" endFrame="460" color="4294967295">FORGE: Echemos un último vistazo...</caption>
+	<caption startFrame="690" endFrame="770" color="4294967295">INQUISIDOR: ¡Los Jerarcas se impacientan! ¡No podemos retrasarnos más!</caption>
+	<caption startFrame="780" endFrame="835" color="4294967295">ÉLITE: ¿Qué pasa si la infección daña la reliquia?</caption>
+	<caption startFrame="840" endFrame="945" color="4294967295">INQUISIDOR: Me importa poco tu insignificante vida... Abre la reliquia.</caption>
+	<caption startFrame="1245" endFrame="1310" color="4294967295">FORGE: Vaya, vaya...</caption>
+	<caption startFrame="1320" endFrame="1380" color="4294967295">ábrete Sésamo...</caption>
+	<caption startFrame="2030" endFrame="2100" color="4294967295" SubtitleForVisualElement="true">SPIRIT OF FIRE CUBIERTA DE OBS.</caption>
+	<caption startFrame="2105" endFrame="2210" color="4294967295">CUTTER: ¿Qué le hizo escoger mi cubierta de observación?</caption>
+	<caption startFrame="2245" endFrame="2360" color="4294967295">ANDERS: Me gustan las vistas. Le dan... perspectiva a mi trabajo.</caption>
+	<caption startFrame="2405" endFrame="2490" color="4294967295">CUTTER: Forge cree que aún no es seguro que baje.</caption>
+	<caption startFrame="2500" endFrame="2550" color="4294967295">Es muy insistente.</caption>
+	<caption startFrame="2565" endFrame="2730" color="4294967295">ANDERS: Yo también puedo ser insistente, capitán. Sé cuidar de mí misma.</caption>
+	<caption startFrame="2740" endFrame="2800" color="4294967295">CUTTER: ¿Alguna idea de lo que hay ahí abajo?</caption>
+	<caption startFrame="2815" endFrame="2860" color="4294967295">ANDERS: Por el momento solo son teorías,</caption>
+	<caption startFrame="2865" endFrame="2950" color="4294967295">sabré mucho más cuando baje.</caption>
+	<caption startFrame="2970" endFrame="3045" color="4294967295">CUTTER: Voy a aprobar la misión, pero a la mínima señal de peligro</caption>
+	<caption startFrame="3050" endFrame="3135" color="4294967295">la saco de ahí. ¿Entendido?</caption>
+	<caption startFrame="3140" endFrame="3200" color="4294967295">ANDERS: Entendido, capitán.</caption>
+	<caption startFrame="3310" endFrame="3400" color="4294967295">INQUISIDOR: ¡Jerarca, los humanos se acercan y pronto los tendremos encima!</caption>
+	<caption startFrame="3410" endFrame="3430" color="4294967295">PESAR: No importa.</caption>
+	<caption startFrame="3440" endFrame="3530" color="4294967295">La información que reuniste aquí es muy jugosa.</caption>
+	<caption startFrame="3540" endFrame="3640" color="4294967295">Sin embargo, debemos proteger lo que aprendimos aquí.</caption>
+	<caption startFrame="3650" endFrame="3720" color="4294967295">Coloca las bombas y destruye este lugar.</caption>
+	<caption startFrame="3730" endFrame="3790" color="4294967295">INQUISIDOR: ¿Destruir una santa reliquia? Sin duda es una broma.</caption>
+	<caption startFrame="3800" endFrame="3860" color="4294967295">PESAR: ¡El Viaje requiere sacrificio!</caption>
+	<caption startFrame="3870" endFrame="3960" color="4294967295">Coloca las cargas. ¡Vuelve aquí!</caption>
+	<caption startFrame="3970" endFrame="4070" color="4294967295">¡Nuestra paciencia no es infinita!</caption>
+	<caption startFrame="4080" endFrame="4180" color="4294967295">INQUISIDOR: Como desee.</caption>
+</cinimaticCaption>

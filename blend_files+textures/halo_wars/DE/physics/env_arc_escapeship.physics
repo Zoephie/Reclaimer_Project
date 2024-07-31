@@ -1,0 +1,6 @@
+<physics>
+   <blueprint>env_arc_escapeShip</blueprint>
+   <ThrownByBallistics>false</ThrownByBallistics>
+   <DestroyedByBallistics>true</DestroyedByBallistics>
+   <MotionType>fixed</MotionType>
+</physics>

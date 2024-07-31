@@ -1,0 +1,73 @@
+﻿<FontManager>
+   <Language name="Default">
+      <FontFile name="art\ui\flash\fontlibrary\English\Fonts.gfx" />
+      <!-- style can be "Normal", "Bold", "Italic" or "BoldItalic" if specified -->
+      <FontMap fontTitle="$HWTitle"      fontName="ConduitMdITC TT" style="Normal"/>
+      <FontMap fontTitle="$HWNormal"     fontName="ConduitMdITC TT" style="Normal"/>
+      <FontMap fontTitle="$HWMenu"       fontName="ConduitMdITC TT" style="Normal"/>
+      <FontMap fontTitle="$HWNormalBold" fontName="ConduitMdITC TT" style="Bold"/>
+   </Language>
+   <Language name="English">
+      <FontFile name="art\ui\flash\fontlibrary\English\Fonts.gfx" />
+      <FontMap fontTitle="$HWTitle"      fontName="ConduitMdITC TT" style="Normal"/>
+      <FontMap fontTitle="$HWNormal"     fontName="ConduitMdITC TT" style="Normal"/>
+      <FontMap fontTitle="$HWMenu"       fontName="ConduitMdITC TT" style="Normal"/>
+      <FontMap fontTitle="$HWNormalBold" fontName="ConduitMdITC TT" style="Bold"/>
+   </Language>
+   <Language name="English.Test">
+      <FontFile name="art\ui\flash\fontlibrary\English.test\Fonts.gfx" />
+      <FontMap fontTitle="$HWTitle"      fontName="Calibri" style="Normal"/>
+      <FontMap fontTitle="$HWNormal"     fontName="Calibri" style="Normal"/>
+      <FontMap fontTitle="$HWMenu"       fontName="Calibri" style="Normal"/>
+      <FontMap fontTitle="$HWNormalBold" fontName="Calibri" style="Bold"/>
+   </Language>
+   <Language name="CodePage1250">
+      <FontFile name="art\ui\flash\fontlibrary\CodePage1250\Fonts.gfx" />
+      <FontMap fontTitle="$HWTitle"      fontName="Calibri" style="Normal"/>
+      <FontMap fontTitle="$HWNormal"     fontName="Calibri" style="Normal"/>
+      <FontMap fontTitle="$HWMenu"       fontName="Calibri" style="Normal"/>
+      <FontMap fontTitle="$HWNormalBold" fontName="Calibri" style="Bold"/>
+   </Language>
+   <Language name="CodePage1251">
+      <FontFile name="art\ui\flash\fontlibrary\CodePage1251\Fonts.gfx" />
+      <FontMap fontTitle="$HWTitle"      fontName="Calibri" style="Normal"/>
+      <FontMap fontTitle="$HWNormal"     fontName="Calibri" style="Normal"/>
+      <FontMap fontTitle="$HWMenu"       fontName="Calibri" style="Normal"/>
+      <FontMap fontTitle="$HWNormalBold" fontName="Calibri" style="Bold"/>
+   </Language>
+   <Language name="CodePage1252">
+      <FontFile name="art\ui\flash\fontlibrary\CodePage1252\Fonts.gfx" />
+      <FontMap fontTitle="$HWTitle"      fontName="Calibri" style="Normal"/>
+      <FontMap fontTitle="$HWNormal"     fontName="Calibri" style="Normal"/>
+      <FontMap fontTitle="$HWMenu"       fontName="Calibri" style="Normal"/>
+      <FontMap fontTitle="$HWNormalBold" fontName="Calibri" style="Bold"/>
+   </Language>
+   <Language name="Japanese">
+      <FontFile name="art\ui\flash\fontlibrary\Japanese\Fonts.gfx" />
+      <FontMap fontTitle="$HWTitle"      fontName="DFGHSMaruGothic-W4" style="Normal"/>
+      <FontMap fontTitle="$HWNormal"     fontName="DFGHSMaruGothic-W4" style="Normal"/>
+      <FontMap fontTitle="$HWMenu"       fontName="DFGHSMaruGothic-W4" style="Normal"/>
+      <FontMap fontTitle="$HWNormalBold" fontName="DFGHSMaruGothic-W4" style="Bold"/>
+   </Language>
+   <Language name="Korean">
+      <FontFile name="art\ui\flash\fontlibrary\Korean\Fonts.gfx" />
+      <FontMap fontTitle="$HWTitle"      fontName="Malgun Gothic" style="Normal"/>
+      <FontMap fontTitle="$HWNormal"     fontName="Malgun Gothic" style="Normal"/>
+      <FontMap fontTitle="$HWMenu"       fontName="Malgun Gothic" style="Normal"/>
+      <FontMap fontTitle="$HWNormalBold" fontName="Malgun Gothic" style="Bold"/>
+   </Language>
+   <Language name="SChinese">
+      <FontFile name="art\ui\flash\fontlibrary\SimplifiedChinese\Fonts.gfx" />
+      <FontMap fontTitle="$HWTitle"      fontName="Microsoft YaHei" style="Normal"/>
+      <FontMap fontTitle="$HWNormal"     fontName="Microsoft YaHei" style="Normal"/>
+      <FontMap fontTitle="$HWMenu"       fontName="Microsoft YaHei" style="Normal"/>
+      <FontMap fontTitle="$HWNormalBold" fontName="Microsoft YaHei" style="Bold"/>
+   </Language>
+   <Language name="TChinese">
+      <FontFile name="art\ui\flash\fontlibrary\TraditionalChinese\Fonts.gfx" />
+      <FontMap fontTitle="$HWTitle"      fontName="DFPYuanMedium-B5" style="Normal"/>
+      <FontMap fontTitle="$HWNormal"     fontName="DFPYuanMedium-B5" style="Normal"/>
+      <FontMap fontTitle="$HWMenu"       fontName="DFPYuanMedium-B5" style="Normal"/>
+      <FontMap fontTitle="$HWNormalBold" fontName="DFPYuanMedium-B5" style="Bold"/>
+   </Language>
+</FontManager>

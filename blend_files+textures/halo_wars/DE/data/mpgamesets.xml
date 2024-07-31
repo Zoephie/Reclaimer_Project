@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<GameSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<GameSet Name="Custom Game" _locID="23465" Type="Standard" Players="6" Teams="C" Ranked="N" RestrictedNATOk="Y" GameModeIndex="7" NOLSPEnabled="Y">
+		<maplist>
+			<map Name="beta_3v3_arabia" />
+		</maplist>
+	</GameSet>
+	<GameSet Name="Ranked Standard 1v1" _locID="23460" Type="Standard" Players="2" Teams="N" Ranked="Y" RestrictedNATOk="Y" GameModeIndex="1" NOLSPEnabled="Y">
+		<maplist>
+			<map Name="beta_1v1_cross" />
+		</maplist>
+	</GameSet>
+	<GameSet Name="Ranked Standard 2v2" _locID="23461" Type="Standard" Players="4" Teams="N" Ranked="Y" RestrictedNATOk="Y" GameModeIndex="2" NOLSPEnabled="Y">
+		<maplist>
+			<map Name="beta_2v2_halo" />
+		</maplist>
+	</GameSet>
+	<GameSet Name=" Ranked Teams 2v2" _locID="23463" Type="Standard" Players="4" Teams="Y" Ranked="Y" RestrictedNATOk="Y" GameModeIndex="3" NOLSPEnabled="Y">
+		<maplist>
+			<map Name="beta_2v2_halo" />
+		</maplist>
+	</GameSet>
+	<GameSet Name="Ranked Standard 3v3" _locID="23462" Type="Standard" Players="6" Teams="N" Ranked="Y" RestrictedNATOk="Y" GameModeIndex="4" NOLSPEnabled="Y">
+		<maplist>
+			<map Name="beta_3v3_arabia" />
+		</maplist>
+	</GameSet>
+	<GameSet Name="Ranked Teams 3v3" _locID="23464" Type="Standard" Players="6" Teams="Y" Ranked="Y" RestrictedNATOk="Y" GameModeIndex="5" NOLSPEnabled="Y">
+		<maplist>
+			<map Name="beta_3v3_arabia" />
+		</maplist>
+	</GameSet>
+	<GameSet Name="Ranked Standard 1v1" _locID="23460" Type="Standard" Players="2" Teams="N" Ranked="Y" RestrictedNATOk="Y" GameModeIndex="1" NOLSPEnabled="N">
+		<maplist>
+			<map Name="beta_1v1_cross" />
+		</maplist>
+	</GameSet>
+	<GameSet Name="Ranked Standard 2v2" _locID="23461" Type="Standard" Players="4" Teams="N" Ranked="Y" RestrictedNATOk="Y" GameModeIndex="2" NOLSPEnabled="N">
+		<maplist>
+			<map Name="beta_2v2_halo" />
+		</maplist>
+	</GameSet>
+	<GameSet Name=" Ranked Teams 2v2" _locID="23463" Type="Standard" Players="4" Teams="Y" Ranked="Y" RestrictedNATOk="Y" GameModeIndex="3" NOLSPEnabled="N">
+		<maplist>
+			<map Name="beta_2v2_halo" />
+		</maplist>
+	</GameSet>
+	<GameSet Name="Ranked Standard 3v3" _locID="23462" Type="Standard" Players="6" Teams="N" Ranked="Y" RestrictedNATOk="Y" GameModeIndex="4" NOLSPEnabled="N">
+		<maplist>
+			<map Name="beta_3v3_arabia" />
+		</maplist>
+	</GameSet>
+	<GameSet Name="Ranked Teams 3v3" _locID="23464" Type="Standard" Players="6" Teams="Y" Ranked="Y" RestrictedNATOk="Y" GameModeIndex="5" NOLSPEnabled="N">
+		<maplist>
+			<map Name="beta_3v3_arabia" />
+		</maplist>
+	</GameSet>
+</GameSets>

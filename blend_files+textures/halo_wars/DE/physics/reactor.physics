@@ -1,0 +1,23 @@
+<physics>
+   <blueprint>reactor</blueprint>
+   <ThrownByProjectiles>false</ThrownByProjectiles>
+   <CenterOffset>0, 9.0, 0.0</CenterOffset>
+   <Vehicle>reactor
+      <info>
+         <chassisInertia yaw="20.0" pitch="20.0" roll="8.0"></chassisInertia>
+         <suspension springLength="5.0" wheelRadius="6.0" springStrength="10.0" dampingCompression="2.0" dampingRelaxation="1.0" normalClippingAngle="0.1"></suspension>
+         <hardpoints>
+            <hardpoint>-10.0, -0.25,  10.0</hardpoint>
+            <hardpoint> 10.0, -0.25,  10.0</hardpoint>
+            <hardpoint>-10.0, -0.25, -10.0</hardpoint>
+            <hardpoint> 10.0, -0.25, -10.0</hardpoint>
+         </hardpoints>
+         <treadpoints height="9.15" length="10.0" velocityScalar="0.005" wheelAttachments="true">
+            <treadpoint zOffset="5.7">-9.0, -0.05,  5.7</treadpoint>
+            <treadpoint zOffset="5.7"> 9.0, -0.05,  5.7</treadpoint>
+            <treadpoint zOffset="5.7">-9.0, -0.05, -6.7</treadpoint>
+            <treadpoint zOffset="5.7"> 9.0, -0.05, -6.7</treadpoint>
+         </treadpoints>
+      </info>
+   </Vehicle>
+</physics>

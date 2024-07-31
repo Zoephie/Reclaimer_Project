@@ -1,0 +1,7 @@
+<physics>
+   <blueprint>rock</blueprint>
+   <ThrownByProjectiles>true</ThrownByProjectiles>
+   <Vehicle>false</Vehicle>
+   <PhysicsOnDeath>true</PhysicsOnDeath>
+   <!-- <CenterOffset>0.0 5.0 0.0</CenterOffset> -->
+</physics>
