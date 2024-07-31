@@ -1,0 +1,348 @@
+;### VERSION ###
+8213
+
+;### NODES ###
+1
+;	<name>
+;	<parent node index>
+;	<default rotation <i,j,k,w>>
+;	<default translation <x,y,z>>
+
+;NODE 0
+b_implied_root_node
+-1
+0.0000000000	0.0000000000	0.0000000000	1.0000000000
+0.0000000000	0.0000000000	0.0000000000
+
+;### MATERIALS ###
+1
+;	<name>
+;	<material name>
+
+;MATERIAL 0
+cov\cov_forcefield_gunroom
+(1) invalid invalid
+
+;### MARKERS ###
+4
+;	<name>
+;	<node index>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+;	<radius>
+
+;MARKER 0
+sound_1
+0
+0.0000000000	0.0000000000	0.0000000000	1.0000000000
+16.3846700000	271.6096000000	173.5399000000
+0.0100000000
+
+;MARKER 1
+sound_2
+0
+0.0000000000	0.0000000000	0.0000000000	1.0000000000
+16.3846700000	-96.5507700000	173.5399000000
+0.0100000000
+
+;MARKER 2
+sound_3
+0
+0.0000000000	0.0000000000	0.0000000000	1.0000000000
+16.3846700000	-499.3066000000	129.4544000000
+0.0100000000
+
+;MARKER 3
+sound_4
+0
+0.0000000000	0.0000000000	0.0000000000	1.0000000000
+16.3846700000	-865.7386000000	77.4828300000
+0.0100000000
+
+;### INSTANCE XREF PATHS ###
+0
+;	<path>
+;	<name>
+
+;### INSTANCE MARKERS ###
+0
+;	<name>
+;	<unique identifier>
+;	<path index>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+
+;### VERTICES ###
+12
+;	<position>
+;	<normal>
+;	<node influences count>
+;		<node influences <index, weight>>
+;		<...>
+;	<texture coordinate count>
+;		<texture coordinates <u,v>>
+;		<...>
+;		<vertex color <r,g,b>>
+;		<...>
+
+;VERTEX 0
+178.4993000000	435.2109000000	551.7946000000
+-0.9515095000	0.0003804530	0.3076191000
+1
+0
+1.0000000000
+1
+0.0004996061	0.7885850000
+0.0000000000	0.0000000000	0.0000000000
+
+;VERTEX 1
+0.0000610352	436.6278000000	-0.3308892000
+-0.9515538000	0.0001899270	0.3074822000
+1
+0
+1.0000000000
+1
+0.0004996061	0.0917631400
+0.0000000000	0.0000000000	0.0000000000
+
+;VERTEX 2
+178.3248000000	-1.1785510000	551.7946000000
+-0.9512880000	-0.0233574700	0.3074171000
+1
+0
+1.0000000000
+1
+0.2924061000	0.7885850000
+0.0000000000	0.0000000000	0.0000000000
+
+;VERTEX 3
+178.3248000000	-1.1785510000	551.7946000000
+-0.9512880000	-0.0233574700	0.3074171000
+1
+0
+1.0000000000
+1
+0.2924061000	0.7885850000
+0.0000000000	0.0000000000	0.0000000000
+
+;VERTEX 4
+0.0000610352	436.6278000000	-0.3308892000
+-0.9515538000	0.0001899270	0.3074822000
+1
+0
+1.0000000000
+1
+0.0004996061	0.0917631400
+0.0000000000	0.0000000000	0.0000000000
+
+;VERTEX 5
+0.0000610352	-1.1785510000	-0.3308892000
+-0.9513389000	-0.0233264000	0.3072623000
+1
+0
+1.0000000000
+1
+0.2987715000	0.0917503800
+0.0000000000	0.0000000000	0.0000000000
+
+;VERTEX 6
+178.3248000000	-1.1785510000	551.7946000000
+-0.9512880000	-0.0233574700	0.3074171000
+1
+0
+1.0000000000
+1
+0.2924061000	0.7885850000
+0.0000000000	0.0000000000	0.0000000000
+
+;VERTEX 7
+0.0000610352	-1.1785510000	-0.3308892000
+-0.9513389000	-0.0233264000	0.3072623000
+1
+0
+1.0000000000
+1
+0.2987715000	0.0917503800
+0.0000000000	0.0000000000	0.0000000000
+
+;VERTEX 8
+0.0000610352	-1012.8090000000	-110.3676000000
+-0.9510102000	-0.0335278100	0.3073363000
+1
+0
+1.0000000000
+1
+0.9890326000	-0.0470886200
+0.0000000000	0.0000000000	0.0000000000
+
+;VERTEX 9
+178.3248000000	-1.1785510000	551.7946000000
+-0.9512880000	-0.0233574700	0.3074171000
+1
+0
+1.0000000000
+1
+0.2924061000	0.7885850000
+0.0000000000	0.0000000000	0.0000000000
+
+;VERTEX 10
+0.0000610352	-1012.8090000000	-110.3676000000
+-0.9510102000	-0.0335278100	0.3073363000
+1
+0
+1.0000000000
+1
+0.9890326000	-0.0470886200
+0.0000000000	0.0000000000	0.0000000000
+
+;VERTEX 11
+178.3248000000	-1012.8090000000	441.1105000000
+-0.9509537000	-0.0336438700	0.3074984000
+1
+0
+1.0000000000
+1
+0.9882482000	0.6498352000
+0.0000000000	0.0000000000	0.0000000000
+
+;### TRIANGLES ###
+4
+;	<material index>
+;	<vertex indices <v0,v1,v2>>
+
+;TRIANGLE 0
+0
+0	1	2
+
+;TRIANGLE 1
+0
+3	4	5
+
+;TRIANGLE 2
+0
+6	7	8
+
+;TRIANGLE 3
+0
+9	10	11
+
+;### SPHERES ###
+0
+;	<name>
+;	<parent>
+;	<material>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+;	<radius>
+
+;### BOXES ###
+0
+;	<name>
+;	<parent>
+;	<material>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+;	<width (x)>
+;	<length (y)>
+;	<height (z)>
+
+;### CAPSULES ###
+0
+;	<name>
+;	<parent>
+;	<material>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+;	<height>
+;	<radius>
+
+;### CONVEX SHAPES ###
+0
+;	<name>
+;	<parent>
+;	<material>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+;	<vertex count>
+;	<...vertices>
+
+;### RAGDOLLS ###
+0
+;	<name>
+;	<attached index>
+;	<referenced index>
+;	<attached transform>
+;	<reference transform>
+;	<min twist>
+;	<max twist>
+;	<min cone>
+;	<max cone>
+;	<min plane>
+;	<max plane>
+;	<friction limit>
+
+;### HINGES ###
+0
+;	<name>
+;	<body A index>
+;	<body B index>
+;	<body A transform>
+;	<body B transform>
+;	<is limited>
+;	<friction limit>
+;	<min angle>
+;	<max angle
+
+;### CAR_WHEEL ###
+0
+;	<name>
+;	<chassis index>
+;	<wheel index>
+;	<chassis transform>
+;	<wheel transform>
+;	<suspension transform>
+;	<suspension min limit>
+;	<suspension max limit>
+;	<friction limit>
+;	<velocity>
+;	<gain>
+
+;### POINT_TO_POINT ###
+0
+;	<name>
+;	<body A index>
+;	<body B index>
+;	<body A transform>
+;	<body B transform>
+;	<constraint type>
+;	<x min limit>
+;	<x max limit>
+;	<y min limit>
+;	<y max limit>
+;	<z min limit>
+;	<z max limit>
+;	<spring length>
+
+;### PRISMATIC ###
+0
+;	<name>
+;	<body A index>
+;	<body B index>
+;	<body A transform>
+;	<body B transform>
+;	<is limited>
+;	<friction limit>
+;	<min limit>
+;	<max limit>
+
+;### BOUNDING SPHERE ###
+0
+;	<translation <x,y,z>>
+;	<radius>
+
+;### SKYLIGHT ###
+0
+;	<direction <x,y,z>>
+;	<radiant intensity <x,y,z>>
+;	<solid angle>
+
