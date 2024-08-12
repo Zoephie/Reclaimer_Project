@@ -1,0 +1,109 @@
+8200
+14689795
+0
+31
+reach_large_moon
+<none>
+reach_small_moon
+<none>
+theater_front
+<none>
+custom_midground
+<none>
+forge_back01
+<none>
+reach_debris_03
+<none>
+reach_debris_02
+<none>
+campaign_01_background
+<none>
+cards_background
+<none>
+cards_foreground
+<none>
+forge_background
+<none>
+forge_back02
+<none>
+forge_clouds
+<none>
+custom_background
+<none>
+cards_midground
+<none>
+forge_foreground
+<none>
+campaign_01_midground
+<none>
+theater_background
+<none>
+custom_front
+<none>
+cards_front
+<none>
+theater_interior
+<none>
+forge_midground
+<none>
+reach_debris_01
+<none>
+custom_foreground
+<none>
+theater_midground
+<none>
+campaign_01_explosion
+<none>
+reach_background
+<none>
+theater_foreground
+<none>
+campaign_01_front
+<none>
+reach_planet
+<none>
+blackness
+<none>
+0
+1
+Instances 028
+4
+0
+-823.501587	448.000000	-0.000068
+0.000000	0.000000	1.000000
+0
+0.000000
+0.000000
+1.000000
+0
+0
+-823.501587	-448.000000	-0.000068
+0.000000	0.000000	1.000000
+0
+0.000000
+0.000000
+0.000000
+0
+0
+823.498535	448.000000	-0.000068
+0.000000	0.000000	1.000000
+0
+0.000000
+1.000000
+1.000000
+0
+0
+823.498535	-448.000000	-0.000068
+0.000000	0.000000	1.000000
+0
+0.000000
+1.000000
+0.000000
+0
+2
+0
+28
+0	1	2
+0
+28
+3	2	1
