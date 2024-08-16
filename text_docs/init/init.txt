@@ -1,0 +1,161 @@
+;DEBUGGING
+;error_geometry_hide_all
+;debug_structure_automatic off
+;debug_objects on
+;debug_objects_bounding_spheres off
+;debug_objects_collision_models off
+;debug_objects_physics_models off
+;debug_objects_biped_physics_pills on
+;debug_objects_names on
+;debug_objects_unit_vectors on
+;game_tick_rate 30
+;debug_render_effects 1
+
+;CHEATS
+;cheat_infinite_ammo off
+;cheat_deathless_player on
+;game_difficulty heroic
+
+;PERFORMANCE
+;texture_cache_force_medium_detail on
+;bitmap_downsample 1
+;ssc_lightmap_shadow_extrusion 0
+;display_framerate 1
+;enable_dynamic_sound_cache on
+;run_game_scripts 0
+error_geometry_hide_all
+
+;CAMPAIGN
+;game_difficulty heroic
+;game_coop_players 2
+;game_start levels\solo\03a_oldmombasa\03a_oldmombasa
+;game_start levels\solo\05a_deltaapproach\05a_deltaapproach
+;game_start levels\solo\06b_floodzone\06b_floodzone
+
+;VS
+;game_multiplayer slayer
+;game_multiplayer king
+;game_splitscreen 1
+;game_start levels\multi\lockout\lockout
+;game_start levels\multi\coagulation\coagulation
+;game_start levels\multi\zanzibar\zanzibar
+
+;TEST
+;game_start scenarios\test\box\box_chucky
+;game_start scenarios\test\brute_test\brute_test
+;game_start scenarios\test\meat_grinder\meat_grinder
+;game_start scenarios\test\prisoner\prisoner
+;game_start test\cupertino\cupertino
+;game_start test\poopies\poopies
+;game_start test\onewayportals\onewayportals
+;game_start test\fog_bank\fog_bank
+
+;game_start levels\multi\z11_valhalla\z11_valhalla
+debug_load_panic_to_main_menu 1
+
+;TICKETTRACK - default device for writing dumps should be the hard drive
+hacked_default_storage_device 1
+
+;MUNGE
+;scenario_munge_empty on
+;scenario_munge_force_solo on
+;scenario_munge_remove_cinematics on
+;scenario_munge_add_single_bsp_zones on
+
+;DETERMINISM DEBUGGING - always on
+determinism_debug_manager_enable_logging 0
+determinism_debug_manager_enable_game_state_checksum 0
+determinism_debug_manager_enable_log_file_comparision_on_oos 0
+
+;DETERMINISM RICH DEBUGGING - TURN ON WHEN NEEDED
+
+;OBJECT
+;determinism_debug_manager_set_consumer_sample_level object 2
+
+;RANDOM SEED
+;determinism_debug_manager_enable_random_seed_logging 1
+
+;PLAYERS
+;determinism_debug_manager_set_consumer_sample_level players 2
+
+;AI
+;determinism_debug_manager_set_consumer_sample_level actor 2
+;determinism_debug_manager_set_consumer_sample_level squad 2
+;determinism_debug_manager_set_consumer_sample_level "squad group" 2
+;determinism_debug_manager_set_consumer_sample_level prop 2
+;determinism_debug_manager_set_consumer_sample_level prop_ref 2
+;determinism_debug_manager_set_consumer_sample_level tracking 2
+;determinism_debug_manager_set_consumer_sample_level "joint state" 2
+;determinism_debug_manager_set_consumer_sample_level "dynamic firing points" 2
+;determinism_debug_manager_set_consumer_sample_level clump 2
+;determinism_debug_manager_set_consumer_sample_level "vocalization records" 2
+;determinism_debug_manager_set_consumer_sample_level "command scripts" 2
+
+;EFFECTS
+;determinism_debug_manager_set_consumer_sample_level "effect" 2
+;determinism_debug_manager_set_consumer_sample_level "effect event" 2
+
+;HS
+;determinism_debug_manager_set_consumer_sample_level "det hs thread" 2
+
+;GENERIC GAME STATE CONSUMERS
+;determinism_debug_manager_set_consumer_sample_level "ai_reference_frame" 2
+;determinism_debug_manager_set_consumer_sample_level "ai globals" 2
+;determinism_debug_manager_set_consumer_sample_level "ai player state globals" 2
+
+;network
+net_never_timeout 1
+data_mine_enable 0
+
+;=======================================
+;EVENTS DATAMINE LEVEL
+;=======================================
+events_global_datamine critical
+;events_global_datamine error
+;events_global_datamine warning
+;events_global_datamine message
+;events_global_datamine status
+;events_global_datamine verbose
+
+;=======================================
+;EVENTS DEBUG LEVEL
+;=======================================
+events_global_debugger critical
+;events_global_debugger error
+;events_global_debugger warning
+;events_global_debugger message
+;events_global_debugger status
+;events_global_debugger verbose
+
+;=======================================
+;EVENTS LOG LEVEL
+;=======================================
+events_global_log critical
+;events_global_log error
+;events_global_log warning
+;events_global_log message
+;events_global_log status
+;events_global_log verbose
+
+;=======================================
+;EVENTS DISPLAY LEVEL
+;=======================================
+events_global_display critical 
+;events_global_display error
+;events_global_display warning
+;events_global_display message
+;events_global_display status
+;events_global_display verbose
+
+;SP TEST
+data_mine_set_display_mission_segment 1
+
+
+;*********************************
+;**     Spartans vs Elites     ***
+;*********************************
+; use elites vs spartan code
+;use_multiplayer_spawn_properties_from_scenario true
+
+; Toggle hold X to go to director cam (disabled for playtests)
+director_camera_switch_disable 0
